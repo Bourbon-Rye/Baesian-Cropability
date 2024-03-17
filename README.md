@@ -4,7 +4,7 @@ The project focuses on air quality relation to food crops productivity using dif
 
 ## Environment
 
-To set up the `baesians` environment, tweak first the bundled `environment.yml` file and replace the `prefix` parameter with the path to your conda or miniconda installation. I.e. replace `C:\Users\YSHebron\anaconda3\envs\baesians` with possibly `C:\Users\<username>\anaconda3\envs\baesians` if you're on Windows and using Anaconda, or `/home/<username>/miniconda3/envs/scl` if you're on Linux and using Miniconda.
+To set up the `baesians` environment, tweak first the bundled `environment.yml` file and replace the `prefix` parameter with the path to your Anaconda or Miniconda installation. I.e. replace `C:\Users\YSHebron\anaconda3\envs\baesians` with possibly `C:\Users\<username>\anaconda3\envs\baesians` if you're on Windows and using Anaconda, or `/home/<username>/miniconda3/envs/scl` if you're on Linux and using Miniconda.
 
 Then, create an environment using the bundled `environment.yml` file:
 
