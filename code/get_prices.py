@@ -1,4 +1,4 @@
-'''Scraper for PSA OpenStat Crop Prices using html.parser.
+'''Scraper for PSA OpenStat Crop Prices using html.parser. Parallelized version.
 Tested on New Series or 2018-based datasets from PSA.
 Tested on Farmgate, Wholesale, Retail, and Dealers prices.
 Would likely work for other PSA datasets, as long as they have a Year variable.
@@ -13,21 +13,30 @@ import requests
 import re
 import bs4
 from bs4 import BeautifulSoup
+import multiprocessing as mp
 
 # GLOBAL PARAMETERS
 debug = False
 base_url = "https://openstat.psa.gov.ph"
 url_file = "code/get_prices_urls.txt"
 writepath = "datasets/prices"
+parallel_mode = False
 # Plop all URLs to be scraped in url_file.
 # NOTE: URL pages must have the same format as https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__NFG/?tablelist=true
 # Files will be output onto writepath
 
 #######################
 
-def get_csv(url, filename):
+def get_csv(args):
+    url, filename = args
+    print(url)
+    print(filename)
+    
     browser = mechanicalsoup.StatefulBrowser(soup_config={"features": "html.parser"})
-    browser.open(url)
+    status = browser.open(url).status_code
+    if status != 200:
+        print("Breaking operation: Failed to establish connection.")
+        return
     page: bs4.BeautifulSoup = browser.page
     browser.select_form('form[method="post"]')
     # Important attributes: browser.page (a soup object) and browser.form
@@ -42,7 +51,7 @@ def get_csv(url, filename):
         )
     ]
     varnames.append("OutputFormats")
-    if "Year" not in varnames:
+    if "year" not in [var.lower() for var in varnames]:
         print("Breaking operation: No year variable in dataset.")
         return
     
@@ -95,53 +104,61 @@ def get_csv(url, filename):
             f.write(response.text.split("\n", 2)[2])
             
         # break # for debugging
-            
 
-# Prepare output directory
-if not os.path.exists(writepath):
-    os.makedirs(writepath)
 
-# Scrape URLs
-with open(url_file) as f:
-    for line in f:
-        url = line.strip()
-        page = requests.get(url)
-        soup = BeautifulSoup(page.content, "html.parser")
+if __name__ == "__main__":
+    # Prepare URLs that will be scraped
+    table_urls = []
+    filenames = []
+    with open(url_file) as f:
+        for line in f:
+            url = line.strip()
+            page = requests.get(url)
+            soup = BeautifulSoup(page.content, "html.parser")
 
-        # Collect hyperlinks from which to extract CSV files
-        # <a class="tablelist_linkHeading" href="/PXWeb/pxweb/en/DB/DB__2M__NFG/0032M4AFN01.px/?rxid=be2fff00-cee9-476f-9893-bdbf5199d519" id="ctl00_ContentPlaceHolderMain_TableList1_TableList1_LinkItemList_ctl01_lnkTableListItemText">Cereals: Farmgate Prices by Geolocation, Commodity, Year and Period</a>
-        # https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__NFG/0032M4AFN01.px
-        # cereals
-        # farmgate
-        # datasets/prices/farmgate_cereals
-        for child in soup.ol.children:
-            if child != "\n" and child.a is not None:
-                table_url = base_url + child.a["href"].split("?")[0][:-1]
-                if table_url[-5] == "A":
-                    continue  # avoid appendices
-                print(table_url)
-                text = str(child.a.string)
-                if "CPI" in table_url:
-                    text = text.replace("Consumer Price Index", "cpi")
-                    text = text.replace("Commodity Group", "cg")
-                    text = text.replace("Year-on-Year", "yoy")
-                    print(text)
-                    text = re.sub("\(.*\)", "", text)
-                    product = text.lower().replace(' ', '').replace(':', ',')
-                    price_type = "cpi"
-                elif ":" in text:
-                    product = text.split(':')[0].lower().replace(' ', '')
-                    price_type = text.split(':')[1].lower().split()[0]
-                else:
-                    product = text.lower().replace('\'', '').split()[-1]
-                    price_type = text.lower().replace('\'', '').split()[0]
-                    
-                nestedpath = f"{writepath}/{price_type}"
-                if not os.path.exists(nestedpath):
-                    os.makedirs(nestedpath)
-                    
-                filename = f"{nestedpath}/{price_type}_{product}"
-                print(filename)
-                get_csv(table_url, filename)
-                
-                # break # for debugging
+            # Collect hyperlinks from which to extract CSV files
+            # <a class="tablelist_linkHeading" href="/PXWeb/pxweb/en/DB/DB__2M__NFG/0032M4AFN01.px/?rxid=be2fff00-cee9-476f-9893-bdbf5199d519" id="ctl00_ContentPlaceHolderMain_TableList1_TableList1_LinkItemList_ctl01_lnkTableListItemText">Cereals: Farmgate Prices by Geolocation, Commodity, Year and Period</a>
+            # https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__NFG/0032M4AFN01.px
+            # cereals
+            # farmgate
+            # datasets/prices/farmgate_cereals
+            for child in soup.ol.children:
+                if child != "\n" and child.a is not None:
+                    table_url = base_url + child.a["href"].split("?")[0][:-1]
+                    if table_url[-5] == "A":
+                        continue  # avoid appendices
+                    # print(table_url)
+                    text = str(child.a.string)
+                    if "CPI" in table_url:
+                        text = text.replace("Consumer Price Index", "cpi")
+                        text = text.replace("Commodity Group", "cg")
+                        text = text.replace("Year-on-Year", "yoy")
+                        # print(text)
+                        text = re.sub("\(.*\)", "", text)
+                        product = text.lower().replace(' ', '').replace(':', ',')
+                        price_type = "cpi"
+                    elif ":" in text:
+                        product = text.split(':')[0].lower().replace(' ', '')
+                        price_type = text.split(':')[1].lower().split()[0]
+                    else:
+                        product = text.lower().replace('\'', '').split()[-1]
+                        price_type = text.lower().replace('\'', '').split()[0]
+                        
+                    nestedpath = f"{writepath}/{price_type}"
+                    if not os.path.exists(nestedpath):
+                        os.makedirs(nestedpath)
+                        
+                    filename = f"{nestedpath}/{price_type}_{product}"
+                    # print(filename)
+                    table_urls.append(table_url)
+                    filenames.append(filename)
+
+    # Scrape URLs, may be done in parallel
+    args = [pair for pair in zip(table_urls, filenames)]
+    if parallel_mode:
+        pool_size = mp.cpu_count()
+        with mp.Pool(pool_size) as pool:
+            pool.map(get_csv, args)
+    else:
+        for pair in args:
+            get_csv(pair)
