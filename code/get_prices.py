@@ -66,16 +66,16 @@ def get_csv(args):
     # Download per year, then join the tables
     # <option selected="selected" value="14">2024</option>
     value_year = {}
-    year_opts = page.find_all(name="option", string=re.compile("[1-3][0-9]{3}"))
+    year_opts = page.find_all(name="option", string=re.compile("(19|20)[0-9]{2}"))
     year_var_name = year_opts[0].parent["name"]
     year_var_tag = page.find(attrs={"name": year_var_name})
     for e in year_opts:
         e: bs4.Tag
         value_year[e["value"]] = e.string
-    print(value_year)   # {'14': '2024', '13': '2023', '12': '2022', '11': '2021',...}
+    # print(value_year)   # {'14': '2024', '13': '2023', '12': '2022', '11': '2021',...}
         
-    print(*varnames, sep="\n")
-    print(*options, sep="\n")
+    # print(*varnames, sep="\n")
+    # print(*options, sep="\n")
 
     # # Set OPTIONS for each VAR (including year var, but reset later)
     for i in range(len(select_tags)-1):
@@ -100,10 +100,13 @@ def get_csv(args):
 
         ## Download CSV
         with open(f"{filename}_{year}.csv", "w+", encoding="utf-8") as f:
+            print(f"{filename}_{year}.csv")
             # Remove first 2 lines from string
             f.write(response.text.split("\n", 2)[2])
             
         # break # for debugging
+    
+    print("=============\n")
 
 
 if __name__ == "__main__":
@@ -127,7 +130,6 @@ if __name__ == "__main__":
                     table_url = base_url + child.a["href"].split("?")[0][:-1]
                     if table_url[-5] == "A":
                         continue  # avoid appendices
-                    # print(table_url)
                     text = str(child.a.string)
                     if "CPI" in table_url:
                         text = text.replace("Consumer Price Index", "cpi")
@@ -149,7 +151,6 @@ if __name__ == "__main__":
                         os.makedirs(nestedpath)
                         
                     filename = f"{nestedpath}/{price_type}_{product}"
-                    # print(filename)
                     table_urls.append(table_url)
                     filenames.append(filename)
 
