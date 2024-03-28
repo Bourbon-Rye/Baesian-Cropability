@@ -1,7 +1,7 @@
 '''Scraper for PSA OpenStat Crop Prices using html.parser.
 Tested on New Series or 2018-based datasets from PSA.
 Tested on Farmgate, Wholesale, Retail, and Dealers prices.
-Would likely work for other PSA datasets.
+Would likely work for other PSA datasets, as long as they have a Year variable.
 Still bugged for CPI. Dataset too big even when downloaded per year,
 must also be downloaded per month (breaks if bycg or byregion).
 '''
