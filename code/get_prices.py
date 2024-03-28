@@ -136,11 +136,11 @@ with open(url_file) as f:
                     product = text.lower().replace('\'', '').split()[-1]
                     price_type = text.lower().replace('\'', '').split()[0]
                     
-                writepath = f"{writepath}/{price_type}"
-                if not os.path.exists(writepath):
-                    os.makedirs(writepath)
+                nestedpath = f"{writepath}/{price_type}"
+                if not os.path.exists(nestedpath):
+                    os.makedirs(nestedpath)
                     
-                filename = f"{writepath}/{price_type}_{product}"
+                filename = f"{nestedpath}/{price_type}_{product}"
                 print(filename)
                 get_csv(table_url, filename)
                 
