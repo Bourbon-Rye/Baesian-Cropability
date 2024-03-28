@@ -1,7 +1,9 @@
 '''Scraper for PSA OpenStat Crop Prices using html.parser.
 Tested on New Series or 2018-based datasets from PSA.
 Tested on Farmgate, Wholesale, Retail, and Dealers prices.
-Still bugged for CPI.
+Would likely work for other PSA datasets.
+Still bugged for CPI. Dataset too big even when downloaded per year,
+must also be downloaded per month (breaks if bycg or byregion).
 '''
 # NOTE: Must be run with cwd at repo root
 import os
@@ -18,20 +20,10 @@ base_url = "https://openstat.psa.gov.ph"
 url_file = "code/get_prices_urls.txt"
 writepath = "datasets/prices"
 # Plop all URLs to be scraped in url_file.
-# URL pages must have the same format as https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__NFG/?tablelist=true
+# NOTE: URL pages must have the same format as https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__NFG/?tablelist=true
 # Files will be output onto writepath
 
 #######################
-
-def del_attrib_from_children_of_tag(tag: bs4.Tag, attrib: str, parent=True):
-    """BUG: tag.next_sibling can be a newline '\\n'"""
-    if parent and isinstance(tag, bs4.Tag):
-        del_attrib_from_children_of_tag(tag.contents[0], attrib, False)
-    elif isinstance(tag, bs4.Tag):
-        del tag[attrib]
-        del_attrib_from_children_of_tag(tag.next_sibling, attrib, False)
-    else:
-        del_attrib_from_children_of_tag(tag.next_sibling, attrib, False)
 
 def get_csv(url, filename):
     browser = mechanicalsoup.StatefulBrowser(soup_config={"features": "html.parser"})
@@ -50,6 +42,9 @@ def get_csv(url, filename):
         )
     ]
     varnames.append("OutputFormats")
+    if "Year" not in varnames:
+        print("Breaking operation: No year variable in dataset.")
+        return
     
     options = []
     select_tags = page.select_one("#VariableSelection").find_all("select")
@@ -98,7 +93,9 @@ def get_csv(url, filename):
         with open(f"{filename}_{year}.csv", "w+", encoding="utf-8") as f:
             # Remove first 2 lines from string
             f.write(response.text.split("\n", 2)[2])
-
+            
+        # break # for debugging
+            
 
 # Prepare output directory
 if not os.path.exists(writepath):
@@ -130,7 +127,7 @@ with open(url_file) as f:
                     text = text.replace("Year-on-Year", "yoy")
                     print(text)
                     text = re.sub("\(.*\)", "", text)
-                    product = text.lower().replace(' ', '')
+                    product = text.lower().replace(' ', '').replace(':', ',')
                     price_type = "cpi"
                 elif ":" in text:
                     product = text.split(':')[0].lower().replace(' ', '')
@@ -138,7 +135,8 @@ with open(url_file) as f:
                 else:
                     product = text.lower().replace('\'', '').split()[-1]
                     price_type = text.lower().replace('\'', '').split()[0]
-                filename = f"{writepath}/{price_type}_{product}"
+                filename = f"{writepath}/{price_type}/{price_type}_{product}"
                 print(filename)
                 get_csv(table_url, filename)
-                break
+                
+                # break # for debugging
