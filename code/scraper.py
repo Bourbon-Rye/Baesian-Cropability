@@ -54,6 +54,7 @@ def get_csv(args):
     varnames.append("OutputFormats")
     if "year" not in [var.lower() for var in varnames]:
         print("Breaking operation: No year variable in dataset.")
+        print("=============\n")
         return
     
     options = []
@@ -92,11 +93,17 @@ def get_csv(args):
     # Submit request for each year, download each csv
     # <option selected="selected" value="13">2023</option>
     # <option value="12">2022</option>
+    failed = False
     for key in value_year:
         clear(year_var_tag, "selected")
         browser[year_var_name] = key
         year = value_year[key]
         response = browser.submit_selected(update_state=False)
+        # response:: header content-type is "text/html; charset=utf-8" for failed fetch,
+        # and application/octet-stream for successful fetch
+        if response.headers["content-type"] == "text/html; charset=utf-8":
+            failed = True
+            break
         # browser.form.print_summary()
 
         ## Download CSV
@@ -104,9 +111,47 @@ def get_csv(args):
             print(f"{filename}_{year}.csv")
             # Remove first 2 lines from string
             f.write(response.text.split("\n", 2)[2])
-            
-        # break # for debugging
+                
+    if not failed:
+        print("=============\n")
+        return
     
+    # Reattempt with per year, per month (period) this time
+    # NOTE: period is month (I assume)
+    if "period" not in [var.lower() for var in varnames]:
+        print("Breaking operation: No month variable in dataset.")
+        print("=============\n")
+        return
+    
+    value_month = {}
+    temp: bs4.Tag = page.find(name="span", string=re.compile("Period|Month", re.IGNORECASE))
+    month_opts = list(temp.parents)[2].find_all(name="option")
+    month_var_name = month_opts[0].parent["name"]
+    month_var_tag = page.find(attrs={"name": month_var_name})
+    # e is an <option> tag
+    for e in month_opts:
+        e: bs4.Tag
+        value_month[e["value"]] = e.string
+    # print(value_month)   # {'12': 'Ave', '11': 'Dec', '10': 'Nov', '9': 'Oct',...}
+    
+    for key1 in value_year:
+        clear(year_var_tag, "selected")
+        browser[year_var_name] = key1
+        year = value_year[key1]
+        
+        for key2 in value_month:
+            clear(month_var_tag, "selected")
+            browser[month_var_name] = key2
+            month = value_month[key2]
+            response = browser.submit_selected(update_state=False)
+            # browser.form.print_summary()
+
+            ## Download CSV
+            with open(f"{filename}_{year}_{month}.csv", "w+", encoding="utf-8") as f:
+                print(f"{filename}_{year}_{month}.csv")
+                # Remove first 2 lines from string
+                f.write(response.text.split("\n", 2)[2])
+                
     print("=============\n")
 
 
@@ -122,7 +167,7 @@ if __name__ == "__main__":
             soup = browser.page
             # soup = BeautifulSoup(page, "html.parser")
             print("OK:", url)
-            time.sleep(20)
+            time.sleep(5)
             # Collect hyperlinks from which to extract CSV files
             # <a class="tablelist_linkHeading" href="/PXWeb/pxweb/en/DB/DB__2M__NFG/0032M4AFN01.px/?rxid=be2fff00-cee9-476f-9893-bdbf5199d519" id="ctl00_ContentPlaceHolderMain_TableList1_TableList1_LinkItemList_ctl01_lnkTableListItemText">Cereals: Farmgate Prices by Geolocation, Commodity, Year and Period</a>
             # https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__NFG/0032M4AFN01.px
@@ -140,7 +185,7 @@ if __name__ == "__main__":
                         text = text.replace("Commodity Group", "cg")
                         text = text.replace("Year-on-Year", "yoy")
                         # print(text)
-                        text = re.sub("\(.*\)", "", text)
+                        text = re.sub("\(.*\)", "", text).strip()
                         product = text.lower().replace(' ', '').replace(':', ',')
                         price_type = "cpi"
                     elif ":" in text:
