@@ -104,7 +104,6 @@ def get_csv(args):
         if response.headers["content-type"] == "text/html; charset=utf-8":
             failed = True
             break
-        # browser.form.print_summary()
 
         ## Download CSV
         with open(f"{filename}_{year}.csv", "w+", encoding="utf-8") as f:
@@ -134,6 +133,7 @@ def get_csv(args):
         value_month[e["value"]] = e.string
     # print(value_month)   # {'12': 'Ave', '11': 'Dec', '10': 'Nov', '9': 'Oct',...}
     
+    failed = False
     for key1 in value_year:
         clear(year_var_tag, "selected")
         browser[year_var_name] = key1
@@ -144,6 +144,12 @@ def get_csv(args):
             browser[month_var_name] = key2
             month = value_month[key2]
             response = browser.submit_selected(update_state=False)
+            if response.status_code != 200:
+                # BUG: Not ours, but PSA's, gateway timeout on certain datasets
+                print(f"Bad response ({response.status_code}) (Year: {year})")
+                print("Attempting something drastic...\n")
+                failed = True
+                break
             # browser.form.print_summary()
 
             ## Download CSV
@@ -151,6 +157,56 @@ def get_csv(args):
                 print(f"{filename}_{year}_{month}.csv")
                 # Remove first 2 lines from string
                 f.write(response.text.split("\n", 2)[2])
+        else:
+            continue
+        break
+    
+    if not failed:
+        print("=============\n")
+        return
+    
+    # Reattempt with per year, per geolocation this time
+    if "geolocation" not in [var.lower() for var in varnames]:
+        print("Breaking operation: No geolocation variable in dataset.")
+        print("=============\n")
+        return
+    
+    value_geol = {}
+    temp: bs4.Tag = page.find(name="span", string=re.compile("Geolocation", re.IGNORECASE))
+    geol_opts = list(temp.parents)[2].find_all(name="option")
+    geol_var_name = geol_opts[0].parent["name"]
+    geol_var_tag = page.find(attrs={"name": geol_var_name})
+    # e is an <option> tag
+    for e in geol_opts:
+        e: bs4.Tag
+        value_geol[e["value"]] = e.string
+    # print(value_geol)   # {'12': 'Ave', '11': 'Dec', '10': 'Nov', '9': 'Oct',...}
+    
+    # Reselect all months (assumes Period is the penultimate variable)
+    browser[month_var_name] = options[-2]
+    
+    for key1 in value_year:
+        clear(year_var_tag, "selected")
+        browser[year_var_name] = key1
+        year = value_year[key1]
+        
+        for key2 in value_geol:
+            clear(geol_var_tag, "selected")
+            browser[geol_var_name] = key2
+            geol = value_geol[key2].strip(".")
+            response = browser.submit_selected(update_state=False)
+            if response.status_code != 200:
+                # BUG: Not ours, but PSA's, gateway timeout on certain datasets
+                print(f"Bad response ({response.status_code}) (Geolocation: {geol})\n")
+                print("Breaking operation! That's it! :<")
+                return
+            # browser.form.print_summary()
+
+            ## Download CSV
+            with open(f"{filename}_{year}_{geol}.csv", "w+", encoding="utf-8") as f:
+                # Remove first 2 lines from string
+                print(f"{filename}_{year}_{geol}.csv")
+                f.write(response.text.split("\n", 2)[2])    
                 
     print("=============\n")
 
@@ -184,9 +240,10 @@ if __name__ == "__main__":
                         text = text.replace("Consumer Price Index", "cpi")
                         text = text.replace("Commodity Group", "cg")
                         text = text.replace("Year-on-Year", "yoy")
+                        text = text.replace("(2018=100)", "")
                         # print(text)
-                        text = re.sub("\(.*\)", "", text).strip()
-                        product = text.lower().replace(' ', '').replace(':', ',')
+                        text = re.sub("\(Backcasted Values\)?", "", text).strip()
+                        product = text.lower().replace(' ', '').split(":")[0]
                         price_type = "cpi"
                     elif ":" in text:
                         product = text.split(':')[0].lower().replace(' ', '')
