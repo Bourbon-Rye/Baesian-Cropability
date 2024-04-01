@@ -1,0 +1,827 @@
+"Geolocation","Commodity","2021 January","2021 February","2021 March","2021 April","2021 May","2021 June","2021 July","2021 August","2021 September","2021 October","2021 November","2021 December","2021 Annual"
+"PHILIPPINES","RAW PEANUT, SHELLED, 1 KG",104.53,104.14,102.19,100.67,101.52,101.69,102.00,102.88,103.33,103.44,103.65,104.33,102.86
+"PHILIPPINES","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",116.58,120.57,120.57,120.57,120.13,121.89,117.02,115.91,113.68,113.68,118.13,118.25,118.08
+"PHILIPPINES","RAW PEANUT, UNSHELLED, 1 KG",89.64,89.55,88.23,85.47,87.24,89.25,88.36,89.32,90.59,88.97,90.05,91.71,89.03
+"PHILIPPINES","RAW PEANUT, WITHOUT SHELL, 1 KG",90.17,90.42,92.19,92.35,92.72,93.41,92.81,90.11,92.53,94.70,94.70,95.54,92.64
+"PHILIPPINES","STRING BEANS, 1 KG",75.26,73.42,66.91,61.89,58.71,61.03,58.26,62.32,62.27,61.82,60.74,65.42,64.00
+"PHILIPPINES","BAGUIO BEANS, 1 KG",111.76,93.41,82.91,79.60,77.37,91.33,85.47,88.92,87.84,87.93,100.78,93.80,90.09
+"PHILIPPINES","MONGGO, GREEN, 1 KG",96.75,97.56,99.52,99.26,98.38,97.18,98.05,99.74,100.66,100.82,101.16,101.88,99.25
+"..National Capital Region (NCR)","RAW PEANUT, SHELLED, 1 KG",98.47,97.88,93.20,92.96,89.89,88.44,89.81,93.78,89.81,96.14,100.18,101.04,94.30
+"..National Capital Region (NCR)","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..National Capital Region (NCR)","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..National Capital Region (NCR)","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..National Capital Region (NCR)","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..National Capital Region (NCR)","BAGUIO BEANS, 1 KG",103.47,81.53,76.63,76.47,78.85,127.83,95.88,98.51,95.88,104.87,109.90,85.19,94.58
+"..National Capital Region (NCR)","MONGGO, GREEN, 1 KG",100.32,101.01,100.50,100.64,100.36,100.60,99.51,99.70,99.51,105.85,104.97,104.00,101.41
+"..Cordillera Administrative Region (CAR)","RAW PEANUT, SHELLED, 1 KG",129.14,132.07,128.75,130.39,129.32,131.64,122.32,122.48,122.73,119.81,116.86,117.83,125.28
+"..Cordillera Administrative Region (CAR)","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..Cordillera Administrative Region (CAR)","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..Cordillera Administrative Region (CAR)","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..Cordillera Administrative Region (CAR)","STRING BEANS, 1 KG",72.47,62.36,50.53,47.69,43.11,47.87,51.90,60.95,59.27,57.49,55.93,61.30,55.91
+"..Cordillera Administrative Region (CAR)","BAGUIO BEANS, 1 KG",77.95,58.76,53.25,49.79,49.14,61.24,67.39,68.65,68.76,68.93,81.88,67.70,64.45
+"..Cordillera Administrative Region (CAR)","MONGGO, GREEN, 1 KG",118.19,117.06,113.72,108.48,107.47,106.52,105.48,106.10,107.14,107.77,107.14,107.26,109.36
+"....Abra","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Abra","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Abra","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Abra","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Abra","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Abra","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Abra","MONGGO, GREEN, 1 KG",132.50,126.25,116.25,106.25,96.25,93.75,95.00,95.00,95.00,95.00,95.00,95.00,103.44
+"....Apayao","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Apayao","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Apayao","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Apayao","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Apayao","STRING BEANS, 1 KG",71.41,72.53,63.00,54.68,50.22,53.56,51.88,56.75,58.75,61.88,60.00,58.75,59.45
+"....Apayao","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Apayao","MONGGO, GREEN, 1 KG",100.63,100.63,100.63,100.63,101.88,104.38,100.00,101.88,105.00,106.88,105.00,102.50,102.50
+"....Benguet","RAW PEANUT, SHELLED, 1 KG",92.00,95.00,93.00,92.00,92.00,92.00,89.00,89.00,89.00,76.50,76.50,72.50,87.38
+"....Benguet","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Benguet","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Benguet","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Benguet","STRING BEANS, 1 KG",64.38,56.25,47.50,50.00,46.25,48.75,56.88,78.75,71.88,66.25,63.38,67.38,59.80
+"....Benguet","BAGUIO BEANS, 1 KG",56.88,45.63,43.13,45.00,46.88,50.00,52.50,77.50,81.25,70.00,87.50,81.25,61.46
+"....Benguet","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ifugao","RAW PEANUT, SHELLED, 1 KG",115.71,121.43,117.14,125.71,121.43,125.71,128.57,128.57,128.57,128.57,114.29,117.14,122.74
+"....Ifugao","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ifugao","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ifugao","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ifugao","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ifugao","BAGUIO BEANS, 1 KG",68.57,58.57,54.29,51.43,40.71,62.14,87.14,65.71,57.14,57.14,85.00,52.14,61.67
+"....Ifugao","MONGGO, GREEN, 1 KG",121.43,124.29,124.29,118.57,124.29,121.43,121.43,121.43,121.43,121.43,121.43,124.29,122.15
+"....Kalinga","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Kalinga","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Kalinga","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Kalinga","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Kalinga","STRING BEANS, 1 KG",87.50,62.50,42.50,34.38,28.13,38.75,40.00,43.75,40.63,32.50,31.25,43.13,43.75
+"....Kalinga","BAGUIO BEANS, 1 KG",96.25,63.75,50.00,45.63,45.63,61.25,63.75,66.25,57.50,61.25,68.13,56.25,61.30
+"....Kalinga","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Mountain Province","RAW PEANUT, SHELLED, 1 KG",217.50,217.50,212.50,212.50,212.50,217.50,183.33,183.33,183.33,183.33,183.33,191.67,199.86
+"....Mountain Province","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Mountain Province","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Mountain Province","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Mountain Province","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Mountain Province","BAGUIO BEANS, 1 KG",93.75,66.25,62.50,48.13,51.25,67.50,65.00,61.25,72.50,74.38,84.38,73.75,68.39
+"....Mountain Province","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Baguio","RAW PEANUT, SHELLED, 1 KG",91.36,94.34,92.35,91.36,91.36,91.36,88.38,89.00,90.00,90.83,93.33,90.00,91.14
+"....City of Baguio","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Baguio","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Baguio","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Baguio","STRING BEANS, 1 KG",66.58,58.17,49.12,51.71,47.83,50.42,58.83,64.56,65.82,69.33,69.08,75.92,60.61
+"....City of Baguio","BAGUIO BEANS, 1 KG",74.29,59.60,56.33,58.77,61.23,65.31,68.58,72.56,75.42,81.88,84.38,75.13,69.46
+"....City of Baguio","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION I (ILOCOS REGION)","RAW PEANUT, SHELLED, 1 KG",97.19,97.19,96.94,96.25,96.57,97.19,97.19,97.19,97.19,97.19,97.19,97.19,97.04
+"..REGION I (ILOCOS REGION)","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION I (ILOCOS REGION)","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION I (ILOCOS REGION)","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION I (ILOCOS REGION)","STRING BEANS, 1 KG",83.62,57.75,39.53,46.13,43.63,57.26,52.64,82.50,64.58,65.21,53.13,64.79,59.23
+"..REGION I (ILOCOS REGION)","BAGUIO BEANS, 1 KG",127.50,96.25,76.88,80.63,75.63,120.63,86.88,113.13,102.50,110.63,135.63,96.25,101.88
+"..REGION I (ILOCOS REGION)","MONGGO, GREEN, 1 KG",94.83,92.40,97.96,95.65,92.17,94.42,95.25,96.58,98.17,97.75,98.58,98.58,96.03
+"....Ilocos Norte","RAW PEANUT, SHELLED, 1 KG",100.00,100.00,99.50,98.75,100.00,100.00,100.00,100.00,100.00,100.00,100.00,100.00,99.85
+"....Ilocos Norte","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Norte","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Norte","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Norte","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Norte","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Norte","MONGGO, GREEN, 1 KG",88.73,90.00,90.64,90.00,91.27,91.27,90.00,91.25,96.25,96.25,96.25,96.25,92.35
+"....Ilocos Sur","RAW PEANUT, SHELLED, 1 KG",94.38,94.38,94.38,93.75,93.13,94.38,94.38,94.38,94.38,94.38,94.38,94.38,94.22
+"....Ilocos Sur","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Sur","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Sur","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Sur","STRING BEANS, 1 KG",94.53,70.60,41.29,46.08,48.47,67.02,56.25,101.25,68.75,76.25,57.50,65.00,66.08
+"....Ilocos Sur","BAGUIO BEANS, 1 KG",137.50,122.50,83.75,83.75,78.75,112.50,93.75,111.25,106.25,111.25,128.75,85.00,104.58
+"....Ilocos Sur","MONGGO, GREEN, 1 KG",101.25,98.75,108.75,101.25,98.25,97.50,101.25,102.50,103.75,102.50,106.25,106.25,102.35
+"....La Union","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....La Union","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....La Union","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....La Union","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....La Union","STRING BEANS, 1 KG",90.00,39.38,30.63,45.63,41.88,56.25,55.00,85.00,62.50,51.25,50.00,63.13,55.89
+"....La Union","BAGUIO BEANS, 1 KG",117.50,70.00,70.00,77.50,72.50,128.75,80.00,115.00,98.75,110.00,142.50,107.50,99.17
+"....La Union","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Pangasinan","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Pangasinan","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Pangasinan","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Pangasinan","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Pangasinan","STRING BEANS, 1 KG",66.33,63.26,46.67,46.67,40.53,48.52,46.67,61.25,62.50,68.13,51.88,66.25,55.72
+"....Pangasinan","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Pangasinan","MONGGO, GREEN, 1 KG",94.50,88.44,94.50,95.71,86.99,94.50,94.50,96.00,94.50,94.50,93.25,93.25,93.39
+"..REGION II (CAGAYAN VALLEY)","RAW PEANUT, SHELLED, 1 KG",127.45,121.47,120.90,120.46,121.67,121.74,122.92,122.92,126.25,125.21,124.38,124.38,123.31
+"..REGION II (CAGAYAN VALLEY)","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION II (CAGAYAN VALLEY)","RAW PEANUT, UNSHELLED, 1 KG",64.55,64.55,62.51,62.51,63.26,64.16,63.42,63.89,64.51,63.86,63.89,63.89,63.75
+"..REGION II (CAGAYAN VALLEY)","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION II (CAGAYAN VALLEY)","STRING BEANS, 1 KG",118.50,93.94,74.07,48.98,56.90,87.52,75.00,70.00,59.17,61.67,74.17,92.71,76.05
+"..REGION II (CAGAYAN VALLEY)","BAGUIO BEANS, 1 KG",104.06,60.82,53.82,58.21,55.33,89.95,63.13,61.25,58.13,61.26,91.88,57.82,67.97
+"..REGION II (CAGAYAN VALLEY)","MONGGO, GREEN, 1 KG",84.49,80.84,85.70,83.87,83.87,83.27,88.13,88.13,79.38,86.88,89.38,88.13,85.17
+"....Batanes","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Batanes","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Batanes","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Batanes","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Batanes","STRING BEANS, 1 KG",103.34,133.90,129.53,91.69,93.15,109.15,106.25,98.75,92.50,95.00,141.25,157.50,112.67
+"....Batanes","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Batanes","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cagayan","RAW PEANUT, SHELLED, 1 KG",106.92,106.92,103.96,105.14,107.50,103.96,107.50,107.50,107.50,104.38,103.13,103.13,105.63
+"....Cagayan","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cagayan","RAW PEANUT, UNSHELLED, 1 KG",66.84,66.84,63.26,63.86,66.25,69.83,66.25,68.13,68.13,66.25,65.63,65.63,66.41
+"....Cagayan","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cagayan","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cagayan","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cagayan","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Isabela","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Isabela","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Isabela","RAW PEANUT, UNSHELLED, 1 KG",75.83,75.83,70.00,70.00,70.00,70.00,70.00,70.00,70.00,70.00,70.00,70.00,70.97
+"....Isabela","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Isabela","STRING BEANS, 1 KG",143.40,79.17,47.06,28.38,46.31,82.16,61.25,57.50,43.75,50.63,44.38,59.38,61.95
+"....Isabela","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Isabela","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Vizcaya","RAW PEANUT, SHELLED, 1 KG",181.67,165.00,165.00,165.00,165.00,165.00,165.00,165.00,165.00,165.00,165.00,165.00,166.39
+"....Nueva Vizcaya","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Vizcaya","RAW PEANUT, UNSHELLED, 1 KG",74.29,74.29,74.29,74.29,74.29,74.29,74.29,74.29,74.29,73.57,74.29,74.29,74.23
+"....Nueva Vizcaya","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Vizcaya","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Vizcaya","BAGUIO BEANS, 1 KG",89.37,59.14,53.88,54.54,51.91,74.90,51.25,51.25,52.50,50.63,86.25,59.38,61.25
+"....Nueva Vizcaya","MONGGO, GREEN, 1 KG",84.49,80.84,85.70,83.87,83.87,83.27,88.13,88.13,79.38,86.88,89.38,88.13,85.17
+"....Quirino","RAW PEANUT, SHELLED, 1 KG",93.75,92.50,93.75,91.25,92.50,96.25,96.25,96.25,106.25,106.25,105.00,105.00,97.92
+"....Quirino","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quirino","RAW PEANUT, UNSHELLED, 1 KG",41.25,41.25,42.50,41.88,42.50,42.50,43.13,43.13,45.63,45.63,45.63,45.63,43.39
+"....Quirino","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quirino","STRING BEANS, 1 KG",108.75,68.75,45.63,26.88,31.25,71.25,57.50,53.75,41.25,39.38,36.88,61.25,53.54
+"....Quirino","BAGUIO BEANS, 1 KG",118.75,62.50,53.75,61.88,58.75,105.00,75.00,71.25,63.75,71.88,97.50,56.25,74.69
+"....Quirino","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION III (CENTRAL LUZON)","RAW PEANUT, SHELLED, 1 KG",107.97,106.22,103.65,99.06,101.46,100.85,100.38,103.25,104.50,102.08,105.38,108.46,103.61
+"..REGION III (CENTRAL LUZON)","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION III (CENTRAL LUZON)","RAW PEANUT, UNSHELLED, 1 KG",117.29,117.29,113.19,102.28,106.38,113.20,110.47,111.00,106.63,100.63,103.75,108.44,109.21
+"..REGION III (CENTRAL LUZON)","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION III (CENTRAL LUZON)","STRING BEANS, 1 KG",122.50,86.25,76.88,73.75,67.50,75.63,60.63,80.63,80.63,87.50,76.25,98.75,82.24
+"..REGION III (CENTRAL LUZON)","BAGUIO BEANS, 1 KG",126.05,101.37,75.72,75.87,68.66,103.64,95.95,105.31,99.01,104.76,131.47,101.66,99.12
+"..REGION III (CENTRAL LUZON)","MONGGO, GREEN, 1 KG",110.37,108.00,107.53,107.39,106.84,104.65,105.41,106.37,107.44,105.42,106.73,108.72,107.07
+"....Aurora","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aurora","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aurora","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aurora","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aurora","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aurora","BAGUIO BEANS, 1 KG",131.25,81.25,75.00,71.25,65.00,91.25,101.25,97.50,97.50,93.75,117.50,93.75,93.02
+"....Aurora","MONGGO, GREEN, 1 KG",112.50,120.00,115.00,115.00,112.50,112.50,112.50,112.50,112.50,116.25,118.75,117.50,114.79
+"....Bataan","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bataan","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bataan","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bataan","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bataan","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bataan","BAGUIO BEANS, 1 KG",127.75,116.82,99.74,94.96,85.40,125.03,110.00,111.25,97.50,102.50,151.00,113.75,111.31
+"....Bataan","MONGGO, GREEN, 1 KG",112.65,110.06,108.77,105.54,110.72,106.18,108.13,106.88,109.38,109.38,116.88,114.38,109.91
+"....Bulacan","RAW PEANUT, SHELLED, 1 KG",105.64,107.46,98.35,100.17,97.45,95.63,95.63,96.25,96.25,96.25,96.25,96.25,98.47
+"....Bulacan","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bulacan","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bulacan","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bulacan","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bulacan","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bulacan","MONGGO, GREEN, 1 KG",108.93,110.54,108.93,107.59,107.59,106.25,106.25,106.25,106.25,106.25,105.00,108.13,107.33
+"....Nueva Ecija","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Ecija","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Ecija","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Ecija","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Ecija","STRING BEANS, 1 KG",122.50,86.25,76.88,73.75,67.50,75.63,60.63,80.63,80.63,87.50,76.25,98.75,82.24
+"....Nueva Ecija","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Ecija","MONGGO, GREEN, 1 KG",97.50,97.50,91.25,93.75,96.25,93.75,95.63,96.25,98.13,95.63,95.63,98.75,95.84
+"....Pampanga","RAW PEANUT, SHELLED, 1 KG",98.23,95.05,95.68,88.67,93.13,93.13,92.50,102.50,106.25,107.50,109.38,113.13,99.60
+"....Pampanga","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Pampanga","RAW PEANUT, UNSHELLED, 1 KG",121.44,121.44,117.20,105.90,110.14,117.20,114.38,112.50,106.25,101.25,102.50,106.88,111.42
+"....Pampanga","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Pampanga","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Pampanga","BAGUIO BEANS, 1 KG",121.45,87.86,74.30,78.56,68.48,121.46,115.00,115.00,102.50,115.00,131.25,82.50,101.11
+"....Pampanga","MONGGO, GREEN, 1 KG",101.56,91.80,93.75,96.35,97.01,93.75,93.75,103.75,103.75,100.00,96.25,100.63,97.70
+"....Tarlac","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tarlac","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tarlac","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tarlac","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tarlac","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tarlac","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tarlac","MONGGO, GREEN, 1 KG",123.96,121.73,128.44,123.96,113.51,113.51,115.00,115.63,116.25,116.25,116.25,118.75,118.60
+"....Zambales","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zambales","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zambales","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zambales","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zambales","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zambales","BAGUIO BEANS, 1 KG",168.59,148.56,90.14,91.81,85.13,120.19,103.50,115.25,109.75,111.00,154.88,131.75,119.21
+"....Zambales","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Angeles","RAW PEANUT, SHELLED, 1 KG",120.03,116.14,116.91,108.34,113.79,113.79,113.02,111.00,111.00,102.50,110.50,116.00,112.75
+"....City of Angeles","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Angeles","RAW PEANUT, UNSHELLED, 1 KG",113.13,113.13,109.18,98.66,102.61,109.19,106.56,109.50,107.00,100.00,105.00,110.00,107.00
+"....City of Angeles","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Angeles","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Angeles","BAGUIO BEANS, 1 KG",56.28,40.71,34.43,36.40,31.73,56.27,53.28,85.50,83.50,85.00,81.50,70.90,59.63
+"....City of Angeles","MONGGO, GREEN, 1 KG",115.48,104.38,106.59,109.55,110.30,106.59,106.59,103.33,105.83,94.17,98.33,102.92,105.34
+"....City of Olongapo","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Olongapo","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Olongapo","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Olongapo","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Olongapo","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Olongapo","BAGUIO BEANS, 1 KG",150.98,133.04,80.72,82.21,76.23,107.62,92.67,107.33,103.33,121.33,152.67,117.33,110.46
+"....City of Olongapo","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION IV-A (CALABARZON)","RAW PEANUT, SHELLED, 1 KG",93.39,94.29,94.27,94.27,94.27,94.50,94.50,94.50,94.92,95.75,96.58,97.00,94.85
+"..REGION IV-A (CALABARZON)","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION IV-A (CALABARZON)","RAW PEANUT, UNSHELLED, 1 KG",84.33,80.61,80.11,80.61,79.37,79.37,78.75,80.71,82.14,82.14,83.57,85.00,81.39
+"..REGION IV-A (CALABARZON)","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION IV-A (CALABARZON)","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION IV-A (CALABARZON)","BAGUIO BEANS, 1 KG",146.34,106.76,98.46,88.04,91.16,128.06,107.25,110.69,100.51,98.00,134.38,109.69,109.95
+"..REGION IV-A (CALABARZON)","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Batangas","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Batangas","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Batangas","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Batangas","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Batangas","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Batangas","BAGUIO BEANS, 1 KG",123.13,96.25,88.13,80.00,86.25,116.25,105.00,111.88,105.38,108.50,140.63,120.63,106.84
+"....Batangas","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cavite","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cavite","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cavite","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cavite","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cavite","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cavite","BAGUIO BEANS, 1 KG",169.55,117.27,108.79,96.07,96.07,139.87,109.50,109.50,95.63,87.50,128.13,98.75,113.05
+"....Cavite","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Laguna","RAW PEANUT, SHELLED, 1 KG",103.93,104.62,102.56,102.56,102.56,103.25,103.25,103.25,104.50,107.00,109.50,110.75,104.81
+"....Laguna","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Laguna","RAW PEANUT, UNSHELLED, 1 KG",84.33,80.61,80.11,80.61,79.37,79.37,78.75,80.71,82.14,82.14,83.57,85.00,81.39
+"....Laguna","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Laguna","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Laguna","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Laguna","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quezon","RAW PEANUT, SHELLED, 1 KG",88.25,89.25,90.25,90.25,90.25,90.25,90.25,90.25,90.25,90.25,90.25,90.25,90.00
+"....Quezon","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quezon","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quezon","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quezon","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quezon","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quezon","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Rizal","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Rizal","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Rizal","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Rizal","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Rizal","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Rizal","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Rizal","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Lucena","RAW PEANUT, SHELLED, 1 KG",88.00,89.00,90.00,90.00,90.00,90.00,90.00,90.00,90.00,90.00,90.00,90.00,89.75
+"....City of Lucena","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Lucena","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Lucena","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Lucena","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Lucena","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Lucena","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..MIMAROPA REGION","RAW PEANUT, SHELLED, 1 KG",111.00,109.40,111.54,102.52,104.49,101.32,104.89,104.89,113.21,116.84,107.75,109.82,108.14
+"..MIMAROPA REGION","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..MIMAROPA REGION","RAW PEANUT, UNSHELLED, 1 KG",136.05,134.67,131.90,116.68,118.06,119.44,119.44,119.44,119.44,119.44,124.50,136.17,124.60
+"..MIMAROPA REGION","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..MIMAROPA REGION","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..MIMAROPA REGION","BAGUIO BEANS, 1 KG",179.09,138.41,127.87,128.10,113.81,128.91,118.31,126.94,135.97,118.33,120.39,145.89,131.84
+"..MIMAROPA REGION","MONGGO, GREEN, 1 KG",89.75,90.57,93.07,94.64,91.12,90.45,92.93,97.67,95.65,98.15,99.81,102.52,94.69
+"....Marinduque","RAW PEANUT, SHELLED, 1 KG",88.47,95.23,89.60,89.60,102.56,95.80,94.67,94.67,108.33,103.33,94.67,94.67,95.97
+"....Marinduque","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Marinduque","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Marinduque","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Marinduque","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Marinduque","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Marinduque","MONGGO, GREEN, 1 KG",102.50,107.50,101.25,100.00,101.25,101.25,100.00,100.00,100.00,94.17,94.17,88.33,99.20
+"....Occidental Mindoro","RAW PEANUT, SHELLED, 1 KG",96.66,96.66,105.29,94.51,87.61,74.66,85.88,85.88,85.88,85.88,86.71,79.13,88.73
+"....Occidental Mindoro","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Occidental Mindoro","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Occidental Mindoro","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Occidental Mindoro","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Occidental Mindoro","BAGUIO BEANS, 1 KG",224.58,159.38,141.99,152.13,128.23,142.72,127.50,127.50,127.50,102.50,101.25,122.50,138.15
+"....Occidental Mindoro","MONGGO, GREEN, 1 KG",86.18,85.00,86.18,81.46,82.64,80.28,85.00,85.00,85.00,88.75,91.25,88.75,85.46
+"....Oriental Mindoro","RAW PEANUT, SHELLED, 1 KG",90.85,84.08,81.82,81.82,82.95,82.38,81.25,81.25,117.50,138.75,123.75,138.75,98.76
+"....Oriental Mindoro","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Oriental Mindoro","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Oriental Mindoro","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Oriental Mindoro","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Oriental Mindoro","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Oriental Mindoro","MONGGO, GREEN, 1 KG",96.61,99.38,98.12,98.12,98.12,91.83,99.38,98.13,90.00,96.25,98.75,105.00,97.47
+"....Palawan","RAW PEANUT, SHELLED, 1 KG",130.01,128.69,126.04,111.49,112.81,114.13,114.13,114.13,114.13,111.63,111.63,116.00,117.07
+"....Palawan","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Palawan","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Palawan","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Palawan","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Palawan","BAGUIO BEANS, 1 KG",135.78,111.09,104.92,100.81,92.58,105.95,98.75,110.00,126.25,110.00,115.00,142.50,112.80
+"....Palawan","MONGGO, GREEN, 1 KG",96.25,97.39,97.39,104.26,99.68,101.97,96.25,105.13,103.88,103.88,106.38,108.38,101.74
+"....Romblon","RAW PEANUT, SHELLED, 1 KG",83.13,76.63,95.00,86.00,87.50,85.63,98.13,98.13,98.13,98.13,98.13,98.13,91.89
+"....Romblon","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Romblon","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Romblon","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Romblon","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Romblon","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Romblon","MONGGO, GREEN, 1 KG",58.36,54.37,75.68,77.19,62.88,62.88,78.32,90.00,90.00,93.75,95.00,110.00,79.04
+"....City of Puerto Princesa","RAW PEANUT, SHELLED, 1 KG",176.89,175.09,171.49,151.70,153.50,155.30,155.30,155.30,155.30,163.30,131.63,132.25,156.42
+"....City of Puerto Princesa","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Puerto Princesa","RAW PEANUT, UNSHELLED, 1 KG",136.05,134.67,131.90,116.68,118.06,119.44,119.44,119.44,119.44,119.44,124.50,136.17,124.60
+"....City of Puerto Princesa","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Puerto Princesa","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Puerto Princesa","BAGUIO BEANS, 1 KG",176.92,144.75,136.71,131.35,120.63,138.05,128.67,143.33,154.17,142.50,144.92,172.67,144.56
+"....City of Puerto Princesa","MONGGO, GREEN, 1 KG",98.62,99.79,99.79,106.83,102.14,104.49,98.63,107.73,105.00,112.08,113.33,114.67,105.26
+"..REGION V (BICOL REGION)","RAW PEANUT, SHELLED, 1 KG",99.63,100.18,101.04,100.13,101.58,100.76,100.09,101.88,97.55,97.17,100.29,101.57,100.16
+"..REGION V (BICOL REGION)","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION V (BICOL REGION)","RAW PEANUT, UNSHELLED, 1 KG",84.73,85.50,85.24,84.83,88.27,83.50,83.11,87.42,95.53,91.65,91.32,91.46,87.71
+"..REGION V (BICOL REGION)","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION V (BICOL REGION)","STRING BEANS, 1 KG",107.70,96.43,82.85,81.60,70.22,65.88,62.56,71.20,68.61,61.33,70.28,71.88,75.88
+"..REGION V (BICOL REGION)","BAGUIO BEANS, 1 KG",160.44,124.31,103.69,93.64,94.87,105.64,100.42,99.83,110.58,93.96,110.46,101.75,108.30
+"..REGION V (BICOL REGION)","MONGGO, GREEN, 1 KG",112.63,111.96,111.52,109.44,107.10,106.32,107.83,109.63,111.08,111.33,111.03,115.85,110.48
+"....Albay","RAW PEANUT, SHELLED, 1 KG",103.49,104.07,105.54,105.54,111.81,106.55,105.38,110.63,110.00,114.50,114.50,114.50,108.88
+"....Albay","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Albay","RAW PEANUT, UNSHELLED, 1 KG",77.44,78.66,78.05,78.66,82.92,73.78,75.00,83.75,96.25,95.63,95.63,94.38,84.18
+"....Albay","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Albay","STRING BEANS, 1 KG",96.40,80.04,71.37,60.52,57.36,54.92,51.25,71.25,78.13,63.75,73.13,71.25,69.11
+"....Albay","BAGUIO BEANS, 1 KG",141.71,107.76,98.17,86.36,78.98,84.14,77.50,85.00,105.00,72.50,83.75,83.13,92.00
+"....Albay","MONGGO, GREEN, 1 KG",114.33,111.90,113.12,113.12,109.47,109.47,108.25,114.50,124.38,118.13,115.63,122.50,114.57
+"....Camarines Norte","RAW PEANUT, SHELLED, 1 KG",82.64,84.78,86.93,85.86,85.86,85.86,83.71,88.00,84.43,83.00,84.43,85.86,85.11
+"....Camarines Norte","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camarines Norte","RAW PEANUT, UNSHELLED, 1 KG",92.30,94.69,97.09,95.90,95.90,95.90,93.50,93.50,103.33,103.33,103.33,103.33,97.68
+"....Camarines Norte","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camarines Norte","STRING BEANS, 1 KG",102.52,98.84,88.48,87.52,58.89,64.48,54.25,62.13,47.25,47.00,60.50,65.00,69.74
+"....Camarines Norte","BAGUIO BEANS, 1 KG",171.51,129.14,115.10,102.85,98.64,125.81,129.00,119.75,113.50,117.13,130.63,113.88,122.25
+"....Camarines Norte","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camarines Sur","RAW PEANUT, SHELLED, 1 KG",105.23,105.23,105.91,105.91,106.88,106.88,106.88,108.75,98.33,98.33,98.33,98.33,103.75
+"....Camarines Sur","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camarines Sur","RAW PEANUT, UNSHELLED, 1 KG",84.45,83.16,80.57,79.92,86.00,80.83,80.83,85.00,87.00,76.00,75.00,76.67,81.29
+"....Camarines Sur","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camarines Sur","STRING BEANS, 1 KG",171.29,145.60,113.48,117.76,102.77,83.50,83.50,97.25,94.88,81.25,91.25,93.75,106.36
+"....Camarines Sur","BAGUIO BEANS, 1 KG",168.11,136.02,97.81,91.70,106.98,106.98,94.75,94.75,113.25,92.25,117.00,108.25,110.65
+"....Camarines Sur","MONGGO, GREEN, 1 KG",112.38,118.77,122.60,120.05,109.83,104.72,112.38,112.50,110.00,110.00,110.00,116.25,113.29
+"....Catanduanes","RAW PEANUT, SHELLED, 1 KG",102.00,102.00,102.00,102.00,102.00,102.00,102.00,102.00,95.00,90.00,97.50,102.50,100.08
+"....Catanduanes","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Catanduanes","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Catanduanes","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Catanduanes","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Catanduanes","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Catanduanes","MONGGO, GREEN, 1 KG",103.46,100.92,106.50,103.46,103.46,106.00,106.00,106.13,103.50,103.50,102.00,100.50,103.79
+"....Masbate","RAW PEANUT, SHELLED, 1 KG",104.81,104.81,104.81,101.35,101.35,102.50,102.50,100.00,100.00,100.00,106.67,106.67,102.96
+"....Masbate","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Masbate","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Masbate","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Masbate","STRING BEANS, 1 KG",60.60,61.24,58.08,60.61,61.87,60.61,61.25,54.17,54.17,53.33,56.25,57.50,58.31
+"....Masbate","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Masbate","MONGGO, GREEN, 1 KG",107.27,102.50,100.12,95.35,100.12,100.12,102.50,105.00,107.50,110.00,107.50,120.00,104.83
+"....Sorsogon","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sorsogon","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sorsogon","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sorsogon","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sorsogon","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sorsogon","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sorsogon","MONGGO, GREEN, 1 KG",125.72,125.72,115.24,115.24,112.62,111.31,110.00,110.00,110.00,115.00,120.00,120.00,115.90
+"..REGION VI (WESTERN VISAYAS)","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VI (WESTERN VISAYAS)","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VI (WESTERN VISAYAS)","RAW PEANUT, UNSHELLED, 1 KG",84.06,84.06,84.06,85.28,85.28,87.11,88.33,88.33,88.33,88.33,88.33,88.33,86.65
+"..REGION VI (WESTERN VISAYAS)","RAW PEANUT, WITHOUT SHELL, 1 KG",80.48,79.97,82.92,80.23,79.33,78.56,79.33,74.33,77.33,80.00,80.00,80.00,79.37
+"..REGION VI (WESTERN VISAYAS)","STRING BEANS, 1 KG",52.52,56.52,49.74,50.17,48.96,49.95,49.58,57.87,59.12,59.10,70.37,72.66,56.38
+"..REGION VI (WESTERN VISAYAS)","BAGUIO BEANS, 1 KG",116.55,95.78,85.08,78.35,81.98,79.20,87.73,94.50,88.77,89.29,123.25,126.63,95.59
+"..REGION VI (WESTERN VISAYAS)","MONGGO, GREEN, 1 KG",86.25,100.00,106.25,102.50,102.50,90.00,90.00,95.00,92.50,95.00,95.00,92.50,95.63
+"....Aklan","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aklan","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aklan","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aklan","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aklan","STRING BEANS, 1 KG",54.62,44.87,36.40,27.29,24.01,28.79,25.00,60.00,52.50,41.25,53.75,58.75,42.27
+"....Aklan","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aklan","MONGGO, GREEN, 1 KG",86.25,100.00,106.25,102.50,102.50,90.00,90.00,95.00,92.50,95.00,95.00,92.50,95.63
+"....Antique","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Antique","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Antique","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Antique","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Antique","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Antique","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Antique","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Capiz","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Capiz","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Capiz","RAW PEANUT, UNSHELLED, 1 KG",84.06,84.06,84.06,85.28,85.28,87.11,88.33,88.33,88.33,88.33,88.33,88.33,86.65
+"....Capiz","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Capiz","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Capiz","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Capiz","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Guimaras","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Guimaras","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Guimaras","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Guimaras","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Guimaras","STRING BEANS, 1 KG",47.56,51.28,53.51,53.51,53.51,55.00,55.00,55.00,61.67,58.33,61.67,61.67,55.64
+"....Guimaras","BAGUIO BEANS, 1 KG",108.78,94.38,73.59,60.79,83.20,67.20,80.00,86.67,80.00,70.00,104.17,125.00,86.15
+"....Guimaras","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Iloilo","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Iloilo","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Iloilo","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Iloilo","RAW PEANUT, WITHOUT SHELL, 1 KG",80.48,79.97,82.92,80.23,79.33,78.56,79.33,74.33,77.33,80.00,80.00,80.00,79.37
+"....Iloilo","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Iloilo","BAGUIO BEANS, 1 KG",134.66,94.52,88.05,82.87,81.58,85.46,86.75,98.00,78.00,84.25,136.50,136.50,98.93
+"....Iloilo","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Occidental","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Occidental","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Occidental","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Occidental","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Occidental","STRING BEANS, 1 KG",56.98,68.62,57.59,63.31,62.50,61.27,62.50,60.63,60.63,58.13,87.38,91.88,65.95
+"....Negros Occidental","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Occidental","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Bacolod","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Bacolod","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Bacolod","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Bacolod","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Bacolod","STRING BEANS, 1 KG",50.91,61.30,51.45,56.56,55.83,54.74,55.83,55.83,61.67,78.67,78.67,78.33,61.65
+"....City of Bacolod","BAGUIO BEANS, 1 KG",95.45,104.86,95.45,91.42,86.04,83.35,102.17,102.17,103.00,108.00,108.00,111.50,99.28
+"....City of Bacolod","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Iloilo","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Iloilo","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Iloilo","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Iloilo","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Iloilo","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Iloilo","BAGUIO BEANS, 1 KG",127.29,89.35,83.23,78.33,77.11,80.78,82.00,91.17,94.08,94.92,144.33,133.50,98.01
+"....City of Iloilo","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VII (CENTRAL VISAYAS)","RAW PEANUT, SHELLED, 1 KG",118.56,118.56,106.34,106.34,106.62,108.89,109.85,110.85,112.91,113.15,115.09,115.33,111.87
+"..REGION VII (CENTRAL VISAYAS)","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VII (CENTRAL VISAYAS)","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VII (CENTRAL VISAYAS)","RAW PEANUT, WITHOUT SHELL, 1 KG",95.02,95.65,96.83,98.41,99.41,100.84,99.56,98.00,100.14,102.06,102.06,103.31,99.27
+"..REGION VII (CENTRAL VISAYAS)","STRING BEANS, 1 KG",90.22,89.88,96.73,78.82,75.65,71.57,65.65,63.75,74.86,75.15,59.03,59.97,75.11
+"..REGION VII (CENTRAL VISAYAS)","BAGUIO BEANS, 1 KG",99.25,92.87,89.13,81.90,86.96,81.39,75.40,77.00,81.88,75.32,70.63,83.44,82.93
+"..REGION VII (CENTRAL VISAYAS)","MONGGO, GREEN, 1 KG",86.96,85.21,89.66,99.01,102.76,101.36,98.44,99.69,93.63,90.32,88.63,89.88,93.80
+"....Bohol","RAW PEANUT, SHELLED, 1 KG",84.31,84.31,84.89,84.89,85.94,86.88,86.88,86.25,92.50,92.50,92.50,92.50,87.86
+"....Bohol","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bohol","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bohol","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bohol","STRING BEANS, 1 KG",102.22,99.66,76.66,70.92,56.22,63.89,57.50,53.75,59.38,65.63,54.38,48.13,67.36
+"....Bohol","BAGUIO BEANS, 1 KG",128.41,105.97,98.49,99.74,94.75,86.65,78.29,74.00,87.50,80.63,71.25,88.13,91.15
+"....Bohol","MONGGO, GREEN, 1 KG",89.80,85.02,88.79,97.22,107.28,105.77,102.50,105.63,96.75,92.63,89.25,89.25,95.82
+"....Cebu","RAW PEANUT, SHELLED, 1 KG",105.01,105.01,90.86,90.86,90.86,92.88,93.88,93.88,101.38,101.38,101.38,101.38,97.40
+"....Cebu","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cebu","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cebu","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cebu","STRING BEANS, 1 KG",58.45,58.53,66.91,52.31,51.19,46.65,42.50,58.50,92.50,76.25,66.88,65.00,61.31
+"....Cebu","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cebu","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Oriental","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Oriental","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Oriental","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Oriental","RAW PEANUT, WITHOUT SHELL, 1 KG",84.92,86.19,89.99,93.16,94.43,94.55,91.25,88.13,93.13,96.25,96.25,98.75,92.25
+"....Negros Oriental","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Oriental","BAGUIO BEANS, 1 KG",70.09,79.76,79.76,64.05,79.16,76.13,72.50,80.00,76.25,70.00,70.00,78.75,74.70
+"....Negros Oriental","MONGGO, GREEN, 1 KG",84.11,85.39,90.53,100.80,98.23,96.95,94.38,93.75,90.50,88.00,88.00,90.50,91.76
+"....Siquijor","RAW PEANUT, SHELLED, 1 KG",87.70,87.70,86.49,86.49,87.10,89.39,90.00,90.00,88.57,90.00,90.00,91.43,88.74
+"....Siquijor","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Siquijor","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Siquijor","RAW PEANUT, WITHOUT SHELL, 1 KG",105.11,105.11,103.66,103.66,104.39,107.13,107.86,107.86,107.14,107.86,107.86,107.86,106.29
+"....Siquijor","STRING BEANS, 1 KG",62.67,62.67,72.85,65.08,67.99,65.08,62.67,79.17,76.67,78.33,76.67,79.17,70.75
+"....Siquijor","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Siquijor","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Cebu","RAW PEANUT, SHELLED, 1 KG",135.15,135.15,116.94,116.94,116.94,119.54,120.83,120.83,120.83,120.83,120.83,120.83,122.14
+"....City of Cebu","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Cebu","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Cebu","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Cebu","STRING BEANS, 1 KG",96.84,96.97,110.85,86.67,84.82,77.29,70.42,47.50,77.00,77.08,36.25,50.00,75.97
+"....City of Cebu","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Cebu","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Lapu-lapu","RAW PEANUT, SHELLED, 1 KG",130.49,130.49,112.91,112.91,112.91,115.42,116.67,123.33,123.33,123.33,135.00,135.00,122.65
+"....City of Lapu-lapu","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Lapu-lapu","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Lapu-lapu","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Lapu-lapu","STRING BEANS, 1 KG",154.70,154.90,177.07,138.44,135.49,123.47,112.50,89.42,89.42,89.42,55.83,55.83,114.71
+"....City of Lapu-lapu","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Lapu-lapu","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Mandaue","RAW PEANUT, SHELLED, 1 KG",168.70,168.70,145.97,145.97,145.97,149.22,150.83,150.83,150.83,150.83,150.83,150.83,152.46
+"....City of Mandaue","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Mandaue","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Mandaue","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Mandaue","STRING BEANS, 1 KG",66.45,66.54,76.06,59.47,58.20,53.04,48.33,54.17,54.17,64.17,64.17,61.67,60.54
+"....City of Mandaue","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Mandaue","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VIII (EASTERN VISAYAS)","RAW PEANUT, SHELLED, 1 KG",91.09,91.61,91.15,87.95,90.57,92.04,92.89,92.89,92.89,92.89,92.89,92.89,91.81
+"..REGION VIII (EASTERN VISAYAS)","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VIII (EASTERN VISAYAS)","RAW PEANUT, UNSHELLED, 1 KG",95.91,96.56,96.56,92.00,95.25,97.86,99.17,99.17,99.17,99.17,99.17,99.17,97.43
+"..REGION VIII (EASTERN VISAYAS)","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VIII (EASTERN VISAYAS)","STRING BEANS, 1 KG",82.48,88.78,100.07,95.20,94.40,82.93,77.46,79.08,84.17,90.58,85.17,92.58,87.74
+"..REGION VIII (EASTERN VISAYAS)","BAGUIO BEANS, 1 KG",111.56,123.10,116.94,101.59,101.40,103.65,95.04,94.46,90.84,93.34,94.59,98.00,102.04
+"..REGION VIII (EASTERN VISAYAS)","MONGGO, GREEN, 1 KG",96.16,97.43,98.06,99.68,100.24,99.48,99.12,104.99,106.38,106.85,106.67,106.17,101.77
+"....Biliran","RAW PEANUT, SHELLED, 1 KG",101.09,101.09,101.09,101.09,101.09,101.09,102.50,102.50,102.50,102.50,102.50,102.50,101.80
+"....Biliran","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Biliran","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Biliran","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Biliran","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Biliran","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Biliran","MONGGO, GREEN, 1 KG",102.51,101.24,105.04,101.24,101.24,94.91,101.88,101.25,101.25,98.75,102.50,102.50,101.19
+"....Eastern Samar","RAW PEANUT, SHELLED, 1 KG",112.02,114.62,114.62,104.20,112.02,114.62,113.33,113.33,113.33,113.33,113.33,113.33,112.67
+"....Eastern Samar","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Eastern Samar","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Eastern Samar","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Eastern Samar","STRING BEANS, 1 KG",93.45,103.51,126.51,115.01,100.63,86.25,80.50,79.75,86.25,96.75,94.25,96.50,96.61
+"....Eastern Samar","BAGUIO BEANS, 1 KG",124.53,134.70,127.08,109.29,119.46,116.92,106.75,107.25,100.00,105.00,107.50,111.00,114.12
+"....Eastern Samar","MONGGO, GREEN, 1 KG",115.24,118.12,115.24,115.24,115.24,123.88,121.00,119.75,119.75,121.00,121.00,121.00,118.87
+"....Leyte","RAW PEANUT, SHELLED, 1 KG",83.25,83.25,83.25,79.57,82.73,85.89,88.00,88.00,88.00,88.00,88.00,88.00,85.50
+"....Leyte","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Leyte","RAW PEANUT, UNSHELLED, 1 KG",95.10,95.74,95.74,91.22,94.45,97.04,98.33,98.33,98.33,98.33,98.33,98.33,96.61
+"....Leyte","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Leyte","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Leyte","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Leyte","MONGGO, GREEN, 1 KG",85.03,86.14,87.25,93.36,93.36,87.25,87.25,105.63,115.38,115.38,115.38,116.00,98.95
+"....Northern Samar","RAW PEANUT, SHELLED, 1 KG",102.33,102.33,100.06,100.63,100.63,100.06,100.63,100.63,100.63,100.63,100.63,100.63,100.82
+"....Northern Samar","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Northern Samar","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Northern Samar","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Northern Samar","STRING BEANS, 1 KG",69.00,72.83,83.70,84.33,90.08,88.80,86.88,87.50,82.50,91.25,86.25,101.25,85.36
+"....Northern Samar","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Northern Samar","MONGGO, GREEN, 1 KG",97.57,100.04,103.75,98.81,96.34,104.99,103.75,105.00,103.75,105.00,102.50,95.00,101.38
+"....Samar","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Samar","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Samar","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Samar","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Samar","STRING BEANS, 1 KG",85.00,90.00,90.00,86.25,92.50,73.75,65.00,70.00,83.75,83.75,75.00,80.00,81.25
+"....Samar","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Samar","MONGGO, GREEN, 1 KG",92.50,95.00,92.50,98.75,102.50,98.75,101.25,98.75,100.00,98.75,96.25,95.63,97.55
+"....Southern Leyte","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Southern Leyte","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Southern Leyte","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Southern Leyte","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Southern Leyte","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Southern Leyte","BAGUIO BEANS, 1 KG",98.58,111.49,106.80,93.89,83.33,90.37,83.33,81.67,81.67,81.67,81.67,85.00,89.96
+"....Southern Leyte","MONGGO, GREEN, 1 KG",90.83,90.83,90.83,92.15,94.78,94.78,86.88,86.25,86.25,88.75,88.75,88.75,89.99
+"....City of Tacloban","RAW PEANUT, SHELLED, 1 KG",56.75,56.75,56.75,54.24,56.40,58.56,60.00,60.00,60.00,60.00,60.00,60.00,58.29
+"....City of Tacloban","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Tacloban","RAW PEANUT, UNSHELLED, 1 KG",96.72,97.37,97.37,92.77,96.05,98.68,100.00,100.00,100.00,100.00,100.00,100.00,98.25
+"....City of Tacloban","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Tacloban","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Tacloban","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Tacloban","MONGGO, GREEN, 1 KG",89.46,90.63,91.80,98.23,98.23,91.80,91.80,118.30,118.30,120.30,120.30,124.30,104.45
+"..REGION IX (ZAMBOANGA PENINSULA)","RAW PEANUT, SHELLED, 1 KG",103.84,103.20,96.92,92.90,95.42,96.57,96.11,96.11,91.88,91.04,91.88,93.19,95.76
+"..REGION IX (ZAMBOANGA PENINSULA)","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION IX (ZAMBOANGA PENINSULA)","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION IX (ZAMBOANGA PENINSULA)","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION IX (ZAMBOANGA PENINSULA)","STRING BEANS, 1 KG",64.18,62.90,53.77,52.25,51.60,58.41,50.77,48.69,47.28,47.45,47.75,50.82,52.99
+"..REGION IX (ZAMBOANGA PENINSULA)","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION IX (ZAMBOANGA PENINSULA)","MONGGO, GREEN, 1 KG",96.21,91.36,95.85,98.73,96.15,95.85,96.06,92.74,98.52,98.38,98.20,99.41,96.46
+"....Zamboanga del Norte","RAW PEANUT, SHELLED, 1 KG",107.30,107.30,91.27,87.57,92.50,92.50,92.50,92.50,93.13,93.13,93.13,93.75,94.72
+"....Zamboanga del Norte","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Norte","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Norte","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Norte","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Norte","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Norte","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Sur","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Sur","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Sur","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Sur","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Sur","STRING BEANS, 1 KG",56.47,63.42,59.07,54.73,56.47,59.94,51.25,46.25,53.13,50.63,50.00,53.13,54.54
+"....Zamboanga del Sur","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Sur","MONGGO, GREEN, 1 KG",123.74,115.91,122.18,126.10,122.18,122.18,123.75,107.13,127.00,128.25,125.63,126.63,122.56
+"....Zamboanga Sibugay","RAW PEANUT, SHELLED, 1 KG",100.04,98.14,100.31,100.31,101.67,103.03,101.67,101.67,88.33,85.00,85.00,85.00,95.85
+"....Zamboanga Sibugay","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga Sibugay","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga Sibugay","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga Sibugay","STRING BEANS, 1 KG",40.22,39.66,39.11,39.11,30.30,33.05,32.50,29.17,28.33,31.67,35.00,40.83,34.91
+"....Zamboanga Sibugay","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga Sibugay","MONGGO, GREEN, 1 KG",82.27,76.22,83.48,88.32,84.69,83.48,81.67,85.00,89.17,86.67,88.33,88.33,84.80
+"....City of Isabela","RAW PEANUT, SHELLED, 1 KG",104.17,104.17,99.17,90.83,92.08,94.17,94.17,94.17,94.17,95.00,97.50,100.83,96.70
+"....City of Isabela","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Isabela","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Isabela","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Isabela","STRING BEANS, 1 KG",82.91,61.92,36.21,40.41,42.51,58.78,49.33,49.33,49.33,49.17,49.33,49.33,51.55
+"....City of Isabela","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Isabela","MONGGO, GREEN, 1 KG",91.82,91.82,91.82,91.82,91.82,91.82,91.82,91.82,91.82,92.50,92.50,92.50,91.99
+"....Zamboanga City","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga City","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga City","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga City","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga City","STRING BEANS, 1 KG",77.12,86.61,80.67,74.75,77.12,81.86,70.00,70.00,58.33,58.33,56.67,60.00,70.96
+"....Zamboanga City","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga City","MONGGO, GREEN, 1 KG",87.00,81.49,85.90,88.66,85.90,85.90,87.00,87.00,86.08,86.08,86.33,90.17,86.46
+"..REGION X (NORTHERN MINDANAO)","RAW PEANUT, SHELLED, 1 KG",90.41,87.86,87.86,94.69,87.86,90.79,95.67,101.56,96.13,97.79,97.79,97.79,93.85
+"..REGION X (NORTHERN MINDANAO)","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION X (NORTHERN MINDANAO)","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION X (NORTHERN MINDANAO)","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION X (NORTHERN MINDANAO)","STRING BEANS, 1 KG",52.83,58.25,54.86,49.45,47.41,47.41,49.45,50.12,48.76,48.76,48.80,47.37,50.29
+"..REGION X (NORTHERN MINDANAO)","BAGUIO BEANS, 1 KG",72.32,68.93,62.16,58.77,60.47,59.90,55.38,55.38,56.35,57.32,57.32,57.32,60.14
+"..REGION X (NORTHERN MINDANAO)","MONGGO, GREEN, 1 KG",94.99,97.24,98.36,98.92,98.92,98.36,101.17,100.61,100.04,100.04,100.61,100.61,99.16
+"....Bukidnon","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bukidnon","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bukidnon","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bukidnon","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bukidnon","STRING BEANS, 1 KG",48.75,53.75,50.63,45.63,43.75,43.75,45.63,46.25,45.00,45.00,45.03,43.71,46.41
+"....Bukidnon","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bukidnon","MONGGO, GREEN, 1 KG",105.63,108.13,109.38,110.00,110.00,109.38,112.50,111.88,111.25,111.25,111.88,111.88,110.26
+"....Camiguin","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camiguin","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camiguin","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camiguin","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camiguin","STRING BEANS, 1 KG",85.64,94.43,88.94,80.16,76.86,76.86,80.16,81.25,79.05,79.05,79.11,76.79,81.53
+"....Camiguin","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camiguin","MONGGO, GREEN, 1 KG",100.04,102.41,103.59,104.18,104.18,103.59,106.55,105.96,105.37,105.37,105.96,105.96,104.43
+"....Lanao del Norte","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Norte","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Norte","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Norte","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Norte","STRING BEANS, 1 KG",48.18,53.12,50.04,45.10,43.24,43.24,45.10,45.71,44.47,44.47,44.50,43.20,45.86
+"....Lanao del Norte","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Norte","MONGGO, GREEN, 1 KG",94.66,96.90,98.02,98.57,98.57,98.02,100.82,100.26,99.70,99.70,100.26,100.26,98.81
+"....Misamis Occidental","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Occidental","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Occidental","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Occidental","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Occidental","STRING BEANS, 1 KG",62.37,68.77,64.77,58.38,55.97,55.97,58.38,59.17,57.57,57.57,57.61,55.92,59.37
+"....Misamis Occidental","BAGUIO BEANS, 1 KG",93.05,88.69,79.97,75.61,77.80,77.07,71.25,71.25,72.50,73.75,73.75,73.75,77.37
+"....Misamis Occidental","MONGGO, GREEN, 1 KG",98.70,101.04,102.21,102.79,102.79,102.21,105.12,104.54,103.96,103.96,104.54,104.54,103.03
+"....Misamis Oriental","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Oriental","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Oriental","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Oriental","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Oriental","STRING BEANS, 1 KG",50.94,56.17,52.91,47.68,45.72,45.72,47.68,48.33,47.02,47.02,47.06,45.68,48.49
+"....Misamis Oriental","BAGUIO BEANS, 1 KG",56.96,54.29,48.95,46.29,47.63,47.18,43.62,43.62,44.38,45.15,45.15,45.15,47.36
+"....Misamis Oriental","MONGGO, GREEN, 1 KG",88.99,91.09,92.15,92.67,92.67,92.15,94.78,94.25,93.72,93.72,94.25,94.25,92.89
+"....City of Cagayan De Oro","RAW PEANUT, SHELLED, 1 KG",98.76,95.98,95.98,103.44,95.98,99.18,104.51,110.94,105.02,106.83,106.83,106.83,102.52
+"....City of Cagayan De Oro","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Cagayan De Oro","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Cagayan De Oro","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Cagayan De Oro","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Cagayan De Oro","BAGUIO BEANS, 1 KG",66.96,63.82,57.54,54.41,55.98,55.46,51.27,51.27,52.17,53.07,53.07,53.07,55.67
+"....City of Cagayan De Oro","MONGGO, GREEN, 1 KG",93.01,95.22,96.32,96.86,96.86,96.32,99.06,98.52,97.96,97.96,98.52,98.52,97.09
+"....City of Iligan","RAW PEANUT, SHELLED, 1 KG",82.05,79.74,79.74,85.94,79.74,82.40,86.83,92.17,87.25,88.75,88.75,88.75,85.18
+"....City of Iligan","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Iligan","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Iligan","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Iligan","STRING BEANS, 1 KG",21.08,23.24,21.89,19.73,18.92,18.92,19.73,20.00,19.46,19.46,19.47,18.90,20.07
+"....City of Iligan","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Iligan","MONGGO, GREEN, 1 KG",83.88,85.87,86.86,87.35,87.35,86.86,89.34,88.84,88.34,88.34,88.84,88.84,87.56
+"..REGION XI (DAVAO REGION)","RAW PEANUT, SHELLED, 1 KG",118.99,118.72,114.05,113.75,113.25,110.95,112.17,110.72,109.27,110.04,115.98,113.23,113.43
+"..REGION XI (DAVAO REGION)","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XI (DAVAO REGION)","RAW PEANUT, UNSHELLED, 1 KG",78.26,78.26,73.37,75.00,75.00,75.00,75.00,77.50,78.33,86.67,90.00,91.67,79.51
+"..REGION XI (DAVAO REGION)","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XI (DAVAO REGION)","STRING BEANS, 1 KG",51.88,58.48,49.81,49.81,48.57,53.02,57.81,62.63,61.50,58.78,57.36,61.79,55.95
+"..REGION XI (DAVAO REGION)","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XI (DAVAO REGION)","MONGGO, GREEN, 1 KG",86.82,93.34,97.46,97.40,96.98,93.55,93.38,96.76,102.98,102.70,103.39,103.74,97.38
+"....Davao de Oro (Compostela Valley)","RAW PEANUT, SHELLED, 1 KG",103.33,101.03,101.03,103.33,103.33,103.33,103.33,100.00,98.75,101.25,101.25,101.25,101.77
+"....Davao de Oro (Compostela Valley)","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao de Oro (Compostela Valley)","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao de Oro (Compostela Valley)","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao de Oro (Compostela Valley)","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao de Oro (Compostela Valley)","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao de Oro (Compostela Valley)","MONGGO, GREEN, 1 KG",91.02,93.58,97.43,97.43,102.56,100.00,100.00,111.25,116.25,113.75,115.00,112.50,104.23
+"....Davao del Norte","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Norte","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Norte","RAW PEANUT, UNSHELLED, 1 KG",78.26,78.26,73.37,75.00,75.00,75.00,75.00,77.50,78.33,86.67,90.00,91.67,79.51
+"....Davao del Norte","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Norte","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Norte","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Norte","MONGGO, GREEN, 1 KG",77.50,83.75,86.25,87.50,85.00,86.25,85.00,86.25,91.25,92.50,92.50,92.50,87.19
+"....Davao del Sur","RAW PEANUT, SHELLED, 1 KG",118.00,115.25,112.50,112.50,112.50,112.50,112.50,112.86,113.33,111.67,113.33,113.33,113.36
+"....Davao del Sur","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Sur","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Sur","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Sur","STRING BEANS, 1 KG",43.13,43.13,40.63,40.63,40.63,44.50,53.00,63.88,58.75,55.00,48.75,59.38,49.28
+"....Davao del Sur","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Sur","MONGGO, GREEN, 1 KG",76.92,84.36,88.71,88.08,86.22,80.88,81.13,82.14,97.00,95.88,99.88,98.13,88.28
+"....Davao Occidental","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Occidental","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Occidental","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Occidental","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Occidental","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Occidental","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Occidental","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Oriental","RAW PEANUT, SHELLED, 1 KG",118.26,125.40,112.66,109.16,107.15,97.96,102.86,100.00,100.00,100.00,116.00,106.67,108.01
+"....Davao Oriental","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Oriental","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Oriental","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Oriental","STRING BEANS, 1 KG",48.23,68.02,48.23,48.23,44.52,48.23,41.43,45.00,48.75,48.33,45.00,45.00,48.25
+"....Davao Oriental","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Oriental","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Davao","RAW PEANUT, SHELLED, 1 KG",136.36,133.18,130.00,130.00,130.00,130.00,130.00,130.00,125.00,127.25,133.33,131.67,130.57
+"....City of Davao","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Davao","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Davao","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Davao","STRING BEANS, 1 KG",64.29,64.29,60.56,60.56,60.56,66.33,79.00,79.00,77.00,73.00,78.33,81.00,70.33
+"....City of Davao","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Davao","MONGGO, GREEN, 1 KG",101.83,111.68,117.43,116.60,114.14,107.07,107.40,107.40,107.40,108.67,106.17,111.83,109.80
+"..REGION XII (SOCCSKSARGEN)","RAW PEANUT, SHELLED, 1 KG",84.80,85.09,86.34,86.53,89.17,91.03,92.95,96.25,96.53,97.00,98.31,98.27,91.86
+"..REGION XII (SOCCSKSARGEN)","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XII (SOCCSKSARGEN)","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XII (SOCCSKSARGEN)","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XII (SOCCSKSARGEN)","STRING BEANS, 1 KG",63.48,53.03,47.28,43.63,45.20,57.03,58.60,61.10,56.49,52.45,48.94,57.64,53.74
+"..REGION XII (SOCCSKSARGEN)","BAGUIO BEANS, 1 KG",87.40,86.86,78.66,78.71,78.78,87.78,82.94,79.36,75.18,75.02,76.87,84.98,81.05
+"..REGION XII (SOCCSKSARGEN)","MONGGO, GREEN, 1 KG",85.73,89.64,94.30,85.77,85.29,84.36,87.81,86.80,87.55,88.59,88.42,88.69,87.75
+"....Cotabato (North Cotabato)","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cotabato (North Cotabato)","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cotabato (North Cotabato)","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cotabato (North Cotabato)","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cotabato (North Cotabato)","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cotabato (North Cotabato)","BAGUIO BEANS, 1 KG",75.70,86.09,89.06,78.67,72.73,81.64,71.25,71.25,73.13,71.88,74.38,77.50,76.94
+"....Cotabato (North Cotabato)","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sarangani","RAW PEANUT, SHELLED, 1 KG",96.67,96.67,97.69,96.42,96.42,96.67,96.67,100.00,97.50,97.50,102.50,103.33,98.17
+"....Sarangani","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sarangani","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sarangani","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sarangani","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sarangani","BAGUIO BEANS, 1 KG",94.61,94.61,84.45,81.91,81.27,77.46,80.00,75.00,60.00,61.88,66.25,83.75,78.43
+"....Sarangani","MONGGO, GREEN, 1 KG",80.00,85.00,87.50,85.38,83.50,81.63,79.38,83.13,81.88,81.25,80.00,81.88,82.54
+"....South Cotabato","RAW PEANUT, SHELLED, 1 KG",70.78,71.92,74.66,74.20,77.85,82.87,84.13,99.00,100.38,101.75,101.75,102.00,86.77
+"....South Cotabato","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....South Cotabato","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....South Cotabato","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....South Cotabato","STRING BEANS, 1 KG",60.27,50.35,44.89,41.42,42.91,54.14,55.63,61.13,55.38,43.45,39.00,47.88,49.70
+"....South Cotabato","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....South Cotabato","MONGGO, GREEN, 1 KG",87.34,95.53,96.59,83.50,83.37,80.73,88.13,84.75,83.88,85.13,83.25,84.88,86.42
+"....Sultan Kudarat","RAW PEANUT, SHELLED, 1 KG",72.60,72.60,74.25,76.73,83.66,85.81,92.25,87.25,89.25,89.75,89.75,88.50,83.53
+"....Sultan Kudarat","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sultan Kudarat","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sultan Kudarat","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sultan Kudarat","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sultan Kudarat","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sultan Kudarat","MONGGO, GREEN, 1 KG",85.03,90.18,97.91,82.45,77.95,79.88,83.75,83.75,86.25,92.50,95.63,93.75,87.42
+"....City of Cotabato","RAW PEANUT, SHELLED, 1 KG",99.15,99.15,98.75,98.75,98.75,98.75,98.75,98.75,99.00,99.00,99.25,99.25,98.94
+"....City of Cotabato","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Cotabato","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Cotabato","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Cotabato","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Cotabato","BAGUIO BEANS, 1 KG",64.15,64.15,70.99,84.14,95.18,97.80,102.00,108.00,104.50,104.50,103.00,103.00,91.78
+"....City of Cotabato","MONGGO, GREEN, 1 KG",79.08,71.20,82.01,84.58,88.86,89.72,89.72,89.72,89.72,89.72,90.12,90.12,86.21
+"....City of General Santos","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of General Santos","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of General Santos","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of General Santos","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of General Santos","STRING BEANS, 1 KG",66.69,55.71,49.67,45.83,47.48,59.91,61.56,61.06,57.59,61.44,58.87,67.40,57.77
+"....City of General Santos","BAGUIO BEANS, 1 KG",115.14,102.58,70.13,70.13,65.94,94.20,78.50,63.17,63.08,61.83,63.83,75.67,77.02
+"....City of General Santos","MONGGO, GREEN, 1 KG",97.19,106.31,107.49,92.93,92.79,89.85,98.08,92.67,96.00,94.33,93.08,92.83,96.13
+"..REGION XIII (Caraga)","RAW PEANUT, SHELLED, 1 KG",103.77,101.57,110.39,110.39,117.03,112.60,111.88,113.13,110.63,106.02,110.63,116.88,110.41
+"..REGION XIII (Caraga)","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",116.58,120.57,120.57,120.57,120.13,121.89,117.02,115.91,113.68,113.68,118.13,118.25,118.08
+"..REGION XIII (Caraga)","RAW PEANUT, UNSHELLED, 1 KG",112.77,112.77,116.94,116.94,116.94,137.83,130.00,125.00,125.00,117.00,119.00,121.00,120.93
+"..REGION XIII (Caraga)","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XIII (Caraga)","STRING BEANS, 1 KG",74.12,94.12,84.04,81.58,70.53,64.87,60.19,59.42,62.93,61.52,62.11,66.49,70.16
+"..REGION XIII (Caraga)","BAGUIO BEANS, 1 KG",87.84,88.32,88.82,86.24,79.25,72.84,78.32,76.77,79.79,89.50,81.46,88.37,83.13
+"..REGION XIII (Caraga)","MONGGO, GREEN, 1 KG",94.76,98.87,105.69,107.81,106.99,102.90,102.36,100.28,104.22,104.01,104.02,101.79,102.81
+"....Agusan del Norte","RAW PEANUT, SHELLED, 1 KG",103.77,101.57,110.39,110.39,117.03,112.60,111.88,113.13,110.63,106.02,110.63,116.88,110.41
+"....Agusan del Norte","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Norte","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Norte","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Norte","STRING BEANS, 1 KG",67.55,91.76,81.56,81.56,61.17,56.07,52.25,50.00,63.51,56.06,58.41,63.24,65.26
+"....Agusan del Norte","BAGUIO BEANS, 1 KG",71.25,76.25,78.75,83.75,72.50,61.25,67.50,70.60,78.10,66.90,66.82,77.14,72.57
+"....Agusan del Norte","MONGGO, GREEN, 1 KG",92.25,96.88,101.25,102.50,102.50,95.00,93.75,92.50,100.00,99.81,97.28,92.13,97.15
+"....Agusan del Sur","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Sur","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",110.00,120.00,120.00,120.00,120.00,120.00,110.00,106.67,100.00,100.00,100.00,100.00,110.56
+"....Agusan del Sur","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Sur","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Sur","STRING BEANS, 1 KG",60.00,86.25,75.00,68.75,60.00,60.00,50.00,53.13,48.75,47.50,41.88,43.75,57.92
+"....Agusan del Sur","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Sur","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Dinagat Islands","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Dinagat Islands","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",106.67,106.67,106.67,106.67,106.67,106.67,106.67,106.67,106.67,106.67,120.00,120.00,108.89
+"....Dinagat Islands","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Dinagat Islands","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Dinagat Islands","STRING BEANS, 1 KG",63.76,78.12,71.99,69.69,71.22,63.18,56.67,59.45,68.61,66.11,68.33,69.17,67.19
+"....Dinagat Islands","BAGUIO BEANS, 1 KG",92.32,87.59,85.22,86.40,81.67,81.67,81.67,85.83,90.00,90.00,98.33,88.33,87.42
+"....Dinagat Islands","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Norte","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Norte","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Norte","RAW PEANUT, UNSHELLED, 1 KG",112.77,112.77,116.94,116.94,116.94,137.83,130.00,125.00,125.00,117.00,119.00,121.00,120.93
+"....Surigao del Norte","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Norte","STRING BEANS, 1 KG",84.38,100.00,90.00,82.50,79.38,70.00,67.50,74.38,71.25,71.25,71.88,72.50,77.92
+"....Surigao del Norte","BAGUIO BEANS, 1 KG",92.50,90.00,90.00,80.00,81.25,75.00,87.50,83.75,90.00,140.00,85.00,91.25,90.52
+"....Surigao del Norte","MONGGO, GREEN, 1 KG",87.90,90.36,101.53,105.21,102.75,106.47,107.50,102.50,105.00,103.75,106.25,105.71,102.08
+"....Surigao del Sur","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Sur","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",133.07,135.05,135.05,135.05,133.73,139.00,134.38,134.38,134.38,134.38,134.38,134.75,134.80
+"....Surigao del Sur","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Sur","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Sur","STRING BEANS, 1 KG",76.51,82.89,73.96,75.24,67.59,63.13,63.13,53.75,55.63,53.13,58.13,65.63,65.73
+"....Surigao del Sur","BAGUIO BEANS, 1 KG",98.75,97.50,96.88,81.88,75.00,73.75,75.00,70.00,65.00,75.00,75.00,80.00,80.31
+"....Surigao del Sur","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Butuan","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Butuan","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Butuan","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Butuan","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Butuan","STRING BEANS, 1 KG",92.53,125.70,111.73,111.73,83.80,76.82,71.58,65.82,69.83,75.09,74.05,84.66,86.95
+"....City of Butuan","BAGUIO BEANS, 1 KG",84.36,90.28,93.24,99.16,85.84,72.52,79.92,73.68,75.85,75.61,82.13,105.13,84.81
+"....City of Butuan","MONGGO, GREEN, 1 KG",104.14,109.37,114.30,115.71,115.71,107.24,105.83,105.83,107.67,108.46,108.54,107.54,109.20
+"..AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)","RAW PEANUT, SHELLED, 1 KG",70.29,70.75,71.70,71.70,71.70,71.74,72.54,72.54,73.44,72.49,72.62,73.61,72.09
+"..AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)","STRING BEANS, 1 KG",44.46,44.46,44.46,44.46,44.46,44.46,46.77,49.21,58.72,58.72,58.72,58.72,49.80
+"..AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)","MONGGO, GREEN, 1 KG",88.41,90.06,89.40,90.54,90.58,90.82,90.00,95.71,96.16,94.01,94.15,93.04,91.91
+"....Basilan","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Basilan","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Basilan","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Basilan","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Basilan","STRING BEANS, 1 KG",53.41,53.41,53.41,53.41,53.41,53.41,53.41,56.20,61.44,61.44,61.44,61.44,56.32
+"....Basilan","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Basilan","MONGGO, GREEN, 1 KG",86.69,88.71,88.71,88.71,89.36,90.00,90.00,95.71,95.71,87.14,87.14,87.14,89.59
+"....Lanao del Sur","RAW PEANUT, SHELLED, 1 KG",93.08,94.14,95.20,95.20,95.20,95.20,95.20,95.20,98.50,95.20,94.87,97.83,95.40
+"....Lanao del Sur","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Sur","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Sur","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Sur","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Sur","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Sur","MONGGO, GREEN, 1 KG",93.09,96.55,95.01,97.06,93.53,93.27,90.00,95.71,97.49,97.49,98.03,95.00,95.19
+"....Maguindanao","RAW PEANUT, SHELLED, 1 KG",60.77,60.77,62.33,62.33,62.33,62.33,64.67,64.67,64.67,64.67,64.67,64.67,63.24
+"....Maguindanao","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Maguindanao","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Maguindanao","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Maguindanao","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Maguindanao","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Maguindanao","MONGGO, GREEN, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sulu","RAW PEANUT, SHELLED, 1 KG",57.03,57.36,57.58,57.58,57.58,57.69,57.75,57.75,57.16,57.60,58.33,58.33,57.64
+"....Sulu","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sulu","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sulu","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sulu","STRING BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sulu","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sulu","MONGGO, GREEN, 1 KG",88.87,89.99,88.87,88.87,89.44,90.00,90.00,95.71,95.71,95.71,95.71,100.00,92.41
+"....Tawi-Tawi","RAW PEANUT, SHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tawi-Tawi","RAW PEANUT, SHELLED, RED COLOR, NATIVE, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tawi-Tawi","RAW PEANUT, UNSHELLED, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tawi-Tawi","RAW PEANUT, WITHOUT SHELL, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tawi-Tawi","STRING BEANS, 1 KG",35.52,35.52,35.52,35.52,35.52,35.52,40.13,42.22,56.01,56.01,56.01,56.01,43.29
+"....Tawi-Tawi","BAGUIO BEANS, 1 KG",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tawi-Tawi","MONGGO, GREEN, 1 KG",85.00,85.00,85.00,87.50,90.00,90.00,90.00,95.71,95.71,95.71,95.71,90.00,90.45

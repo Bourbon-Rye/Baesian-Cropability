@@ -14,6 +14,7 @@ import re
 import bs4
 from bs4 import BeautifulSoup
 import multiprocessing as mp
+import time
 
 # GLOBAL PARAMETERS
 debug = False
@@ -116,9 +117,12 @@ if __name__ == "__main__":
     with open(url_file) as f:
         for line in f:
             url = line.strip()
-            page = requests.get(url)
-            soup = BeautifulSoup(page.content, "html.parser")
-
+            browser = mechanicalsoup.StatefulBrowser()
+            print(browser.open(url).status_code)        # don't comment out this line
+            soup = browser.page
+            # soup = BeautifulSoup(page, "html.parser")
+            print("OK:", url)
+            time.sleep(20)
             # Collect hyperlinks from which to extract CSV files
             # <a class="tablelist_linkHeading" href="/PXWeb/pxweb/en/DB/DB__2M__NFG/0032M4AFN01.px/?rxid=be2fff00-cee9-476f-9893-bdbf5199d519" id="ctl00_ContentPlaceHolderMain_TableList1_TableList1_LinkItemList_ctl01_lnkTableListItemText">Cereals: Farmgate Prices by Geolocation, Commodity, Year and Period</a>
             # https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__NFG/0032M4AFN01.px
