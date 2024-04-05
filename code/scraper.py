@@ -21,7 +21,7 @@ debug = False
 base_url = "https://openstat.psa.gov.ph"
 url_file = "code/get_prices_urls.txt"
 writepath = "datasets/prices"
-parallel_mode = False
+parallel_mode = True
 # Plop all URLs to be scraped in url_file.
 # NOTE: URL pages must have the same format as https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__NFG/?tablelist=true
 # Files will be output onto writepath
@@ -149,7 +149,7 @@ def get_csv(args):
                 print(f"Bad response ({response.status_code}) (Year: {year})")
                 print("Attempting something drastic...\n")
                 failed = True
-                break
+                continue
             # browser.form.print_summary()
 
             ## Download CSV
@@ -198,8 +198,7 @@ def get_csv(args):
             if response.status_code != 200:
                 # BUG: Not ours, but PSA's, gateway timeout on certain datasets
                 print(f"Bad response ({response.status_code}) (Geolocation: {geol})\n")
-                print("Breaking operation! That's it! :<")
-                return
+                continue
             # browser.form.print_summary()
 
             ## Download CSV
