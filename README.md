@@ -1,6 +1,6 @@
 # Baesian-Cropability
 
-The project focuses on air quality relation to food crops productivity using different statistical analysis and machine learning.
+The project focuses on the relation of different market conditions to food crops productivity using different statistical analysis and machine learning.
 
 ## Environment
 
