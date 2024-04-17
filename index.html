@@ -6,43 +6,60 @@
 -->
 <html>
 	<head>
-		<title>PH Twitter Fake News Analysis</title>
+		<title>Data Science Portfolio: Crop Productivity and Market Conditions</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
 	<body class="is-preload">
-
-		<!-- Nav -->
-			<nav id="nav">
-				<ul class="container">
-					<li><a href="#top">Top</a></li>
-					<li><a href="#overview">Overview</a></li>
-					<li><a href="#data">Data</a></li>
-					<li><a href="#methods">Methods</a></li>
-					<li><a href="#results">Results</a></li>
-					<li><a href="#team">Team</a></li>
-				</ul>
-			</nav>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/js/all.min.js" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+		<div id="header">
+			<div class="top">
+				<nav id="nav">
+					<ul class="container">
+						<li href="home" class="active">
+							<a href="#home" class="active"><span class="icon solid fa-home">Home</span>
+							</a>
+						</li>
+						<li href="#overview">
+							<a href="#overview"><span class="icon solid fa-clipboard-list">Overview</span>	
+							</a>
+						</li>
+						<li href="#data">
+							<a href="#data"><span class="icon solid fa-database">Data</span>
+							</a>
+						</li>
+						<li href="#methods">
+							<a href="#methods"><span class="icon solid fa-gears">Methods</span>
+							</a>
+						</li>
+						<li href="#results">
+							<a href="#results"><span class="icon solid fa-chart-simple">Results</span>
+							</a>
+						</li>
+						<li href="#team">
+							<a href="#team"><span class="icon solid fa-people-group">Team</span>
+							</a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</div>
 
 		<!-- Home -->
-			<article id="top" class="wrapper style1">
+			<article id="home" class="wrapper style1">
 				<div class="container">
+					<header>
+						<h1><strong>The <span id="blink_text">price</span> does not run the world, </strong></h1>
+						<h1><strong>but <span id="blink_text">rice</span> does.</strong></h1>
+					</header>
 					<div class="row">
 						<div class="col-4 col-5-large col-12-medium">
-							<span class="image fit"><img src="images/pic00.jpg" alt="" /></span>
+							<span class="image fit"><img src="vegetable.png" alt="" /></span>
 						</div>
 						<div class="col-8 col-7-large col-12-medium">
-							<header>
-								<h1>Hi. We are <strong>Group Name</strong>.</h1>
-							</header>
-							<p>And this is our project, <strong>Project Title</strong>, <em>a short explanation of the project objectives</em>. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-							<p>Data Science Team</p>
-							<ul style="list-style-type:none; margin-top:-30px;">
-							  <li>Student's name, section</li>
-							  <li>Student's name, section</li>
-							  <li>Student's name, section</li>
-							</ul>
+							<p>We are the <strong>Baesians</strong> and this is our project, <strong>the Baesian Cropability</strong>. The project is an <em> analysis of food crop production in relation to different market conditions, policies, and trends. </em> The team aims to gain insights and new knowledge using different data science techniques.</p>
 						</div>
 					</div>
 				</div>
@@ -52,36 +69,46 @@
 			<article id="overview" class="wrapper style2">
 				<div class="container">
 					<header>
-						<h2>Here's an overview of our project.</h2>
-						<p>Odio turpis amet sed consequat eget posuere consequat.</p>
+						<h2>Background</h2>
+						<p>Agriculture plays an important role in the economic development of many countries. Despite being known as an agricultural country, the Philippines struggle when it comes to food security. With the ever increasing population growth and unpredictable international crises, the capacity to produce food for the population is hampered.</p>
+						<br>
+						<p>While the food crop production is mainly affected by the different physical conditions such as soil quality and weather, these are arguably not the only factors that the farmers consider when it comes to planting crops. The invisible hand of the market, often overlooked, has the ability to dictate crop production in a country.</p>
+						<br>
+						<ul class="reference">
+							<li>
+								<a target="_blank" href="https://www.wfp.org/publications/wfp-philippines-food-security-monitoring-october-2022#:~:text=According%20to%20October%20survey%20results,poorest%20regions%20in%20the%20Philippines">[1]</a>
+							</li>
+							<li>
+								<a target="_blank" href="https://www.da.gov.ph/facing-the-big-challenges-in-philippine-agriculture/">[2]</a>
+							</li>
 					</header>
 					<div class="row aln-center">
 						<div class="col-4 col-6-medium col-12-small">
 							<section class="box style1">
-								<span class="icon featured fa-comments"></span>
-								<h3>Motivation</h3>
-								<p>Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.</p>
+								<span class="icon solid fa-question"></span>
+								<h3>Research Questions</h3>
+								<p>This led the team to answer the following question:</p>
+								<ul class="quest">
+									<li>How different types of food crops productivity are affected by market conditions?</li>
+									<li>What policies were implemented that affect both the market and crop productivity?</li>
+								</ul>
 							</section>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<section class="box style1">
-								<span class="icon solid featured fa-camera-retro"></span>
+								<span  class="icon solid fa-bug"></span>
 								<h3>Problem</h3>
-								<p>Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.</p>
+								<p>Does market conditions have influence on food crop production in the country, notably during crises and recessions?</p>
 							</section>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<section class="box style1">
-								<span class="icon featured fa-thumbs-up"></span>
+								<span class="icon solid fa-circle-check"></span>
 								<h3>Solution</h3>
-								<p>Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.</p>
+								<p>The team is interested in seeking evidence and new insights using data science to uncover if there is a relationship between the economic conditions and food crops availability in the country.</p>
 							</section>
 						</div>
 					</div>
-					<footer>
-						<p>Lorem ipsum dolor sit sapien vestibulum ipsum primis?</p>
-						<a href="#portfolio" class="button large scrolly">Let's take a look at our data</a>
-					</footer>
 				</div>
 			</article>
 
@@ -89,55 +116,38 @@
 			<article id="data" class="wrapper style3">
 				<div class="container">
 					<header>
-						<h2>We mined the internet for fake news data.</h2>
-						<p>Proin odio consequat  sapien vestibulum consequat lorem dolore feugiat.</p>
+						<h2>Data Collection</h2>
+						<p>The team sourced the data from the database provided by different government agencies, DFA and PSA.</p>
 					</header>
 					<div class="row">
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
 								<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
-								<h3><a href="#">Topic</a></h3>
-								<p>Ornare nulla proin odio consequat.</p>
-							</article>
-						</div>
-						<div class="col-4 col-6-medium col-12-small">
-							<article class="box style2">
-								<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
-								<h3><a href="#">Keywords</a></h3>
-								<p>Ornare nulla proin odio consequat.</p>
+								<h3><a href="#">Process</a></h3>
+								<ul class="lbox">
+									<li>
+										<p>The team gathered most of the dataset from the database maintained by the Philippine Statistical Authority (PSA)</p>
+									</li>
+									<li>
+										<p>To autonomously gather the data from PSA, the team developed scrappers using Mechanical Soup.</p>
+									</li>
+									<li>
+										<p>Due to the limitations of the scrapper, the team also developed a program to compile the fragmented datasets into one with the help of Pandas.</p>
+									</li>
+								</ul>
 							</article>
 						</div>
 						<div class="col-4 col-6-medium col-12-small">
 							<article class="box style2">
 								<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
 								<h3><a href="#">Tools</a></h3>
-								<p>Ornare nulla proin odio consequat.</p>
-							</article>
-						</div>
-						<div class="col-4 col-6-medium col-12-small">
-							<article class="box style2">
-								<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
-								<h3><a href="#">Tempus dolore</a></h3>
-								<p>Ornare nulla proin odio consequat.</p>
-							</article>
-						</div>
-						<div class="col-4 col-6-medium col-12-small">
-							<article class="box style2">
-								<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
-								<h3><a href="#">Feugiat aliquam</a></h3>
-								<p>Ornare nulla proin odio consequat.</p>
-							</article>
-						</div>
-						<div class="col-4 col-6-medium col-12-small">
-							<article class="box style2">
-								<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
-								<h3><a href="#">Sed amet ornare</a></h3>
-								<p>Ornare nulla proin odio consequat.</p>
+								<p>Python 3.11.x, Pandas, Mechanical Soup (inclusive of Beautiful Soup and requests), Numpy, Github, Jupyter Notebook</p>
 							</article>
 						</div>
 					</div>
 					<footer>
-						<p>Lorem ipsum dolor sit sapien vestibulum ipsum primis?</p>
+						<h3>Want to look at our data?</h3>
+						<a href="https://github.com/Bourbon-Rye/Baesian-Cropability/tree/main/datasets" class="button large scrolly">Click Here!</a>
 					</footer>
 				</div>
 			</article>
@@ -270,10 +280,10 @@
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
 			<script src="assets/js/browser.min.js"></script>
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-
 	</body>
 </html>
