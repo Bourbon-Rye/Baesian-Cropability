@@ -9,10 +9,8 @@ must also be downloaded per month (breaks if bycg or byregion).
 import os
 
 import mechanicalsoup
-import requests
 import re
 import bs4
-from bs4 import BeautifulSoup
 import multiprocessing as mp
 import time
 
