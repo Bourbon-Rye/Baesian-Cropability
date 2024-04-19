@@ -81,6 +81,21 @@ def get_csv(args):
     for i in range(len(select_tags)-1):
         browser[select_tags[i]["name"]] = options[i]
     browser[select_tags[-1]["name"]] = "FileTypeCsvWithHeadingAndComma"
+    
+    # Attempt to download the entire thing already
+    failed = False
+    with open(f"{filename}.csv", "w+", encoding="utf-8") as f:
+        response = browser.submit_selected(update_state=False)
+        # response:: header content-type is "text/html; charset=utf-8" for failed fetch,
+        # and application/octet-stream for successful fetch
+        if response.headers["content-type"] == "text/html; charset=utf-8":
+            failed = True
+            print(f"Failed to download entire thing: {filename}")
+        if not failed:
+            print(f"{filename}.csv")
+            # Remove first 2 lines from string
+            f.write(response.text.split("\n", 2)[2])
+            return
 
     # Delete selected tag from selected year options
     def clear(tag: bs4.Tag, attrib: str):       
