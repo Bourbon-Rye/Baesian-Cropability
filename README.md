@@ -1,6 +1,6 @@
 # Baesian-Cropability
 
-The project focuses on the relation of different market conditions to food crops productivity using different statistical analysis and machine learning.
+The project aims to analyse the potential relation of different market conditions to food productivity in the Philippines. In general, we would explore the impact of economic forces to our agricultural sector using different statistical analysis and machine learning tools. This in the service of helping achieve SDG 4 Zero Hunger of the UN 2030 Sustainable Development Agenda.
 
 ## Environment
 
@@ -13,3 +13,7 @@ conda env create -f environment.yml
 ```
 
 Activate the new environment using `conda activate baesians`. Verify that the environment was installed correctly using `conda env list`.
+
+## Datasets
+
+Insert dataset primer.
