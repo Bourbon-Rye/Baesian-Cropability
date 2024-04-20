@@ -1,0 +1,3 @@
+https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__FG
+https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__RP
+https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__WS
