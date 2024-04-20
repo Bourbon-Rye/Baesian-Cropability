@@ -1,6 +1,6 @@
 # Baesian-Cropability
 
-The project aims to analyse the potential relation of different market conditions to food productivity in the Philippines. In general, we would explore the impact of economic forces to our agricultural sector using different statistical analysis and machine learning tools. This in the service of helping achieve SDG 4 Zero Hunger of the UN 2030 Sustainable Development Agenda.
+The project aims to analyse the potential relation of different market conditions to food productivity in the Philippines. In general, we would explore the impact of economic forces to our agricultural sector using different statistical analysis and machine learning tools. This in the service of helping achieve SDG 2 Zero Hunger of the UN 2030 Sustainable Development Agenda.
 
 ## Environment
 
