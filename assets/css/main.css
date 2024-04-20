@@ -166,7 +166,7 @@ input, select, textarea {
 	h1 {
 		font-size: 3.25em;
 		letter-spacing: -0.025em;
-		line-height: 1.00em;
+		line-height: 1.50em;
 		font-weight: 300;
 		text-align: center;
 	}
@@ -183,13 +183,20 @@ input, select, textarea {
 	h3 {
 		font-size: 1.5em;
 		letter-spacing: -0.015em;
-		text-align: left;
+		text-align: center;
+		text-decoration: underline;
 	}
 	
 	h4 {
 		font-size: 1em;
 		letter-spacing: -0.015em;
 		text-align: left;
+	}
+	
+	h5 {
+		font-size: 2em;
+		letter-spacing: -0.015em;
+		text-align: center;
 	}
 
 	em, i {
@@ -210,8 +217,13 @@ input, select, textarea {
 	}
 
 	p {
-		margin-bottom: 2em;
+		margin-bottom: 1em;
 		font-size: 1.5em;
+	}
+	
+	p2 {
+		margin-bottom: 1.5em;
+		font-size: 1.25em;
 	}
 	
 	ul, ol, dl, table {
@@ -219,7 +231,7 @@ input, select, textarea {
 	}
 
 	header {
-		margin: 0 0 6em 0;
+		margin: 0em 0 3em 0;
 	}
 
 		header > p {
@@ -367,6 +379,8 @@ input, select, textarea {
 
 		.row > .col-4 {
 			width: 33.33333%;
+			padding-top: 10px;
+			padding-bottom: 10px;
 		}
 
 		.row > .off-4 {
@@ -398,6 +412,8 @@ input, select, textarea {
 		}
 
 		.row > .col-8 {
+			padding-top: 10px;
+			padding-bottom: 10px;
 			width: 66.66667%;
 		}
 
@@ -1704,6 +1720,7 @@ input, select, textarea {
 		padding: 1em 2.35em 1em 2.35em;
 		font-size: 1.1em;
 		max-width: 20em;
+		left: 38%;
 	}
 
 		input[type="button"]:hover,
@@ -1771,8 +1788,13 @@ input, select, textarea {
 		}
 		
 	ul.lbox {
-		font-size: 16px;
+		font-size: 14px;
 		text-align: left;
+	}
+	
+	ul.lbox li {
+		padding-left: 0.5em;
+		margin-bottom: -2em;
 	}
 		
 	ul.quest {
@@ -1781,7 +1803,7 @@ input, select, textarea {
 	}
 		
 	ul.reference {
-		font-size: large;
+		font-size: xlarge;
 		color: #0C243C;
 		font-style: italic;
 		text-align: center;
@@ -1962,7 +1984,7 @@ input, select, textarea {
 	}
 
 		.box.style1 {
-			padding: 3em 2em 3.5em 2em;
+			padding: 2em 2em 3.5em 2em;
 		}
 
 			.box.style1 h3 {
@@ -2033,7 +2055,7 @@ input, select, textarea {
 	.wrapper {
 		background-image: url("images/bg.png");
 		box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
-		padding: 9em 0 9em 0;
+		padding: 10em 0 10em 0;
 		text-align: left;
 		margin-left: 250px;
 	}
@@ -2056,11 +2078,12 @@ input, select, textarea {
 		.wrapper.style4 {
 			background-color: #E6E4F4;
 			color: #999;
-			text-shadow: -1px -1px 0px #181818;
+			/*text-shadow: -1px -1px 0px #181818;*/
+			text-shadow: 1px 1px 0px #fff;
 		}
 
 			.wrapper.style4 h1, .wrapper.style4 h2, .wrapper.style4 h3, .wrapper.style4 h4, .wrapper.style4 h5, .wrapper.style4 h6 {
-				color: #fff;
+				color: #0C243C;
 			}
 
 			.wrapper.style4 form input[type=text],
@@ -2352,7 +2375,7 @@ input, select, textarea {
 
 			h1 {
 				font-size: 2.25em;
-				line-height: 1.25em;
+				line-height: 1.75m;
 			}
 
 			header {
