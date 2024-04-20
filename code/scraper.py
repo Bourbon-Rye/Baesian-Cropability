@@ -17,7 +17,7 @@ import time
 # GLOBAL PARAMETERS
 debug = False
 base_url = "https://openstat.psa.gov.ph"
-url_file = "code/get_prices_urls.txt"
+url_file = "code/get_prices_new-series.txt"
 writepath = "datasets/prices"
 parallel_mode = True
 # Plop all URLs to be scraped in url_file.

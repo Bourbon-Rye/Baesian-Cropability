@@ -1,0 +1,701 @@
+"Geolocation","Commodity","2018 January","2018 February","2018 March","2018 April","2018 May","2018 June","2018 July","2018 August","2018 September","2018 October","2018 November","2018 December","2018 Annual"
+"PHILIPPINES","Carrots",48.69,42.00,41.78,38.62,37.80,39.47,46.12,72.32,101.59,74.02,59.40,52.29,53.30
+"PHILIPPINES","Cassava",10.43,10.58,10.73,10.46,10.02,13.53,11.49,10.11,10.51,10.55,10.71,12.55,10.92
+"PHILIPPINES","Gabi Cebu, for ginataan [Taro (cocoyam)]",33.77,34.76,34.16,34.48,37.93,41.15,39.09,35.91,42.49,38.47,45.18,39.27,38.58
+"PHILIPPINES","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",35.97,33.60,34.33,35.20,28.80,37.00,37.93,39.41,55.26,40.76,43.21,..,38.32
+"PHILIPPINES","Radish",32.49,26.82,23.92,31.73,35.72,34.91,38.02,40.60,48.31,38.64,32.71,29.47,34.23
+"PHILIPPINES","Sweet Potato",26.53,23.85,21.73,20.29,22.94,23.74,25.73,28.37,29.03,29.36,26.01,25.19,24.38
+"PHILIPPINES","White/Irish Potato",50.66,50.50,47.29,46.84,46.78,44.77,45.71,47.26,50.42,54.35,62.25,56.29,51.22
+"..NATIONAL CAPITAL REGION (NCR)","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..NATIONAL CAPITAL REGION (NCR)","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..NATIONAL CAPITAL REGION (NCR)","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..NATIONAL CAPITAL REGION (NCR)","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..NATIONAL CAPITAL REGION (NCR)","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..NATIONAL CAPITAL REGION (NCR)","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,23.62,23.62
+"..NATIONAL CAPITAL REGION (NCR)","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..CORDILLERA ADMINISTRATIVE REGION (CAR)","Carrots",37.68,37.68,40.11,34.58,..,29.91,38.60,87.14,135.83,79.85,49.92,38.09,55.40
+"..CORDILLERA ADMINISTRATIVE REGION (CAR)","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..CORDILLERA ADMINISTRATIVE REGION (CAR)","Gabi Cebu, for ginataan [Taro (cocoyam)]",33.89,27.88,34.89,40.27,..,42.51,49.54,59.29,61.33,56.77,79.38,53.27,49.00
+"..CORDILLERA ADMINISTRATIVE REGION (CAR)","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..CORDILLERA ADMINISTRATIVE REGION (CAR)","Radish",22.88,17.90,21.87,26.77,..,31.82,50.92,54.46,60.17,34.78,27.08,22.04,33.70
+"..CORDILLERA ADMINISTRATIVE REGION (CAR)","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..CORDILLERA ADMINISTRATIVE REGION (CAR)","White/Irish Potato",36.02,36.88,35.49,31.42,..,27.42,28.43,33.64,37.37,43.40,69.48,48.95,38.95
+"....Abra","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Abra","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Abra","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Abra","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Abra","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Abra","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Abra","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Apayao","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Apayao","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Apayao","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Apayao","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Apayao","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Apayao","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Apayao","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Benguet","Carrots",37.68,37.68,40.11,34.58,..,29.91,38.60,87.14,135.83,79.85,49.92,38.09,55.40
+"....Benguet","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Benguet","Gabi Cebu, for ginataan [Taro (cocoyam)]",33.89,27.88,34.89,40.27,..,42.51,49.54,59.29,61.33,56.77,79.38,53.27,49.00
+"....Benguet","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Benguet","Radish",22.88,17.90,21.87,26.77,..,31.82,50.92,54.46,60.17,34.78,27.08,22.04,33.70
+"....Benguet","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Benguet","White/Irish Potato",36.02,36.88,35.49,31.42,..,27.42,28.43,33.64,37.37,43.40,69.48,48.95,38.95
+"....Ifugao","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ifugao","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ifugao","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ifugao","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ifugao","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ifugao","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ifugao","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Kalinga","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Kalinga","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Kalinga","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Kalinga","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Kalinga","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Kalinga","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Kalinga","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Mountain Province","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Mountain Province","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Mountain Province","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Mountain Province","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Mountain Province","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Mountain Province","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Mountain Province","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION I (ILOCOS REGION)","Carrots",53.31,40.17,30.07,30.00,26.17,41.46,38.31,50.19,66.25,35.46,31.53,..,40.27
+"..REGION I (ILOCOS REGION)","Cassava",7.80,7.78,7.95,8.35,8.37,14.60,13.94,8.60,8.80,8.45,9.26,..,9.45
+"..REGION I (ILOCOS REGION)","Gabi Cebu, for ginataan [Taro (cocoyam)]",22.69,23.95,22.67,22.00,23.66,26.20,23.02,27.05,27.70,22.28,22.77,..,24.00
+"..REGION I (ILOCOS REGION)","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",35.97,33.60,34.33,35.20,28.80,37.00,37.93,39.41,55.26,40.76,43.21,..,38.32
+"..REGION I (ILOCOS REGION)","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION I (ILOCOS REGION)","Sweet Potato",27.89,24.92,19.72,12.00,19.29,22.00,23.54,29.12,29.55,..,28.33,..,23.64
+"..REGION I (ILOCOS REGION)","White/Irish Potato",32.58,25.20,21.45,25.40,23.31,27.45,30.25,32.08,40.60,39.82,29.41,..,29.78
+"....Ilocos Norte","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Norte","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Norte","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Norte","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Norte","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Norte","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Norte","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Sur","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Sur","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Sur","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Sur","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Sur","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Sur","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Ilocos Sur","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....La Union","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....La Union","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....La Union","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....La Union","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....La Union","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....La Union","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....La Union","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Pangasinan","Carrots",53.31,40.17,30.07,30.00,26.17,41.46,38.31,50.19,66.25,35.46,31.53,..,40.27
+"....Pangasinan","Cassava",7.80,7.78,7.95,8.35,8.37,14.60,13.94,8.60,8.80,8.45,9.26,..,9.45
+"....Pangasinan","Gabi Cebu, for ginataan [Taro (cocoyam)]",22.69,23.95,22.67,22.00,23.66,26.20,23.02,27.05,27.70,22.28,22.77,..,24.00
+"....Pangasinan","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",35.97,33.60,34.33,35.20,28.80,37.00,37.93,39.41,55.26,40.76,43.21,..,38.32
+"....Pangasinan","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Pangasinan","Sweet Potato",27.89,24.92,19.72,12.00,19.29,22.00,23.54,29.12,29.55,..,28.33,..,23.64
+"....Pangasinan","White/Irish Potato",32.58,25.20,21.45,25.40,23.31,27.45,30.25,32.08,40.60,39.82,29.41,..,29.78
+"..REGION II (CAGAYAN VALLEY)","Carrots",35.16,32.77,38.65,30.83,30.42,31.73,40.07,56.43,111.29,68.97,46.81,..,46.99
+"..REGION II (CAGAYAN VALLEY)","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION II (CAGAYAN VALLEY)","Gabi Cebu, for ginataan [Taro (cocoyam)]",65.00,65.00,58.00,57.50,57.00,62.31,68.46,..,63.00,62.93,63.15,..,62.24
+"..REGION II (CAGAYAN VALLEY)","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION II (CAGAYAN VALLEY)","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION II (CAGAYAN VALLEY)","Sweet Potato",25.48,25.55,20.57,18.75,21.98,21.91,25.34,29.96,33.50,34.15,29.96,..,25.88
+"..REGION II (CAGAYAN VALLEY)","White/Irish Potato",46.89,45.72,41.56,36.77,35.59,37.08,33.00,43.79,45.48,49.32,71.23,..,44.06
+"....Cagayan","Carrots",31.69,30.29,36.62,27.50,30.00,31.15,38.08,..,109.33,61.07,43.15,..,43.89
+"....Cagayan","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cagayan","Gabi Cebu, for ginataan [Taro (cocoyam)]",65.00,65.00,58.00,57.50,57.00,62.31,68.46,..,63.00,62.93,63.15,..,62.24
+"....Cagayan","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cagayan","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cagayan","Sweet Potato",28.00,28.00,21.15,20.00,20.00,20.00,22.78,..,30.00,30.00,30.00,..,24.99
+"....Cagayan","White/Irish Potato",46.46,44.43,42.38,37.15,36.20,30.00,28.46,..,41.45,40.71,55.38,..,40.26
+"....Isabela","Carrots",38.62,35.25,40.67,34.15,30.83,32.31,42.06,56.43,113.25,76.86,50.46,..,50.08
+"....Isabela","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Isabela","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Isabela","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Isabela","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Isabela","Sweet Potato",22.95,23.10,19.98,17.49,23.96,23.82,27.90,29.96,37.00,38.30,29.91,..,26.76
+"....Isabela","White/Irish Potato",47.31,47.00,40.73,36.38,34.98,44.15,37.54,43.79,49.50,57.93,87.08,..,47.85
+"....Nueva Vizcaya","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Vizcaya","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Vizcaya","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Vizcaya","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Vizcaya","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Vizcaya","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Vizcaya","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quirino","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quirino","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quirino","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quirino","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quirino","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quirino","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quirino","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION III (CENTRAL LUZON)","Carrots",33.07,35.70,43.90,41.63,30.86,34.91,39.46,71.04,100.38,72.01,56.55,40.31,49.99
+"..REGION III (CENTRAL LUZON)","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION III (CENTRAL LUZON)","Gabi Cebu, for ginataan [Taro (cocoyam)]",24.51,24.55,25.91,23.08,..,29.34,28.84,29.00,30.13,30.38,29.42,28.55,27.61
+"..REGION III (CENTRAL LUZON)","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION III (CENTRAL LUZON)","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION III (CENTRAL LUZON)","Sweet Potato",27.78,27.83,21.18,16.80,..,27.06,31.13,40.49,45.95,35.13,28.53,30.93,30.26
+"..REGION III (CENTRAL LUZON)","White/Irish Potato",41.83,46.20,43.83,46.02,35.38,33.55,31.62,35.09,46.28,54.31,67.14,40.08,43.44
+"....Aurora","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aurora","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aurora","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aurora","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aurora","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aurora","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aurora","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bataan","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bataan","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bataan","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bataan","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bataan","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bataan","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bataan","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bulacan","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bulacan","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bulacan","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bulacan","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bulacan","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bulacan","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bulacan","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Ecija","Carrots",33.07,35.70,43.90,41.63,30.86,34.91,39.46,71.04,100.38,72.01,56.55,40.31,49.99
+"....Nueva Ecija","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Ecija","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Ecija","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Ecija","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Ecija","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Nueva Ecija","White/Irish Potato",41.83,46.20,43.83,46.02,35.38,33.55,31.62,35.09,46.28,54.31,67.14,40.08,43.44
+"....Pampanga","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Pampanga","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Pampanga","Gabi Cebu, for ginataan [Taro (cocoyam)]",24.51,24.55,25.91,23.08,..,29.34,28.84,29.00,30.13,30.38,29.42,28.55,27.61
+"....Pampanga","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Pampanga","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Pampanga","Sweet Potato",27.78,27.83,21.18,16.80,..,27.06,31.13,40.49,45.95,35.13,28.53,30.93,30.26
+"....Pampanga","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tarlac","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tarlac","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tarlac","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tarlac","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tarlac","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tarlac","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tarlac","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zambales","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zambales","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zambales","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zambales","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zambales","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zambales","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zambales","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION IV-A (CALABARZON)","Carrots",50.89,..,53.63,45.63,49.91,45.62,62.82,105.71,157.63,93.33,76.80,..,74.20
+"..REGION IV-A (CALABARZON)","Cassava",13.06,13.38,13.50,12.56,11.00,11.00,11.00,11.83,11.81,13.50,13.50,13.14,12.44
+"..REGION IV-A (CALABARZON)","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION IV-A (CALABARZON)","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION IV-A (CALABARZON)","Radish",41.25,36.25,29.50,..,36.67,38.00,32.50,39.67,57.92,42.50,34.00,33.75,38.36
+"..REGION IV-A (CALABARZON)","Sweet Potato",29.88,28.63,25.74,21.15,24.75,23.98,30.91,36.92,34.58,31.87,28.48,32.83,28.88
+"..REGION IV-A (CALABARZON)","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Batangas","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Batangas","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Batangas","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Batangas","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Batangas","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Batangas","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Batangas","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cavite","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cavite","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cavite","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cavite","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cavite","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cavite","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cavite","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Laguna","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Laguna","Cassava",13.06,13.38,13.50,12.56,11.00,11.00,11.00,11.83,11.81,13.50,13.50,13.14,12.44
+"....Laguna","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Laguna","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Laguna","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Laguna","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Laguna","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quezon","Carrots",50.89,..,53.63,45.63,49.91,45.62,62.82,105.71,157.63,93.33,76.80,..,74.20
+"....Quezon","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quezon","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quezon","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quezon","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Quezon","Sweet Potato",26.56,..,23.88,21.15,20.67,23.02,27.82,37.30,..,30.56,28.22,..,26.58
+"....Quezon","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Rizal","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Rizal","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Rizal","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Rizal","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Rizal","Radish",41.25,36.25,29.50,..,36.67,38.00,32.50,39.67,57.92,42.50,34.00,33.75,38.36
+"....Rizal","Sweet Potato",33.19,28.63,27.60,..,28.83,24.94,34.00,36.53,34.58,33.17,28.73,32.83,31.18
+"....Rizal","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..MIMAROPA REGION","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..MIMAROPA REGION","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..MIMAROPA REGION","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..MIMAROPA REGION","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..MIMAROPA REGION","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..MIMAROPA REGION","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..MIMAROPA REGION","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Marinduque","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Marinduque","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Marinduque","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Marinduque","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Marinduque","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Marinduque","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Marinduque","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Occidental Mindoro","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Occidental Mindoro","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Occidental Mindoro","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Occidental Mindoro","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Occidental Mindoro","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Occidental Mindoro","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Occidental Mindoro","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Oriental Mindoro","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Oriental Mindoro","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Oriental Mindoro","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Oriental Mindoro","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Oriental Mindoro","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Oriental Mindoro","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Oriental Mindoro","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Palawan","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Palawan","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Palawan","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Palawan","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Palawan","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Palawan","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Palawan","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Romblon","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Romblon","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Romblon","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Romblon","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Romblon","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Romblon","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Romblon","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION V (BICOL REGION)","Carrots",57.32,50.68,52.39,48.19,45.35,46.02,53.06,97.41,126.79,98.90,76.23,65.61,68.16
+"..REGION V (BICOL REGION)","Cassava",..,..,..,..,10.68,15.00,9.52,9.89,10.91,9.70,9.37,11.96,10.88
+"..REGION V (BICOL REGION)","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION V (BICOL REGION)","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION V (BICOL REGION)","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION V (BICOL REGION)","Sweet Potato",28.10,24.89,22.54,25.40,26.12,26.80,25.14,23.72,24.14,23.90,24.24,26.00,25.09
+"..REGION V (BICOL REGION)","White/Irish Potato",56.64,57.68,54.54,49.40,46.45,46.19,49.43,54.63,60.48,58.38,76.45,63.86,56.18
+"....Albay","Carrots",44.75,45.00,50.09,44.83,42.42,42.68,48.89,99.58,123.75,94.29,69.53,59.29,63.76
+"....Albay","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Albay","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Albay","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Albay","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Albay","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Albay","White/Irish Potato",53.19,55.94,49.47,44.83,45.14,45.18,45.56,51.25,62.97,60.18,78.59,62.86,54.60
+"....Camarines Norte","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camarines Norte","Cassava",..,..,..,..,10.68,15.00,9.52,9.89,10.91,9.70,9.37,11.96,10.88
+"....Camarines Norte","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camarines Norte","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camarines Norte","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camarines Norte","Sweet Potato",29.06,26.90,18.13,22.42,24.14,24.20,23.34,20.38,22.80,24.66,24.35,26.60,23.92
+"....Camarines Norte","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camarines Sur","Carrots",69.89,56.35,54.69,51.55,48.28,49.35,57.23,95.23,129.83,103.50,82.92,71.92,72.56
+"....Camarines Sur","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camarines Sur","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camarines Sur","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camarines Sur","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camarines Sur","Sweet Potato",27.14,22.87,26.95,28.38,28.09,29.40,26.94,27.06,25.48,23.13,24.12,25.40,26.25
+"....Camarines Sur","White/Irish Potato",60.08,59.42,59.60,53.97,47.75,47.20,53.29,58.00,57.98,56.57,74.31,64.85,57.75
+"....Catanduanes","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Catanduanes","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Catanduanes","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Catanduanes","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Catanduanes","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Catanduanes","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Catanduanes","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Masbate","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Masbate","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Masbate","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Masbate","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Masbate","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Masbate","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Masbate","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sorsogon","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sorsogon","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sorsogon","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sorsogon","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sorsogon","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sorsogon","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sorsogon","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VI (WESTERN VISAYAS)","Carrots",55.96,60.18,48.60,47.04,44.27,44.90,51.49,74.69,89.92,86.80,75.06,64.11,61.50
+"..REGION VI (WESTERN VISAYAS)","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VI (WESTERN VISAYAS)","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VI (WESTERN VISAYAS)","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VI (WESTERN VISAYAS)","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VI (WESTERN VISAYAS)","Sweet Potato",28.47,..,27.48,26.86,29.41,29.19,33.77,34.83,33.44,33.25,33.61,31.91,31.11
+"..REGION VI (WESTERN VISAYAS)","White/Irish Potato",63.01,64.04,48.91,50.41,45.81,42.11,45.88,48.49,57.72,61.63,72.19,69.07,55.77
+"....Aklan","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aklan","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aklan","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aklan","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aklan","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aklan","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Aklan","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Antique","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Antique","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Antique","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Antique","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Antique","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Antique","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Antique","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Capiz","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Capiz","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Capiz","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Capiz","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Capiz","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Capiz","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Capiz","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Guimaras","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Guimaras","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Guimaras","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Guimaras","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Guimaras","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Guimaras","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Guimaras","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Iloilo","Carrots",41.53,..,48.60,42.06,38.68,42.10,50.82,77.94,89.92,83.09,61.53,54.22,57.32
+"....Iloilo","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Iloilo","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Iloilo","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Iloilo","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Iloilo","Sweet Potato",28.47,..,27.48,26.86,29.41,29.19,33.77,34.83,33.44,33.25,33.61,31.91,31.11
+"....Iloilo","White/Irish Potato",59.04,..,48.91,45.82,38.32,39.45,39.29,45.26,57.72,62.59,73.37,67.14,52.45
+"....Negros Occidental","Carrots",70.38,60.18,..,52.02,49.86,47.69,52.15,71.43,..,90.50,88.58,74.00,65.68
+"....Negros Occidental","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Occidental","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Occidental","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Occidental","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Occidental","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Occidental","White/Irish Potato",66.97,64.04,..,55.00,53.29,44.77,52.46,51.71,..,60.67,71.00,71.00,59.09
+"..REGION VII (CENTRAL VISAYAS)","Carrots",58.80,47.84,39.91,35.00,39.23,..,44.06,54.50,73.75,55.36,56.22,41.12,49.62
+"..REGION VII (CENTRAL VISAYAS)","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VII (CENTRAL VISAYAS)","Gabi Cebu, for ginataan [Taro (cocoyam)]",22.75,22.69,20.36,17.87,24.15,..,19.68,19.00,20.25,20.00,21.38,20.22,20.76
+"..REGION VII (CENTRAL VISAYAS)","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VII (CENTRAL VISAYAS)","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VII (CENTRAL VISAYAS)","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VII (CENTRAL VISAYAS)","White/Irish Potato",53.12,50.31,56.51,53.65,51.62,..,47.31,51.50,57.17,60.00,65.38,57.38,54.90
+"....Bohol","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bohol","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bohol","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bohol","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bohol","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bohol","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bohol","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cebu","Carrots",58.80,47.84,39.91,35.00,39.23,..,44.06,54.50,73.75,55.36,56.22,41.12,49.62
+"....Cebu","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cebu","Gabi Cebu, for ginataan [Taro (cocoyam)]",22.75,22.69,20.36,17.87,24.15,..,19.68,19.00,20.25,20.00,21.38,20.22,20.76
+"....Cebu","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cebu","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cebu","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cebu","White/Irish Potato",53.12,50.31,56.51,53.65,51.62,..,47.31,51.50,57.17,60.00,65.38,57.38,54.90
+"....Negros Oriental","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Oriental","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Oriental","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Oriental","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Oriental","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Oriental","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Negros Oriental","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Siquijor","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Siquijor","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Siquijor","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Siquijor","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Siquijor","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Siquijor","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Siquijor","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VIII (EASTERN VISAYAS)","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VIII (EASTERN VISAYAS)","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VIII (EASTERN VISAYAS)","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VIII (EASTERN VISAYAS)","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VIII (EASTERN VISAYAS)","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VIII (EASTERN VISAYAS)","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION VIII (EASTERN VISAYAS)","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Biliran","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Biliran","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Biliran","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Biliran","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Biliran","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Biliran","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Biliran","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Eastern Samar","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Eastern Samar","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Eastern Samar","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Eastern Samar","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Eastern Samar","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Eastern Samar","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Eastern Samar","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Leyte","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Leyte","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Leyte","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Leyte","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Leyte","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Leyte","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Leyte","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Northern Samar","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Northern Samar","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Northern Samar","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Northern Samar","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Northern Samar","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Northern Samar","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Northern Samar","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Samar","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Samar","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Samar","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Samar","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Samar","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Samar","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Samar","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Southern Leyte","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Southern Leyte","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Southern Leyte","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Southern Leyte","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Southern Leyte","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Southern Leyte","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Southern Leyte","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION IX (ZAMBOANGA PENINSULA)","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION IX (ZAMBOANGA PENINSULA)","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION IX (ZAMBOANGA PENINSULA)","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION IX (ZAMBOANGA PENINSULA)","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION IX (ZAMBOANGA PENINSULA)","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION IX (ZAMBOANGA PENINSULA)","Sweet Potato",20.25,17.14,16.19,17.35,15.06,15.93,15.54,15.37,16.63,16.04,13.94,13.56,15.77
+"..REGION IX (ZAMBOANGA PENINSULA)","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Norte","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Norte","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Norte","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Norte","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Norte","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Norte","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Norte","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Sur","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Sur","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Sur","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Sur","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Sur","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga del Sur","Sweet Potato",20.25,17.14,16.19,17.35,15.06,15.93,15.54,..,16.63,..,..,13.56,16.41
+"....Zamboanga del Sur","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga Sibugay","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga Sibugay","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga Sibugay","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga Sibugay","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga Sibugay","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga Sibugay","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Zamboanga Sibugay","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"….City of Zamboanga","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"….City of Zamboanga","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"….City of Zamboanga","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"….City of Zamboanga","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"….City of Zamboanga","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"….City of Zamboanga","Sweet Potato",..,..,..,..,..,..,..,15.37,..,16.04,13.94,..,15.12
+"….City of Zamboanga","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION X (NORTHERN MINDANAO)","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION X (NORTHERN MINDANAO)","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION X (NORTHERN MINDANAO)","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,44.50,43.15,46.15,46.92,45.38,45.00,45.21,52.50,..,55.00,55.03,47.88
+"..REGION X (NORTHERN MINDANAO)","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION X (NORTHERN MINDANAO)","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION X (NORTHERN MINDANAO)","Sweet Potato",..,20.07,20.15,20.00,21.54,21.54,20.00,20.00,20.00,..,25.00,25.00,21.33
+"..REGION X (NORTHERN MINDANAO)","White/Irish Potato",..,53.08,52.69,51.15,61.15,64.62,55.38,55.71,43.67,..,40.00,43.08,52.05
+"....Bukidnon","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bukidnon","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bukidnon","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bukidnon","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bukidnon","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bukidnon","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Bukidnon","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camiguin","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camiguin","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camiguin","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camiguin","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camiguin","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camiguin","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Camiguin","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Norte","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Norte","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Norte","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,44.50,43.15,46.15,46.92,45.38,45.00,45.21,52.50,..,55.00,55.03,47.88
+"....Lanao del Norte","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Norte","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Norte","Sweet Potato",..,20.07,20.15,20.00,21.54,21.54,20.00,20.00,20.00,..,25.00,25.00,21.33
+"....Lanao del Norte","White/Irish Potato",..,53.08,52.69,51.15,61.15,64.62,55.38,55.71,43.67,..,40.00,43.08,52.05
+"....Misamis Occidental","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Occidental","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Occidental","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Occidental","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Occidental","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Occidental","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Occidental","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Oriental","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Oriental","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Oriental","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Oriental","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Oriental","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Oriental","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Misamis Oriental","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XI (DAVAO REGION)","Carrots",..,31.60,31.10,31.14,33.80,38.49,42.84,46.67,67.16,64.89,53.01,44.55,44.11
+"..REGION XI (DAVAO REGION)","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XI (DAVAO REGION)","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XI (DAVAO REGION)","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XI (DAVAO REGION)","Radish",33.33,26.32,20.40,36.69,34.77,..,30.63,27.66,26.83,..,37.06,32.62,30.63
+"..REGION XI (DAVAO REGION)","Sweet Potato",20.52,19.03,18.32,20.72,21.40,..,21.97,21.02,23.88,..,17.40,16.86,20.11
+"..REGION XI (DAVAO REGION)","White/Irish Potato",56.28,56.81,55.84,59.77,57.75,60.96,59.89,51.68,53.93,55.26,53.69,55.40,56.22
+"....Davao de Oro","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao de Oro","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao de Oro","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao de Oro","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao de Oro","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao de Oro","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao de Oro","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Norte","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Norte","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Norte","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Norte","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Norte","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Norte","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Norte","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Sur","Carrots",..,31.60,31.10,31.14,33.80,38.49,42.84,46.67,67.16,64.89,53.01,44.55,44.11
+"....Davao del Sur","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Sur","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Sur","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Sur","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Sur","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao del Sur","White/Irish Potato",..,57.56,55.68,61.39,57.06,60.96,63.51,46.74,55.90,55.26,57.78,63.28,57.74
+"....Davao Occidental","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Occidental","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Occidental","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Occidental","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Occidental","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Occidental","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Occidental","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Oriental","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Oriental","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Oriental","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Oriental","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Oriental","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Oriental","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Davao Oriental","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Davao","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Davao","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Davao","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Davao","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....City of Davao","Radish",33.33,26.32,20.40,36.69,34.77,..,30.63,27.66,26.83,..,37.06,32.62,30.63
+"....City of Davao","Sweet Potato",20.52,19.03,18.32,20.72,21.40,..,21.97,21.02,23.88,..,17.40,16.86,20.11
+"....City of Davao","White/Irish Potato",56.28,56.05,56.00,58.15,58.43,..,56.26,56.61,51.95,..,49.60,47.52,54.69
+"..REGION XII (SOCCSKSARGEN)","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,44.20
+"..REGION XII (SOCCSKSARGEN)","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XII (SOCCSKSARGEN)","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XII (SOCCSKSARGEN)","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XII (SOCCSKSARGEN)","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XII (SOCCSKSARGEN)","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XII (SOCCSKSARGEN)","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,58.67
+"....Cotabato","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cotabato","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cotabato","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cotabato","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cotabato","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cotabato","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Cotabato","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sarangani","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sarangani","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sarangani","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sarangani","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sarangani","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sarangani","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sarangani","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sultan Kudarat","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sultan Kudarat","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sultan Kudarat","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sultan Kudarat","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sultan Kudarat","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sultan Kudarat","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sultan Kudarat","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....South Cotabato","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,44.20
+"....South Cotabato","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....South Cotabato","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....South Cotabato","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....South Cotabato","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....South Cotabato","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....South Cotabato","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,58.67
+"..REGION XIII (CARAGA)","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,44.20
+"..REGION XIII (CARAGA)","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XIII (CARAGA)","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XIII (CARAGA)","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XIII (CARAGA)","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XIII (CARAGA)","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..REGION XIII (CARAGA)","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,58.67
+"....Agusan del Norte","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Norte","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Norte","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Norte","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Norte","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Norte","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Norte","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Sur","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Sur","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Sur","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Sur","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Sur","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Sur","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Agusan del Sur","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Dinagat Islands","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Dinagat Islands","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Dinagat Islands","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Dinagat Islands","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Dinagat Islands","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Dinagat Islands","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Dinagat Islands","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Norte","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Norte","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Norte","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Norte","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Norte","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Norte","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Norte","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Sur","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,44.20
+"....Surigao del Sur","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Sur","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Sur","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Sur","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Sur","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Surigao del Sur","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,58.67
+"..AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)","Carrots",53.69,41.92,32.00,32.00,33.50,38.00,44.25,52.00,52.00,52.00,52.00,47.08,44.20
+"..AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"..AUTONOMOUS REGION IN MUSLIM MINDANAO (ARMM)","White/Irish Potato",55.08,60.33,52.00,55.38,65.50,72.54,70.54,53.00,52.92,60.71,53.00,53.00,58.67
+"....Basilan","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Basilan","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Basilan","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Basilan","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Basilan","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Basilan","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Basilan","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Sur","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Sur","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Sur","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Sur","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Sur","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Sur","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Lanao del Sur","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Maguindanao","Carrots",53.69,41.92,32.00,32.00,33.50,38.00,44.25,52.00,52.00,52.00,52.00,47.08,44.20
+"....Maguindanao","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Maguindanao","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Maguindanao","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Maguindanao","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Maguindanao","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Maguindanao","White/Irish Potato",55.08,60.33,52.00,55.38,65.50,72.54,70.54,53.00,52.92,60.71,53.00,53.00,58.67
+"....Sulu","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sulu","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sulu","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sulu","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sulu","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sulu","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Sulu","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tawi-tawi","Carrots",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tawi-tawi","Cassava",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tawi-tawi","Gabi Cebu, for ginataan [Taro (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tawi-tawi","Gabi Tagalog, for sinigang [Tannia, Yautia (cocoyam)]",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tawi-tawi","Radish",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tawi-tawi","Sweet Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
+"....Tawi-tawi","White/Irish Potato",..,..,..,..,..,..,..,..,..,..,..,..,..
