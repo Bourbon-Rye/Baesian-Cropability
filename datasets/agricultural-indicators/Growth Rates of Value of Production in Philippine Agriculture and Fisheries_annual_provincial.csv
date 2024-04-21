@@ -1,0 +1,813 @@
+"Growth Rates of the Provincial Value of Production in Agriculture and Fisheries"
+
+"Type of Valuation","Province","Subsector","2018-2019","2019-2020","2020-2021","2021-2022"
+"Current Prices","Abra","Crops",7.0,2.9,10.1,-9.3
+"Current Prices","Abra","Livestock",-13.0,-8.7,50.8,3.3
+"Current Prices","Abra","Poultry",10.3,-6.9,40.3,18.7
+"Current Prices","Abra","Fisheries",0.1,13.7,-0.2,17.9
+"Current Prices","Abra","Agriculture and Fisheries",0.8,-0.3,20.9,-3.5
+"Current Prices","Apayao","Crops",-4.4,17.7,-9.2,-5.6
+"Current Prices","Apayao","Livestock",-2.0,6.7,39.1,-32.6
+"Current Prices","Apayao","Poultry",19.0,46.4,2.6,10.3
+"Current Prices","Apayao","Fisheries",34.3,-20.4,-57.6,20.5
+"Current Prices","Apayao","Agriculture and Fisheries",-2.6,16.6,-1.0,-10.7
+"Current Prices","Benguet","Crops",-11.0,-3.9,20.5,6.4
+"Current Prices","Benguet","Livestock",-2.0,8.9,38.9,3.1
+"Current Prices","Benguet","Poultry",9.7,21.3,24.7,21.1
+"Current Prices","Benguet","Fisheries",-12.2,-25.6,-39.6,192.5
+"Current Prices","Benguet","Agriculture and Fisheries",-10.1,-2.5,21.8,6.8
+"Current Prices","Ifugao","Crops",-14.9,-9.2,-10.4,-12.4
+"Current Prices","Ifugao","Livestock",2.9,25.7,25.6,-16.2
+"Current Prices","Ifugao","Poultry",1.0,-5.0,-0.7,20.8
+"Current Prices","Ifugao","Fisheries",-9.9,-10.6,27.8,-17.9
+"Current Prices","Ifugao","Agriculture and Fisheries",-9.5,-2.8,0.6,-8.0
+"Current Prices","Kalinga","Crops",-11.2,-23.6,24.7,0.1
+"Current Prices","Kalinga","Livestock",-2.7,-14.3,-27.4,57.6
+"Current Prices","Kalinga","Poultry",24.3,10.0,-0.1,4.2
+"Current Prices","Kalinga","Fisheries",14.3,10.9,-13.5,10.0
+"Current Prices","Kalinga","Agriculture and Fisheries",-8.7,-20.4,12.9,7.5
+"Current Prices","Mt. Province","Crops",-19.3,3.6,19.7,-0.7
+"Current Prices","Mt. Province","Livestock",4.2,-5.2,50.0,-2.4
+"Current Prices","Mt. Province","Poultry",3.2,11.0,11.1,34.5
+"Current Prices","Mt. Province","Fisheries",23.2,36.2,39.8,37.1
+"Current Prices","Mt. Province","Agriculture and Fisheries",-13.6,2.0,25.8,0.7
+"Current Prices","Ilocos Norte","Crops",-6.8,9.1,3.2,4.2
+"Current Prices","Ilocos Norte","Livestock",3.3,22.6,37.0,-18.8
+"Current Prices","Ilocos Norte","Poultry",5.9,15.0,6.1,6.6
+"Current Prices","Ilocos Norte","Fisheries",4.8,33.5,-4.6,-22.1
+"Current Prices","Ilocos Norte","Agriculture and Fisheries",-3.7,13.0,9.6,-2.2
+"Current Prices","Ilocos Sur","Crops",0.4,7.0,3.9,6.2
+"Current Prices","Ilocos Sur","Livestock",0.8,7.1,22.7,13.5
+"Current Prices","Ilocos Sur","Poultry",-18.2,7.5,11.2,43.5
+"Current Prices","Ilocos Sur","Fisheries",24.0,16.0,-0.6,9.6
+"Current Prices","Ilocos Sur","Agriculture and Fisheries",0.4,7.5,7.0,9.4
+"Current Prices","La Union","Crops",-6.7,7.2,-5.1,7.4
+"Current Prices","La Union","Livestock",-5.7,-2.0,-36.9,38.7
+"Current Prices","La Union","Poultry",4.7,-2.5,23.2,51.3
+"Current Prices","La Union","Fisheries",15.9,20.6,25.7,22.7
+"Current Prices","La Union","Agriculture and Fisheries",-2.5,5.2,-3.3,22.6
+"Current Prices","Pangasinan","Crops",-13.3,4.6,8.2,6.0
+"Current Prices","Pangasinan","Livestock",-4.4,-4.2,-17.6,20.4
+"Current Prices","Pangasinan","Poultry",-7.1,1.2,5.7,24.1
+"Current Prices","Pangasinan","Fisheries",13.9,3.4,17.9,0.6
+"Current Prices","Pangasinan","Agriculture and Fisheries",-6.1,2.9,7.2,7.6
+"Current Prices","Batanes","Crops",-1.0,-12.4,6.5,11.7
+"Current Prices","Batanes","Livestock",23.5,-40.5,57.4,18.7
+"Current Prices","Batanes","Poultry",0.8,6.9,2.9,-22.9
+"Current Prices","Batanes","Fisheries",4.5,12.8,0.5,57.1
+"Current Prices","Batanes","Agriculture and Fisheries",7.2,-9.6,12.8,31.7
+"Current Prices","Cagayan","Crops",-5.5,4.6,18.7,8.9
+"Current Prices","Cagayan","Livestock",-7.8,4.2,22.0,-14.2
+"Current Prices","Cagayan","Poultry",-11.8,-0.4,6.0,1.0
+"Current Prices","Cagayan","Fisheries",-1.0,2.7,4.9,22.6
+"Current Prices","Cagayan","Agriculture and Fisheries",-5.6,4.1,17.2,6.8
+"Current Prices","Isabela","Crops",-3.7,1.1,5.7,9.3
+"Current Prices","Isabela","Livestock",-0.7,-12.1,-26.8,18.3
+"Current Prices","Isabela","Poultry",1.1,-1.5,24.3,-0.1
+"Current Prices","Isabela","Fisheries",-1.4,2.2,2.5,8.1
+"Current Prices","Isabela","Agriculture and Fisheries",-3.0,-0.3,4.9,8.8
+"Current Prices","Nueva Viscaya","Crops",-13.2,1.0,22.0,3.9
+"Current Prices","Nueva Viscaya","Livestock",-1.6,6.7,22.9,3.7
+"Current Prices","Nueva Viscaya","Poultry",-7.9,-1.0,29.0,-20.4
+"Current Prices","Nueva Viscaya","Fisheries",3.9,9.7,-1.2,4.4
+"Current Prices","Nueva Viscaya","Agriculture and Fisheries",-11.4,1.7,22.2,2.1
+"Current Prices","Quirino","Crops",-6.6,7.0,1.5,14.7
+"Current Prices","Quirino","Livestock",-4.8,8.1,5.1,-34.6
+"Current Prices","Quirino","Poultry",0.5,18.7,7.8,1.0
+"Current Prices","Quirino","Fisheries",1.9,-3.7,1.9,8.3
+"Current Prices","Quirino","Agriculture and Fisheries",-5.8,7.8,2.4,7.7
+"Current Prices","Aurora","Crops",-18.3,-1.4,21.8,-0.4
+"Current Prices","Aurora","Livestock",2.1,-7.8,-6.6,-5.4
+"Current Prices","Aurora","Poultry",-14.4,7.8,15.5,14.8
+"Current Prices","Aurora","Fisheries",4.8,-15.2,1.7,29.5
+"Current Prices","Aurora","Agriculture and Fisheries",-13.0,-3.7,14.6,0.9
+"Current Prices","Bataan","Crops",-28.2,13.8,1.4,4.2
+"Current Prices","Bataan","Livestock",-7.5,-37.3,-40.1,41.1
+"Current Prices","Bataan","Poultry",-12.0,-13.6,11.7,-3.4
+"Current Prices","Bataan","Fisheries",44.7,-9.7,-10.2,-18.0
+"Current Prices","Bataan","Agriculture and Fisheries",-1.4,-10.8,-4.0,-3.6
+"Current Prices","Bulacan","Crops",-19.9,2.1,9.2,7.2
+"Current Prices","Bulacan","Livestock",-29.1,-9.4,-75.6,7.7
+"Current Prices","Bulacan","Poultry",9.3,-14.6,17.0,28.2
+"Current Prices","Bulacan","Fisheries",-4.1,3.5,0.2,45.9
+"Current Prices","Bulacan","Agriculture and Fisheries",-15.2,-8.9,-23.9,22.0
+"Current Prices","Nueva Ecija","Crops",-21.5,7.2,11.7,14.6
+"Current Prices","Nueva Ecija","Livestock",-12.4,-5.6,41.0,-15.8
+"Current Prices","Nueva Ecija","Poultry",-3.0,-1.9,14.5,14.9
+"Current Prices","Nueva Ecija","Fisheries",-8.7,16.5,18.8,-38.5
+"Current Prices","Nueva Ecija","Agriculture and Fisheries",-17.8,4.6,14.1,11.7
+"Current Prices","Pampanga","Crops",-18.5,0.2,18.8,5.2
+"Current Prices","Pampanga","Livestock",-21.9,8.6,38.1,11.7
+"Current Prices","Pampanga","Poultry",6.4,-0.8,6.8,14.9
+"Current Prices","Pampanga","Fisheries",7.7,12.3,16.9,-7.6
+"Current Prices","Pampanga","Agriculture and Fisheries",-0.8,5.8,15.9,2.9
+"Current Prices","Tarlac","Crops",-20.8,6.2,13.3,6.5
+"Current Prices","Tarlac","Livestock",-10.4,24.7,-56.2,18.6
+"Current Prices","Tarlac","Poultry",-4.0,-5.2,19.7,75.0
+"Current Prices","Tarlac","Fisheries",-18.2,9.3,-46.2,-34.0
+"Current Prices","Tarlac","Agriculture and Fisheries",-13.1,9.6,-13.7,31.0
+"Current Prices","Zambales","Crops",-13.4,22.9,7.8,-4.8
+"Current Prices","Zambales","Livestock",-8.8,47.6,-61.3,-1.1
+"Current Prices","Zambales","Poultry",-15.8,-13.3,41.0,5.4
+"Current Prices","Zambales","Fisheries",4.6,8.6,14.9,2.0
+"Current Prices","Zambales","Agriculture and Fisheries",-6.5,16.0,-1.5,0.2
+"Current Prices","Batangas","Crops",-14.0,-8.5,14.7,4.8
+"Current Prices","Batangas","Livestock",-4.8,6.4,8.3,15.6
+"Current Prices","Batangas","Poultry",24.1,8.2,1.6,13.3
+"Current Prices","Batangas","Fisheries",8.8,-24.1,5.6,-8.6
+"Current Prices","Batangas","Agriculture and Fisheries",5.6,1.0,5.8,10.9
+"Current Prices","Cavite","Crops",-17.2,-14.7,9.2,-0.5
+"Current Prices","Cavite","Livestock",-11.8,15.3,-5.1,-26.5
+"Current Prices","Cavite","Poultry",8.4,-9.0,6.2,32.1
+"Current Prices","Cavite","Fisheries",7.2,8.1,32.5,12.4
+"Current Prices","Cavite","Agriculture and Fisheries",-7.1,-0.8,7.3,1.0
+"Current Prices","Laguna","Crops",-8.4,2.5,-1.3,4.6
+"Current Prices","Laguna","Livestock",-15.8,42.2,-58.0,15.2
+"Current Prices","Laguna","Poultry",19.4,-26.3,23.3,16.3
+"Current Prices","Laguna","Fisheries",3.9,-5.9,-13.9,-32.9
+"Current Prices","Laguna","Agriculture and Fisheries",-1.4,2.5,-18.3,8.4
+"Current Prices","Quezon","Crops",-23.4,27.3,5.9,2.0
+"Current Prices","Quezon","Livestock",-5.0,20.6,18.3,-5.4
+"Current Prices","Quezon","Poultry",10.3,-5.5,4.5,21.5
+"Current Prices","Quezon","Fisheries",10.7,-10.6,19.2,-1.7
+"Current Prices","Quezon","Agriculture and Fisheries",-6.9,9.6,10.9,2.9
+"Current Prices","Rizal","Crops",-27.1,-8.2,35.0,1.9
+"Current Prices","Rizal","Livestock",-12.4,-7.9,-81.4,48.9
+"Current Prices","Rizal","Poultry",3.5,-12.3,2.7,17.1
+"Current Prices","Rizal","Fisheries",8.5,-27.9,27.8,-31.5
+"Current Prices","Rizal","Agriculture and Fisheries",-5.4,-11.5,-36.0,13.5
+"Current Prices","Marinduque","Crops",-20.2,5.8,7.5,13.1
+"Current Prices","Marinduque","Livestock",-4.1,3.2,33.9,-20.3
+"Current Prices","Marinduque","Poultry",-5.0,7.4,30.7,51.3
+"Current Prices","Marinduque","Fisheries",0.2,18.6,19.2,-30.0
+"Current Prices","Marinduque","Agriculture and Fisheries",-9.5,7.4,21.7,-10.2
+"Current Prices","Occidental Mindoro","Crops",-16.5,-3.3,27.4,7.3
+"Current Prices","Occidental Mindoro","Livestock",-17.0,-4.8,53.3,-2.9
+"Current Prices","Occidental Mindoro","Poultry",5.5,6.0,-1.5,27.9
+"Current Prices","Occidental Mindoro","Fisheries",5.1,0.1,52.3,4.3
+"Current Prices","Occidental Mindoro","Agriculture and Fisheries",-14.4,-2.9,32.0,6.0
+"Current Prices","Oriental Mindoro","Crops",-7.5,-14.2,8.6,0.8
+"Current Prices","Oriental Mindoro","Livestock",-22.5,-2.9,119.8,27.0
+"Current Prices","Oriental Mindoro","Poultry",12.8,1.9,55.1,6.5
+"Current Prices","Oriental Mindoro","Fisheries",-5.4,22.1,5.0,-18.5
+"Current Prices","Oriental Mindoro","Agriculture and Fisheries",-9.1,-9.9,25.8,6.2
+"Current Prices","Palawan","Crops",-7.0,2.1,15.9,-4.4
+"Current Prices","Palawan","Livestock",-4.1,11.7,39.8,12.1
+"Current Prices","Palawan","Poultry",15.1,8.0,-1.9,30.6
+"Current Prices","Palawan","Fisheries",-5.0,-16.4,-12.5,31.2
+"Current Prices","Palawan","Agriculture and Fisheries",-5.2,-3.7,9.4,10.0
+"Current Prices","Romblon","Crops",-15.8,-3.0,17.3,12.3
+"Current Prices","Romblon","Livestock",-7.2,-10.8,78.2,3.8
+"Current Prices","Romblon","Poultry",9.4,14.3,11.9,41.5
+"Current Prices","Romblon","Fisheries",-2.1,3.9,4.3,21.6
+"Current Prices","Romblon","Agriculture and Fisheries",-10.4,-2.1,26.2,13.8
+"Current Prices","Albay","Crops",-14.8,6.8,12.4,16.7
+"Current Prices","Albay","Livestock",-7.4,-9.7,-20.4,9.7
+"Current Prices","Albay","Poultry",11.7,9.0,35.9,20.7
+"Current Prices","Albay","Fisheries",4.0,1.3,23.2,-4.2
+"Current Prices","Albay","Agriculture and Fisheries",-8.9,2.0,8.3,12.9
+"Current Prices","Camarines Norte","Crops",-15.0,10.5,21.4,15.1
+"Current Prices","Camarines Norte","Livestock",-9.2,5.2,52.3,5.0
+"Current Prices","Camarines Norte","Poultry",-13.2,-2.2,21.2,5.8
+"Current Prices","Camarines Norte","Fisheries",14.4,-34.0,-16.1,-38.2
+"Current Prices","Camarines Norte","Agriculture and Fisheries",-6.3,-4.6,20.4,4.1
+"Current Prices","Camarines Sur","Crops",-23.5,9.0,9.1,10.7
+"Current Prices","Camarines Sur","Livestock",-10.1,-16.4,41.5,3.7
+"Current Prices","Camarines Sur","Poultry",18.0,-12.2,24.1,21.9
+"Current Prices","Camarines Sur","Fisheries",-11.3,-4.8,-7.3,96.1
+"Current Prices","Camarines Sur","Agriculture and Fisheries",-15.5,-0.4,14.1,19.0
+"Current Prices","Catanduanes","Crops",-10.8,0.9,-36.8,32.5
+"Current Prices","Catanduanes","Livestock",-11.5,8.2,-55.2,-10.4
+"Current Prices","Catanduanes","Poultry",16.4,10.5,29.6,1.2
+"Current Prices","Catanduanes","Fisheries",4.0,-16.1,-26.6,1.7
+"Current Prices","Catanduanes","Agriculture and Fisheries",-8.6,0.1,-37.8,20.1
+"Current Prices","Masbate","Crops",-22.1,14.5,24.1,8.1
+"Current Prices","Masbate","Livestock",-2.6,-3.9,40.6,14.8
+"Current Prices","Masbate","Poultry",-0.3,8.8,-31.1,-3.6
+"Current Prices","Masbate","Fisheries",-2.6,-20.7,3.2,-19.1
+"Current Prices","Masbate","Agriculture and Fisheries",-10.2,-3.7,20.4,2.7
+"Current Prices","Sorsogon","Crops",-27.4,10.7,11.4,4.1
+"Current Prices","Sorsogon","Livestock",-15.4,-0.1,44.7,17.4
+"Current Prices","Sorsogon","Poultry",-9.5,-22.3,0.9,-8.9
+"Current Prices","Sorsogon","Fisheries",-22.2,58.1,-32.8,36.5
+"Current Prices","Sorsogon","Agriculture and Fisheries",-21.8,17.5,1.3,14.9
+"Current Prices","Aklan","Crops",-13.2,10.1,1.3,19.3
+"Current Prices","Aklan","Livestock",-14.6,-8.8,16.4,21.5
+"Current Prices","Aklan","Poultry",14.1,1.8,10.0,28.2
+"Current Prices","Aklan","Fisheries",14.7,-11.0,-12.4,2.6
+"Current Prices","Aklan","Agriculture and Fisheries",-3.6,-1.6,2.7,17.9
+"Current Prices","Antique","Crops",-11.3,-9.0,12.0,14.8
+"Current Prices","Antique","Livestock",-14.0,1.4,7.2,17.2
+"Current Prices","Antique","Poultry",-7.4,4.2,0.7,23.5
+"Current Prices","Antique","Fisheries",-0.1,2.9,9.8,124.5
+"Current Prices","Antique","Agriculture and Fisheries",-9.8,-4.4,10.0,36.2
+"Current Prices","Capiz","Crops",-19.8,11.6,6.3,13.6
+"Current Prices","Capiz","Livestock",-9.7,10.2,12.5,15.7
+"Current Prices","Capiz","Poultry",-4.8,-0.9,0.5,53.3
+"Current Prices","Capiz","Fisheries",0.6,-7.0,49.1,3.7
+"Current Prices","Capiz","Agriculture and Fisheries",-10.4,3.2,21.4,12.4
+"Current Prices","Guimaras","Crops",3.4,15.0,17.8,17.0
+"Current Prices","Guimaras","Livestock",-20.2,-0.7,19.1,14.6
+"Current Prices","Guimaras","Poultry",-5.4,-2.6,0.7,22.5
+"Current Prices","Guimaras","Fisheries",11.7,-4.7,0.5,-11.0
+"Current Prices","Guimaras","Agriculture and Fisheries",-0.1,7.1,13.3,12.5
+"Current Prices","Iloilo","Crops",-15.6,11.3,3.3,14.7
+"Current Prices","Iloilo","Livestock",-10.3,-1.6,25.8,16.6
+"Current Prices","Iloilo","Poultry",5.7,4.0,5.9,35.1
+"Current Prices","Iloilo","Fisheries",-3.9,8.6,3.8,-5.5
+"Current Prices","Iloilo","Agriculture and Fisheries",-10.1,7.4,7.6,15.0
+"Current Prices","Negros Occidental","Crops",-10.0,7.2,8.3,29.5
+"Current Prices","Negros Occidental","Livestock",-12.5,4.5,25.6,9.1
+"Current Prices","Negros Occidental","Poultry",-1.0,4.2,2.5,22.5
+"Current Prices","Negros Occidental","Fisheries",4.3,-21.0,12.5,-6.3
+"Current Prices","Negros Occidental","Agriculture and Fisheries",-7.5,1.9,10.5,21.2
+"Current Prices","Bohol","Crops",-26.0,10.1,3.3,-28.9
+"Current Prices","Bohol","Livestock",-10.9,-8.6,18.5,16.9
+"Current Prices","Bohol","Poultry",-6.7,-22.1,21.8,43.7
+"Current Prices","Bohol","Fisheries",26.4,-5.7,9.5,-24.7
+"Current Prices","Bohol","Agriculture and Fisheries",-11.4,-4.8,12.0,-0.7
+"Current Prices","Cebu","Crops",-15.4,5.2,7.0,3.1
+"Current Prices","Cebu","Livestock",-2.1,-6.4,43.1,27.3
+"Current Prices","Cebu","Poultry",-1.9,5.6,20.6,9.2
+"Current Prices","Cebu","Fisheries",11.9,21.5,12.2,-53.4
+"Current Prices","Cebu","Agriculture and Fisheries",-3.0,4.0,23.3,3.4
+"Current Prices","Negros Oriental","Crops",-12.7,8.1,16.7,13.3
+"Current Prices","Negros Oriental","Livestock",0.6,-1.9,27.6,43.2
+"Current Prices","Negros Oriental","Poultry",-4.4,1.1,-5.3,45.1
+"Current Prices","Negros Oriental","Fisheries",-3.7,54.1,10.6,3.6
+"Current Prices","Negros Oriental","Agriculture and Fisheries",-7.4,7.2,17.3,24.4
+"Current Prices","Siquijor","Crops",-19.1,21.0,9.1,4.6
+"Current Prices","Siquijor","Livestock",3.0,-4.3,29.6,15.4
+"Current Prices","Siquijor","Poultry",-10.1,9.4,10.5,21.8
+"Current Prices","Siquijor","Fisheries",25.5,11.4,-15.8,12.5
+"Current Prices","Siquijor","Agriculture and Fisheries",-0.8,8.0,9.1,12.0
+"Current Prices","Biliran","Crops",-15.2,0.1,3.7,9.7
+"Current Prices","Biliran","Livestock",-1.2,-13.2,24.2,9.1
+"Current Prices","Biliran","Poultry",-14.2,17.3,-17.3,12.7
+"Current Prices","Biliran","Fisheries",34.0,2.1,16.9,-18.8
+"Current Prices","Biliran","Agriculture and Fisheries",-3.1,-0.3,9.1,0.3
+"Current Prices","Eastern Samar","Crops",-17.7,-5.7,3.1,19.3
+"Current Prices","Eastern Samar","Livestock",-4.5,-17.2,4.6,55.0
+"Current Prices","Eastern Samar","Poultry",-24.5,16.4,-19.0,106.2
+"Current Prices","Eastern Samar","Fisheries",7.7,-9.9,26.1,-9.5
+"Current Prices","Eastern Samar","Agriculture and Fisheries",-7.0,-8.6,12.8,9.2
+"Current Prices","Leyte","Crops",-12.5,-0.7,-4.7,9.1
+"Current Prices","Leyte","Livestock",-4.3,7.2,18.5,-8.6
+"Current Prices","Leyte","Poultry",-8.9,40.7,-4.5,48.0
+"Current Prices","Leyte","Fisheries",63.7,-15.2,31.8,1.2
+"Current Prices","Leyte","Agriculture and Fisheries",-5.4,6.2,4.2,10.4
+"Current Prices","Northern Samar","Crops",-16.5,11.3,-8.4,13.1
+"Current Prices","Northern Samar","Livestock",4.8,-13.8,-2.3,48.6
+"Current Prices","Northern Samar","Poultry",-19.3,51.2,25.0,17.1
+"Current Prices","Northern Samar","Fisheries",2.7,16.5,28.6,-10.8
+"Current Prices","Northern Samar","Agriculture and Fisheries",-9.7,9.6,3.0,9.9
+"Current Prices","Samar","Crops",-11.6,11.4,6.0,19.1
+"Current Prices","Samar","Livestock",1.5,4.3,30.1,3.0
+"Current Prices","Samar","Poultry",-26.8,51.1,-22.0,165.1
+"Current Prices","Samar","Fisheries",19.9,-13.0,20.2,-10.7
+"Current Prices","Samar","Agriculture and Fisheries",-2.8,4.0,10.6,13.2
+"Current Prices","Southern Leyte","Crops",-13.6,6.0,1.5,-20.4
+"Current Prices","Southern Leyte","Livestock",-2.5,-0.8,23.0,-5.0
+"Current Prices","Southern Leyte","Poultry",0.1,58.7,6.0,-19.9
+"Current Prices","Southern Leyte","Fisheries",30.7,34.2,10.3,65.3
+"Current Prices","Southern Leyte","Agriculture and Fisheries",-7.4,11.2,5.9,-4.1
+"Current Prices","Zamboanga del Norte","Crops",-10.9,3.1,20.4,7.2
+"Current Prices","Zamboanga del Norte","Livestock",-4.3,0.8,27.1,29.4
+"Current Prices","Zamboanga del Norte","Poultry",9.5,4.3,17.3,31.3
+"Current Prices","Zamboanga del Norte","Fisheries",-2.5,9.2,23.7,72.1
+"Current Prices","Zamboanga del Norte","Agriculture and Fisheries",-7.5,3.5,21.9,22.1
+"Current Prices","Zamboanga del Sur*","Crops",-14.6,-1.2,11.5,10.4
+"Current Prices","Zamboanga del Sur*","Livestock",-8.6,-5.7,15.8,33.5
+"Current Prices","Zamboanga del Sur*","Poultry",16.7,0.0,12.8,21.3
+"Current Prices","Zamboanga del Sur*","Fisheries",6.8,2.6,4.0,28.6
+"Current Prices","Zamboanga del Sur*","Agriculture and Fisheries",-4.2,-0.3,9.4,20.7
+"Current Prices","Zamboanga Sibugay","Crops",-8.7,-1.9,14.3,10.4
+"Current Prices","Zamboanga Sibugay","Livestock",-12.4,-0.3,40.8,32.1
+"Current Prices","Zamboanga Sibugay","Poultry",-10.0,-2.4,8.7,27.7
+"Current Prices","Zamboanga Sibugay","Fisheries",9.6,-6.0,19.7,8.5
+"Current Prices","Zamboanga Sibugay","Agriculture and Fisheries",-6.0,-2.5,19.2,14.2
+"Current Prices","Bukidnon","Crops",2.7,7.1,15.7,8.0
+"Current Prices","Bukidnon","Livestock",4.1,1.2,50.1,20.7
+"Current Prices","Bukidnon","Poultry",5.9,5.1,20.3,29.8
+"Current Prices","Bukidnon","Fisheries",19.2,-12.3,-66.4,-0.4
+"Current Prices","Bukidnon","Agriculture and Fisheries",3.3,5.9,21.1,12.5
+"Current Prices","Camiguin","Crops",-13.8,9.4,29.0,2.5
+"Current Prices","Camiguin","Livestock",13.4,2.6,38.2,3.5
+"Current Prices","Camiguin","Poultry",5.2,20.5,40.8,0.6
+"Current Prices","Camiguin","Fisheries",5.3,-17.3,50.4,37.5
+"Current Prices","Camiguin","Agriculture and Fisheries",-2.4,2.9,35.8,8.6
+"Current Prices","Lanao del Norte","Crops",-5.8,9.7,18.8,8.4
+"Current Prices","Lanao del Norte","Livestock",6.1,-3.9,23.9,30.2
+"Current Prices","Lanao del Norte","Poultry",9.5,10.2,21.4,21.2
+"Current Prices","Lanao del Norte","Fisheries",4.9,-20.6,1.4,-14.4
+"Current Prices","Lanao del Norte","Agriculture and Fisheries",-0.4,-3.5,13.7,4.4
+"Current Prices","Misamis Occidental","Crops",-13.6,10.1,23.0,3.3
+"Current Prices","Misamis Occidental","Livestock",0.2,-2.6,31.6,19.8
+"Current Prices","Misamis Occidental","Poultry",-0.6,4.3,39.7,17.4
+"Current Prices","Misamis Occidental","Fisheries",0.5,0.3,-3.0,-22.5
+"Current Prices","Misamis Occidental","Agriculture and Fisheries",-6.5,4.5,20.7,3.9
+"Current Prices","Misamis Oriental","Crops",-3.3,14.5,18.8,4.9
+"Current Prices","Misamis Oriental","Livestock",-4.4,-8.7,36.7,17.1
+"Current Prices","Misamis Oriental","Poultry",0.3,-2.9,10.2,20.0
+"Current Prices","Misamis Oriental","Fisheries",4.1,-41.7,5.7,26.6
+"Current Prices","Misamis Oriental","Agriculture and Fisheries",-2.0,1.2,18.9,12.3
+"Current Prices","Davao de Oro","Crops",15.2,23.1,-26.1,-4.1
+"Current Prices","Davao de Oro","Livestock",-1.6,8.1,33.8,13.4
+"Current Prices","Davao de Oro","Poultry",-10.6,6.8,16.4,23.3
+"Current Prices","Davao de Oro","Fisheries",2.7,8.7,28.7,-8.6
+"Current Prices","Davao de Oro","Agriculture and Fisheries",12.8,21.4,-20.7,-1.2
+"Current Prices","Davao del Norte","Crops",16.0,20.0,-30.8,-2.5
+"Current Prices","Davao del Norte","Livestock",-0.2,1.5,20.3,23.6
+"Current Prices","Davao del Norte","Poultry",19.9,4.2,15.4,27.1
+"Current Prices","Davao del Norte","Fisheries",-13.1,23.4,41.2,9.0
+"Current Prices","Davao del Norte","Agriculture and Fisheries",14.2,17.9,-24.8,2.2
+"Current Prices","Davao del Sur*","Crops",4.2,23.6,-16.3,-0.7
+"Current Prices","Davao del Sur*","Livestock",-3.7,4.1,32.7,18.3
+"Current Prices","Davao del Sur*","Poultry",10.7,-0.2,1.5,14.5
+"Current Prices","Davao del Sur*","Fisheries",2.3,4.6,20.6,47.1
+"Current Prices","Davao del Sur*","Agriculture and Fisheries",3.4,14.4,-2.7,8.7
+"Current Prices","Davao Occidental","Crops",-3.0,30.0,-7.7,-2.4
+"Current Prices","Davao Occidental","Livestock",1.2,-39.2,7.3,14.3
+"Current Prices","Davao Occidental","Poultry",-0.7,-27.5,53.0,11.1
+"Current Prices","Davao Occidental","Fisheries",0.6,-9.0,45.1,37.4
+"Current Prices","Davao Occidental","Agriculture and Fisheries",-2.0,15.6,1.4,6.8
+"Current Prices","Davao Oriental","Crops",-4.5,22.0,0.0,-3.4
+"Current Prices","Davao Oriental","Livestock",-12.0,-1.6,34.7,9.7
+"Current Prices","Davao Oriental","Poultry",-17.4,1.2,15.1,18.4
+"Current Prices","Davao Oriental","Fisheries",12.5,-23.8,-1.5,330.6
+"Current Prices","Davao Oriental","Agriculture and Fisheries",-4.7,12.1,5.4,24.3
+"Current Prices","Cotabato","Crops",-6.3,6.3,-3.7,1.6
+"Current Prices","Cotabato","Livestock",-2.8,-2.6,29.4,-1.8
+"Current Prices","Cotabato","Poultry",-0.6,-5.6,19.2,2.7
+"Current Prices","Cotabato","Fisheries",-10.3,-21.4,12.2,18.4
+"Current Prices","Cotabato","Agriculture and Fisheries",-5.9,4.2,0.8,1.5
+"Current Prices","Sarangani","Crops",-2.3,15.9,3.7,0.5
+"Current Prices","Sarangani","Livestock",-5.9,0.6,15.7,-4.0
+"Current Prices","Sarangani","Poultry",0.1,-15.3,4.1,28.1
+"Current Prices","Sarangani","Fisheries",58.8,-9.6,34.3,91.3
+"Current Prices","Sarangani","Agriculture and Fisheries",4.4,8.6,9.2,17.2
+"Current Prices","South Cotabato","Crops",-7.1,1.0,1.7,1.8
+"Current Prices","South Cotabato","Livestock",-2.2,2.8,41.2,15.7
+"Current Prices","South Cotabato","Poultry",6.6,7.4,25.2,24.9
+"Current Prices","South Cotabato","Fisheries",6.8,-13.2,-0.5,14.0
+"Current Prices","South Cotabato","Agriculture and Fisheries",0.1,-3.5,9.5,11.7
+"Current Prices","Sultan Kudarat","Crops",-15.8,5.9,5.8,9.6
+"Current Prices","Sultan Kudarat","Livestock",-9.0,5.5,28.0,-9.3
+"Current Prices","Sultan Kudarat","Poultry",-9.7,2.1,5.3,0.2
+"Current Prices","Sultan Kudarat","Fisheries",-28.1,-29.2,123.4,15.4
+"Current Prices","Sultan Kudarat","Agriculture and Fisheries",-15.4,4.5,11.2,7.0
+"Current Prices","Agusan del Norte","Crops",-7.9,12.7,7.2,5.5
+"Current Prices","Agusan del Norte","Livestock",-3.4,-3.2,13.4,13.2
+"Current Prices","Agusan del Norte","Poultry",-1.3,4.8,17.6,45.1
+"Current Prices","Agusan del Norte","Fisheries",6.7,-9.6,22.3,41.2
+"Current Prices","Agusan del Norte","Agriculture and Fisheries",-4.3,5.9,11.7,19.0
+"Current Prices","Agusan del Sur","Crops",-13.7,21.9,0.1,9.7
+"Current Prices","Agusan del Sur","Livestock",-0.3,-9.2,9.5,33.0
+"Current Prices","Agusan del Sur","Poultry",-5.2,3.6,9.5,-0.5
+"Current Prices","Agusan del Sur","Fisheries",1.1,16.1,-10.6,7.5
+"Current Prices","Agusan del Sur","Agriculture and Fisheries",-11.6,16.6,1.5,11.8
+"Current Prices","Dinagat Islands","Crops",-28.2,20.4,10.3,-24.4
+"Current Prices","Dinagat Islands","Livestock",8.3,3.4,20.5,42.8
+"Current Prices","Dinagat Islands","Poultry",1.6,-3.0,12.2,-16.6
+"Current Prices","Dinagat Islands","Fisheries",1.6,-7.1,26.9,17.1
+"Current Prices","Dinagat Islands","Agriculture and Fisheries",-7.3,1.4,20.3,7.9
+"Current Prices","Surigao del Norte","Crops",-19.6,15.0,7.9,-27.8
+"Current Prices","Surigao del Norte","Livestock",-6.5,-13.3,-8.1,-17.5
+"Current Prices","Surigao del Norte","Poultry",-35.3,-6.5,11.3,-23.4
+"Current Prices","Surigao del Norte","Fisheries",-5.3,-2.6,-7.3,10.6
+"Current Prices","Surigao del Norte","Agriculture and Fisheries",-11.6,1.3,-1.3,-9.8
+"Current Prices","Surigao del Sur","Crops",-12.5,25.3,-3.0,6.9
+"Current Prices","Surigao del Sur","Livestock",6.7,-7.3,22.8,-5.7
+"Current Prices","Surigao del Sur","Poultry",-6.5,-1.8,14.1,12.8
+"Current Prices","Surigao del Sur","Fisheries",20.3,-5.2,15.4,0.0
+"Current Prices","Surigao del Sur","Agriculture and Fisheries",-2.5,12.0,4.3,3.8
+"Current Prices","Basilan","Crops",16.1,17.7,-10.2,3.3
+"Current Prices","Basilan","Livestock",8.9,10.4,3.8,58.9
+"Current Prices","Basilan","Poultry",-18.0,10.9,-30.0,-9.3
+"Current Prices","Basilan","Fisheries",-6.5,28.0,12.2,108.6
+"Current Prices","Basilan","Agriculture and Fisheries",11.4,17.3,-6.6,23.8
+"Current Prices","Lanao del Sur","Crops",9.1,5.3,-0.9,12.9
+"Current Prices","Lanao del Sur","Livestock",-1.5,-8.4,10.2,31.6
+"Current Prices","Lanao del Sur","Poultry",-18.5,25.5,30.7,9.2
+"Current Prices","Lanao del Sur","Fisheries",39.1,16.5,2.4,-54.2
+"Current Prices","Lanao del Sur","Agriculture and Fisheries",9.3,6.1,0.7,8.2
+"Current Prices","Maguindanao","Crops",-1.4,0.3,13.1,15.6
+"Current Prices","Maguindanao","Livestock",9.1,-8.3,16.2,30.7
+"Current Prices","Maguindanao","Poultry",24.9,32.9,46.9,-13.0
+"Current Prices","Maguindanao","Fisheries",6.9,6.5,86.7,5.4
+"Current Prices","Maguindanao","Agriculture and Fisheries",0.3,1.0,24.8,13.5
+"Current Prices","Sulu","Crops",5.7,14.8,-5.9,5.5
+"Current Prices","Sulu","Livestock",15.5,10.8,22.5,13.8
+"Current Prices","Sulu","Poultry",-22.0,8.8,41.3,4.7
+"Current Prices","Sulu","Fisheries",0.7,-0.1,2.9,3.1
+"Current Prices","Sulu","Agriculture and Fisheries",3.0,7.9,-0.4,4.8
+"Current Prices","Tawi-Tawi","Crops",1.2,17.8,-9.2,5.3
+"Current Prices","Tawi-Tawi","Livestock",39.3,-8.1,27.0,-24.8
+"Current Prices","Tawi-Tawi","Poultry",-37.2,16.8,4.8,-19.1
+"Current Prices","Tawi-Tawi","Fisheries",7.2,12.1,6.8,103.5
+"Current Prices","Tawi-Tawi","Agriculture and Fisheries",4.8,13.5,1.8,69.2
+"Constant 2018 Prices","Abra","Crops",21.7,2.3,5.5,-12.0
+"Constant 2018 Prices","Abra","Livestock",-12.0,-13.8,6.8,-2.9
+"Constant 2018 Prices","Abra","Poultry",-0.1,-13.9,28.0,6.7
+"Constant 2018 Prices","Abra","Fisheries",-16.9,12.0,1.4,5.5
+"Constant 2018 Prices","Abra","Agriculture and Fisheries",9.5,-2.0,6.4,-8.9
+"Constant 2018 Prices","Apayao","Crops",10.0,17.4,-13.9,-8.9
+"Constant 2018 Prices","Apayao","Livestock",1.2,-0.1,-4.2,-36.1
+"Constant 2018 Prices","Apayao","Poultry",7.1,36.3,-8.8,1.3
+"Constant 2018 Prices","Apayao","Fisheries",12.2,-26.3,-58.9,15.6
+"Constant 2018 Prices","Apayao","Agriculture and Fisheries",8.4,14.7,-12.5,-12.7
+"Constant 2018 Prices","Benguet","Crops",4.9,1.1,0.8,3.4
+"Constant 2018 Prices","Benguet","Livestock",1.1,2.3,-4.4,-1.3
+"Constant 2018 Prices","Benguet","Poultry",-0.7,11.5,18.4,10.6
+"Constant 2018 Prices","Benguet","Fisheries",-12.6,-28.9,-43.6,176.0
+"Constant 2018 Prices","Benguet","Agriculture and Fisheries",4.5,1.3,0.8,3.6
+"Constant 2018 Prices","Ifugao","Crops",-3.7,-4.8,-23.7,-19.2
+"Constant 2018 Prices","Ifugao","Livestock",5.7,18.7,-13.4,-20.0
+"Constant 2018 Prices","Ifugao","Poultry",-9.2,-11.8,-10.6,7.8
+"Constant 2018 Prices","Ifugao","Fisheries",-2.5,-17.5,34.2,-17.1
+"Constant 2018 Prices","Ifugao","Agriculture and Fisheries",-3.2,-2.8,-17.5,-15.2
+"Constant 2018 Prices","Kalinga","Crops",4.5,-24.7,14.3,-5.2
+"Constant 2018 Prices","Kalinga","Livestock",0.5,-19.5,-49.6,49.6
+"Constant 2018 Prices","Kalinga","Poultry",11.3,2.6,-8.4,-4.3
+"Constant 2018 Prices","Kalinga","Fisheries",2.9,7.3,-12.7,6.0
+"Constant 2018 Prices","Kalinga","Agriculture and Fisheries",4.0,-22.9,2.3,-0.5
+"Constant 2018 Prices","Mt. Province","Crops",-3.5,4.3,-1.3,-1.4
+"Constant 2018 Prices","Mt. Province","Livestock",8.4,-11.1,1.9,-5.6
+"Constant 2018 Prices","Mt. Province","Poultry",-6.8,2.2,4.9,20.9
+"Constant 2018 Prices","Mt. Province","Fisheries",-19.2,30.1,32.5,14.5
+"Constant 2018 Prices","Mt. Province","Agriculture and Fisheries",-1.3,0.9,-0.4,-1.2
+"Constant 2018 Prices","Ilocos Norte","Crops",7.6,1.2,-1.3,-1.8
+"Constant 2018 Prices","Ilocos Norte","Livestock",5.6,11.9,3.8,-29.9
+"Constant 2018 Prices","Ilocos Norte","Poultry",13.5,8.2,0.8,-4.5
+"Constant 2018 Prices","Ilocos Norte","Fisheries",-13.4,13.0,-15.2,-20.4
+"Constant 2018 Prices","Ilocos Norte","Agriculture and Fisheries",6.9,3.9,-0.7,-7.7
+"Constant 2018 Prices","Ilocos Sur","Crops",10.7,1.7,-0.4,-2.4
+"Constant 2018 Prices","Ilocos Sur","Livestock",3.2,-2.1,-6.4,-2.8
+"Constant 2018 Prices","Ilocos Sur","Poultry",-14.2,5.9,-5.9,24.5
+"Constant 2018 Prices","Ilocos Sur","Fisheries",4.3,2.6,-1.6,2.1
+"Constant 2018 Prices","Ilocos Sur","Agriculture and Fisheries",7.8,1.3,-1.6,-1.1
+"Constant 2018 Prices","La Union","Crops",8.0,2.6,-10.0,4.6
+"Constant 2018 Prices","La Union","Livestock",-2.1,-11.4,-51.6,18.6
+"Constant 2018 Prices","La Union","Poultry",9.8,-4.0,3.7,31.2
+"Constant 2018 Prices","La Union","Fisheries",3.6,10.8,17.8,-2.3
+"Constant 2018 Prices","La Union","Agriculture and Fisheries",5.5,-0.6,-12.8,9.8
+"Constant 2018 Prices","Pangasinan","Crops",2.7,1.1,1.5,2.5
+"Constant 2018 Prices","Pangasinan","Livestock",-2.4,-12.2,-35.6,1.1
+"Constant 2018 Prices","Pangasinan","Poultry",-3.7,1.6,-14.3,6.5
+"Constant 2018 Prices","Pangasinan","Fisheries",9.9,5.2,5.8,3.9
+"Constant 2018 Prices","Pangasinan","Agriculture and Fisheries",2.9,0.4,-2.9,3.1
+"Constant 2018 Prices","Batanes","Crops",-1.0,3.4,-1.4,17.3
+"Constant 2018 Prices","Batanes","Livestock",27.9,-42.1,3.0,10.1
+"Constant 2018 Prices","Batanes","Poultry",-3.5,-6.4,14.2,-19.9
+"Constant 2018 Prices","Batanes","Fisheries",-11.0,-3.4,0.9,33.2
+"Constant 2018 Prices","Batanes","Agriculture and Fisheries",1.9,-13.2,1.1,20.2
+"Constant 2018 Prices","Cagayan","Crops",10.8,1.7,13.6,2.1
+"Constant 2018 Prices","Cagayan","Livestock",-3.8,1.7,-21.5,-20.1
+"Constant 2018 Prices","Cagayan","Poultry",-12.0,-3.8,-3.6,-8.1
+"Constant 2018 Prices","Cagayan","Fisheries",-6.0,1.7,1.6,8.4
+"Constant 2018 Prices","Cagayan","Agriculture and Fisheries",6.2,1.5,7.8,0.4
+"Constant 2018 Prices","Isabela","Crops",10.4,-0.7,1.3,1.8
+"Constant 2018 Prices","Isabela","Livestock",3.3,-14.9,-49.4,1.7
+"Constant 2018 Prices","Isabela","Poultry",1.5,-4.5,11.6,-7.6
+"Constant 2018 Prices","Isabela","Fisheries",3.9,-2.9,5.3,6.9
+"Constant 2018 Prices","Isabela","Agriculture and Fisheries",9.0,-2.2,-1.3,1.1
+"Constant 2018 Prices","Nueva Viscaya","Crops",0.0,-2.6,11.1,-3.1
+"Constant 2018 Prices","Nueva Viscaya","Livestock",3.3,3.8,-22.2,-1.6
+"Constant 2018 Prices","Nueva Viscaya","Poultry",-7.3,-3.4,13.9,-26.4
+"Constant 2018 Prices","Nueva Viscaya","Fisheries",5.6,4.9,1.3,6.1
+"Constant 2018 Prices","Nueva Viscaya","Agriculture and Fisheries",0.0,-1.8,7.1,-4.4
+"Constant 2018 Prices","Quirino","Crops",0.7,7.4,-2.6,6.9
+"Constant 2018 Prices","Quirino","Livestock",-0.1,5.5,-33.3,-38.4
+"Constant 2018 Prices","Quirino","Poultry",-1.4,7.7,10.3,0.8
+"Constant 2018 Prices","Quirino","Fisheries",-8.3,-7.3,5.7,14.8
+"Constant 2018 Prices","Quirino","Agriculture and Fisheries",0.3,7.1,-5.1,3.0
+"Constant 2018 Prices","Aurora","Crops",1.6,-9.4,12.3,-3.9
+"Constant 2018 Prices","Aurora","Livestock",12.9,-28.4,-32.6,3.2
+"Constant 2018 Prices","Aurora","Poultry",-13.5,6.7,1.8,-0.8
+"Constant 2018 Prices","Aurora","Fisheries",-6.6,-17.4,-2.1,11.8
+"Constant 2018 Prices","Aurora","Agriculture and Fisheries",2.8,-13.4,4.0,-2.2
+"Constant 2018 Prices","Bataan","Crops",-8.4,6.4,-4.4,0.3
+"Constant 2018 Prices","Bataan","Livestock",4.4,-52.1,-54.6,47.4
+"Constant 2018 Prices","Bataan","Poultry",-4.5,-9.6,-12.8,-17.8
+"Constant 2018 Prices","Bataan","Fisheries",17.2,-6.1,-3.3,-16.8
+"Constant 2018 Prices","Bataan","Agriculture and Fisheries",1.3,-12.0,-11.4,-9.3
+"Constant 2018 Prices","Bulacan","Crops",0.6,-3.9,4.0,3.8
+"Constant 2018 Prices","Bulacan","Livestock",-18.9,-31.9,-83.0,20.0
+"Constant 2018 Prices","Bulacan","Poultry",15.3,-13.7,-1.8,9.3
+"Constant 2018 Prices","Bulacan","Fisheries",-1.9,-15.3,12.2,27.4
+"Constant 2018 Prices","Bulacan","Agriculture and Fisheries",-5.0,-19.9,-29.4,10.3
+"Constant 2018 Prices","Nueva Ecija","Crops",6.0,-1.9,-1.8,-4.1
+"Constant 2018 Prices","Nueva Ecija","Livestock",-3.8,-26.4,1.2,-8.0
+"Constant 2018 Prices","Nueva Ecija","Poultry",3.7,1.8,-8.8,-2.1
+"Constant 2018 Prices","Nueva Ecija","Fisheries",-3.5,-2.7,32.1,-33.6
+"Constant 2018 Prices","Nueva Ecija","Agriculture and Fisheries",4.9,-2.8,-2.6,-4.2
+"Constant 2018 Prices","Pampanga","Crops",4.1,-5.7,11.4,0.2
+"Constant 2018 Prices","Pampanga","Livestock",-12.1,-16.9,-3.7,23.9
+"Constant 2018 Prices","Pampanga","Poultry",9.3,-4.3,-2.6,-1.3
+"Constant 2018 Prices","Pampanga","Fisheries",4.1,5.6,15.9,-6.6
+"Constant 2018 Prices","Pampanga","Agriculture and Fisheries",3.9,-1.9,7.5,-1.6
+"Constant 2018 Prices","Tarlac","Crops",0.0,-0.6,4.6,-1.6
+"Constant 2018 Prices","Tarlac","Livestock",0.2,-4.0,-67.9,26.7
+"Constant 2018 Prices","Tarlac","Poultry",1.0,-3.3,-0.8,51.5
+"Constant 2018 Prices","Tarlac","Fisheries",-13.2,4.1,-52.4,-34.1
+"Constant 2018 Prices","Tarlac","Agriculture and Fisheries",0.1,-2.4,-21.7,18.6
+"Constant 2018 Prices","Zambales","Crops",5.2,15.2,0.9,-7.5
+"Constant 2018 Prices","Zambales","Livestock",1.5,13.9,-70.9,5.3
+"Constant 2018 Prices","Zambales","Poultry",-8.4,-9.8,10.7,-10.1
+"Constant 2018 Prices","Zambales","Fisheries",0.0,6.4,9.9,4.9
+"Constant 2018 Prices","Zambales","Agriculture and Fisheries",0.3,7.9,-8.8,-1.8
+"Constant 2018 Prices","Batangas","Crops",-12.0,-14.5,5.9,-7.5
+"Constant 2018 Prices","Batangas","Livestock",7.3,-14.1,-25.0,15.6
+"Constant 2018 Prices","Batangas","Poultry",10.9,3.6,5.5,3.6
+"Constant 2018 Prices","Batangas","Fisheries",-17.2,-26.6,10.7,-19.4
+"Constant 2018 Prices","Batangas","Agriculture and Fisheries",2.5,-9.3,-6.1,3.6
+"Constant 2018 Prices","Cavite","Crops",-13.6,-18.4,7.6,0.8
+"Constant 2018 Prices","Cavite","Livestock",-1.0,-6.6,-33.9,-28.6
+"Constant 2018 Prices","Cavite","Poultry",0.7,-5.0,-2.0,18.0
+"Constant 2018 Prices","Cavite","Fisheries",-33.3,-6.8,18.8,-0.9
+"Constant 2018 Prices","Cavite","Agriculture and Fisheries",-9.2,-10.2,-8.7,-2.7
+"Constant 2018 Prices","Laguna","Crops",6.6,-7.9,-4.1,3.4
+"Constant 2018 Prices","Laguna","Livestock",-5.6,15.6,-69.3,6.0
+"Constant 2018 Prices","Laguna","Poultry",12.7,-20.7,8.8,2.3
+"Constant 2018 Prices","Laguna","Fisheries",101.9,-2.5,-20.8,-35.4
+"Constant 2018 Prices","Laguna","Agriculture and Fisheries",12.2,-4.4,-25.7,-2.9
+"Constant 2018 Prices","Quezon","Crops",-8.0,0.7,1.3,-1.8
+"Constant 2018 Prices","Quezon","Livestock",5.2,-0.6,-15.6,-11.7
+"Constant 2018 Prices","Quezon","Poultry",3.9,0.2,-6.3,7.2
+"Constant 2018 Prices","Quezon","Fisheries",-3.5,-10.6,0.8,-0.8
+"Constant 2018 Prices","Quezon","Agriculture and Fisheries",-2.6,-2.0,-3.6,-1.6
+"Constant 2018 Prices","Rizal","Crops",-19.4,-16.2,33.2,4.0
+"Constant 2018 Prices","Rizal","Livestock",-0.1,-26.5,-87.0,46.0
+"Constant 2018 Prices","Rizal","Poultry",-4.0,-9.3,-4.2,3.9
+"Constant 2018 Prices","Rizal","Fisheries",96.9,-21.4,-18.8,-17.9
+"Constant 2018 Prices","Rizal","Agriculture and Fisheries",5.4,-19.6,-41.9,3.7
+"Constant 2018 Prices","Marinduque","Crops",-10.8,7.2,-2.6,7.2
+"Constant 2018 Prices","Marinduque","Livestock",4.9,-4.3,-3.3,-28.0
+"Constant 2018 Prices","Marinduque","Poultry",-11.4,1.1,25.6,37.3
+"Constant 2018 Prices","Marinduque","Fisheries",2.2,-1.1,7.5,-44.7
+"Constant 2018 Prices","Marinduque","Agriculture and Fisheries",-2.1,0.5,-0.1,-16.4
+"Constant 2018 Prices","Occidental Mindoro","Crops",-1.1,-6.9,18.9,5.4
+"Constant 2018 Prices","Occidental Mindoro","Livestock",-13.0,-9.8,15.4,-12.2
+"Constant 2018 Prices","Occidental Mindoro","Poultry",-1.7,-1.1,-3.2,14.5
+"Constant 2018 Prices","Occidental Mindoro","Fisheries",11.0,2.3,35.6,-9.3
+"Constant 2018 Prices","Occidental Mindoro","Agriculture and Fisheries",-1.7,-6.3,19.4,2.2
+"Constant 2018 Prices","Oriental Mindoro","Crops",1.1,-9.5,-4.7,-0.1
+"Constant 2018 Prices","Oriental Mindoro","Livestock",-16.6,-10.6,63.0,14.5
+"Constant 2018 Prices","Oriental Mindoro","Poultry",4.4,-5.3,57.4,-5.8
+"Constant 2018 Prices","Oriental Mindoro","Fisheries",-11.8,2.6,-0.3,-32.7
+"Constant 2018 Prices","Oriental Mindoro","Agriculture and Fisheries",-2.3,-8.8,6.2,0.6
+"Constant 2018 Prices","Palawan","Crops",3.7,3.4,3.6,-9.0
+"Constant 2018 Prices","Palawan","Livestock",4.6,3.4,1.9,1.4
+"Constant 2018 Prices","Palawan","Poultry",7.1,1.5,-4.2,17.0
+"Constant 2018 Prices","Palawan","Fisheries",0.4,-1.9,-12.1,-12.2
+"Constant 2018 Prices","Palawan","Agriculture and Fisheries",2.6,1.3,-2.7,-7.7
+"Constant 2018 Prices","Romblon","Crops",-4.5,-2.6,3.8,6.0
+"Constant 2018 Prices","Romblon","Livestock",-0.9,-16.9,33.2,-5.6
+"Constant 2018 Prices","Romblon","Poultry",3.4,6.8,8.4,26.3
+"Constant 2018 Prices","Romblon","Fisheries",-4.3,-12.3,-9.7,26.1
+"Constant 2018 Prices","Romblon","Agriculture and Fisheries",-3.2,-6.3,7.7,7.3
+"Constant 2018 Prices","Albay","Crops",-5.5,3.9,3.8,5.2
+"Constant 2018 Prices","Albay","Livestock",6.7,-12.5,-47.0,3.8
+"Constant 2018 Prices","Albay","Poultry",15.7,6.2,18.3,11.4
+"Constant 2018 Prices","Albay","Fisheries",9.2,-4.0,10.7,-20.3
+"Constant 2018 Prices","Albay","Agriculture and Fisheries",0.7,-1.3,-6.3,2.0
+"Constant 2018 Prices","Camarines Norte","Crops",-1.5,-0.3,3.1,0.0
+"Constant 2018 Prices","Camarines Norte","Livestock",3.8,2.1,2.1,-0.4
+"Constant 2018 Prices","Camarines Norte","Poultry",-10.0,-4.8,5.4,-2.0
+"Constant 2018 Prices","Camarines Norte","Fisheries",3.7,-36.2,-24.7,-43.5
+"Constant 2018 Prices","Camarines Norte","Agriculture and Fisheries",0.7,-9.2,-2.1,-6.3
+"Constant 2018 Prices","Camarines Sur","Crops",-9.6,4.7,0.9,0.0
+"Constant 2018 Prices","Camarines Sur","Livestock",2.0,-19.2,-3.9,-2.6
+"Constant 2018 Prices","Camarines Sur","Poultry",22.4,-15.1,9.2,13.5
+"Constant 2018 Prices","Camarines Sur","Fisheries",-15.2,-7.3,-8.2,58.7
+"Constant 2018 Prices","Camarines Sur","Agriculture and Fisheries",-4.9,-3.6,0.2,6.7
+"Constant 2018 Prices","Catanduanes","Crops",-8.1,-1.4,-35.3,33.9
+"Constant 2018 Prices","Catanduanes","Livestock",0.9,5.1,-69.9,-19.3
+"Constant 2018 Prices","Catanduanes","Poultry",20.3,7.1,15.2,-6.1
+"Constant 2018 Prices","Catanduanes","Fisheries",-23.5,-9.4,-33.1,-6.3
+"Constant 2018 Prices","Catanduanes","Agriculture and Fisheries",-7.7,-0.6,-41.9,21.2
+"Constant 2018 Prices","Masbate","Crops",2.0,2.2,3.8,4.0
+"Constant 2018 Prices","Masbate","Livestock",2.7,-6.0,1.0,2.2
+"Constant 2018 Prices","Masbate","Poultry",2.7,4.6,-35.7,-9.9
+"Constant 2018 Prices","Masbate","Fisheries",-5.4,-20.7,-0.3,-26.5
+"Constant 2018 Prices","Masbate","Agriculture and Fisheries",-0.4,-7.4,1.0,-5.2
+"Constant 2018 Prices","Sorsogon","Crops",-12.1,3.9,1.2,-0.8
+"Constant 2018 Prices","Sorsogon","Livestock",-6.1,-2.4,-1.1,9.1
+"Constant 2018 Prices","Sorsogon","Poultry",-6.1,-25.4,-9.4,-13.6
+"Constant 2018 Prices","Sorsogon","Fisheries",-17.5,79.1,-33.9,0.4
+"Constant 2018 Prices","Sorsogon","Agriculture and Fisheries",-11.8,18.8,-13.4,0.9
+"Constant 2018 Prices","Aklan","Crops",-5.9,9.9,-2.7,6.6
+"Constant 2018 Prices","Aklan","Livestock",-0.9,-11.2,-2.7,8.2
+"Constant 2018 Prices","Aklan","Poultry",17.7,0.2,6.8,-0.1
+"Constant 2018 Prices","Aklan","Fisheries",14.4,-3.9,-20.7,-14.8
+"Constant 2018 Prices","Aklan","Agriculture and Fisheries",3.3,-0.7,-5.7,1.4
+"Constant 2018 Prices","Antique","Crops",2.0,-10.2,11.2,2.6
+"Constant 2018 Prices","Antique","Livestock",-2.4,-0.6,-9.4,4.2
+"Constant 2018 Prices","Antique","Poultry",-3.7,-1.5,-0.7,1.2
+"Constant 2018 Prices","Antique","Fisheries",-6.8,8.7,6.0,81.8
+"Constant 2018 Prices","Antique","Agriculture and Fisheries",-0.5,-5.2,5.9,16.1
+"Constant 2018 Prices","Capiz","Crops",-8.8,14.0,4.5,-3.5
+"Constant 2018 Prices","Capiz","Livestock",3.9,7.8,-5.7,3.0
+"Constant 2018 Prices","Capiz","Poultry",-1.1,-5.0,-1.3,23.1
+"Constant 2018 Prices","Capiz","Fisheries",26.9,-6.6,9.6,-4.5
+"Constant 2018 Prices","Capiz","Agriculture and Fisheries",5.5,3.3,4.7,-1.4
+"Constant 2018 Prices","Guimaras","Crops",7.1,14.2,7.3,5.1
+"Constant 2018 Prices","Guimaras","Livestock",-9.3,-3.0,0.9,1.9
+"Constant 2018 Prices","Guimaras","Poultry",-1.2,-6.9,-0.8,-2.2
+"Constant 2018 Prices","Guimaras","Fisheries",-4.5,-1.1,-0.6,-25.8
+"Constant 2018 Prices","Guimaras","Agriculture and Fisheries",1.3,6.8,4.4,-0.6
+"Constant 2018 Prices","Iloilo","Crops",-8.3,13.3,2.3,-1.5
+"Constant 2018 Prices","Iloilo","Livestock",3.9,-3.7,4.8,3.7
+"Constant 2018 Prices","Iloilo","Poultry",9.2,1.9,2.9,5.6
+"Constant 2018 Prices","Iloilo","Fisheries",-15.7,15.0,-3.6,-19.2
+"Constant 2018 Prices","Iloilo","Agriculture and Fisheries",-4.8,8.4,2.0,-1.8
+"Constant 2018 Prices","Negros Occidental","Crops",-7.7,11.3,3.0,-7.7
+"Constant 2018 Prices","Negros Occidental","Livestock",0.0,1.6,6.4,-3.0
+"Constant 2018 Prices","Negros Occidental","Poultry",2.7,0.6,0.3,-2.7
+"Constant 2018 Prices","Negros Occidental","Fisheries",-3.6,-15.7,4.8,-15.6
+"Constant 2018 Prices","Negros Occidental","Agriculture and Fisheries",-5.1,4.9,3.5,-7.5
+"Constant 2018 Prices","Bohol","Crops",-17.5,7.5,4.2,-32.6
+"Constant 2018 Prices","Bohol","Livestock",-8.6,-5.4,-4.5,-0.7
+"Constant 2018 Prices","Bohol","Poultry",-0.9,-23.5,3.1,29.1
+"Constant 2018 Prices","Bohol","Fisheries",12.0,-2.3,-0.5,-33.7
+"Constant 2018 Prices","Bohol","Agriculture and Fisheries",-8.1,-4.1,0.6,-13.2
+"Constant 2018 Prices","Cebu","Crops",-7.9,-0.7,-2.1,-9.3
+"Constant 2018 Prices","Cebu","Livestock",0.7,-3.4,15.8,8.7
+"Constant 2018 Prices","Cebu","Poultry",5.0,0.9,7.6,4.5
+"Constant 2018 Prices","Cebu","Fisheries",-0.6,19.3,0.6,-49.5
+"Constant 2018 Prices","Cebu","Agriculture and Fisheries",-0.3,1.8,7.1,-5.4
+"Constant 2018 Prices","Negros Oriental","Crops",-6.8,6.5,9.5,-12.5
+"Constant 2018 Prices","Negros Oriental","Livestock",2.5,0.5,4.2,21.9
+"Constant 2018 Prices","Negros Oriental","Poultry",1.1,-0.8,-19.7,30.1
+"Constant 2018 Prices","Negros Oriental","Fisheries",7.7,40.1,4.8,-8.9
+"Constant 2018 Prices","Negros Oriental","Agriculture and Fisheries",-2.3,6.3,4.8,1.0
+"Constant 2018 Prices","Siquijor","Crops",-15.0,10.2,6.8,-5.9
+"Constant 2018 Prices","Siquijor","Livestock",5.7,-2.0,6.0,-1.8
+"Constant 2018 Prices","Siquijor","Poultry",-4.1,6.4,-4.2,12.9
+"Constant 2018 Prices","Siquijor","Fisheries",14.4,6.0,-23.9,-7.1
+"Constant 2018 Prices","Siquijor","Agriculture and Fisheries",-0.3,4.1,-2.1,-2.9
+"Constant 2018 Prices","Biliran","Crops",-3.3,-1.1,1.8,0.9
+"Constant 2018 Prices","Biliran","Livestock",3.1,-13.0,3.6,-21.7
+"Constant 2018 Prices","Biliran","Poultry",-6.0,-12.0,-14.5,-22.1
+"Constant 2018 Prices","Biliran","Fisheries",22.3,3.5,0.0,-17.8
+"Constant 2018 Prices","Biliran","Agriculture and Fisheries",2.8,-1.4,1.1,-6.6
+"Constant 2018 Prices","Eastern Samar","Crops",-0.8,-12.0,1.2,5.4
+"Constant 2018 Prices","Eastern Samar","Livestock",-1.9,-17.3,-11.9,12.4
+"Constant 2018 Prices","Eastern Samar","Poultry",-10.7,-18.7,-16.2,44.1
+"Constant 2018 Prices","Eastern Samar","Fisheries",-0.4,6.1,1.4,-12.2
+"Constant 2018 Prices","Eastern Samar","Agriculture and Fisheries",-0.8,-5.8,0.1,-1.4
+"Constant 2018 Prices","Leyte","Crops",-2.6,0.4,-5.5,-0.2
+"Constant 2018 Prices","Leyte","Livestock",-0.9,7.3,-0.4,-36.4
+"Constant 2018 Prices","Leyte","Poultry",18.5,-10.0,2.1,-6.9
+"Constant 2018 Prices","Leyte","Fisheries",37.5,-15.5,11.0,-6.5
+"Constant 2018 Prices","Leyte","Agriculture and Fisheries",3.5,-1.1,-1.9,-11.4
+"Constant 2018 Prices","Northern Samar","Crops",-3.5,5.0,-9.7,0.2
+"Constant 2018 Prices","Northern Samar","Livestock",7.6,-13.4,-18.1,6.3
+"Constant 2018 Prices","Northern Samar","Poultry",-15.4,17.2,23.7,-5.8
+"Constant 2018 Prices","Northern Samar","Fisheries",1.5,9.2,13.6,-10.4
+"Constant 2018 Prices","Northern Samar","Agriculture and Fisheries",-1.3,3.5,-4.5,-2.3
+"Constant 2018 Prices","Samar","Crops",0.8,5.8,2.3,4.7
+"Constant 2018 Prices","Samar","Livestock",3.9,4.2,8.6,-23.2
+"Constant 2018 Prices","Samar","Poultry",-16.9,9.2,-20.5,84.2
+"Constant 2018 Prices","Samar","Fisheries",16.0,-12.0,5.5,-18.6
+"Constant 2018 Prices","Samar","Agriculture and Fisheries",4.4,0.5,2.8,-1.6
+"Constant 2018 Prices","Southern Leyte","Crops",-3.6,0.8,-1.0,-28.0
+"Constant 2018 Prices","Southern Leyte","Livestock",1.5,-0.6,2.9,-33.9
+"Constant 2018 Prices","Southern Leyte","Poultry",8.5,20.1,9.1,-42.5
+"Constant 2018 Prices","Southern Leyte","Fisheries",11.8,40.0,11.5,29.9
+"Constant 2018 Prices","Southern Leyte","Agriculture and Fisheries",-1.0,5.7,1.8,-20.9
+"Constant 2018 Prices","Zamboanga del Norte","Crops",-2.1,-2.7,1.5,-3.0
+"Constant 2018 Prices","Zamboanga del Norte","Livestock",3.4,1.3,6.0,8.4
+"Constant 2018 Prices","Zamboanga del Norte","Poultry",6.8,5.4,12.4,1.8
+"Constant 2018 Prices","Zamboanga del Norte","Fisheries",22.5,7.5,0.3,11.3
+"Constant 2018 Prices","Zamboanga del Norte","Agriculture and Fisheries",2.5,0.0,2.8,1.7
+"Constant 2018 Prices","Zamboanga del Sur*","Crops",-7.3,-4.5,3.4,0.0
+"Constant 2018 Prices","Zamboanga del Sur*","Livestock",-1.1,-3.8,-5.7,11.9
+"Constant 2018 Prices","Zamboanga del Sur*","Poultry",13.9,-0.3,6.6,-8.4
+"Constant 2018 Prices","Zamboanga del Sur*","Fisheries",0.7,0.7,-3.4,-2.2
+"Constant 2018 Prices","Zamboanga del Sur*","Agriculture and Fisheries",-2.0,-2.3,0.3,-0.2
+"Constant 2018 Prices","Zamboanga Sibugay","Crops",0.0,0.6,1.2,1.6
+"Constant 2018 Prices","Zamboanga Sibugay","Livestock",-5.1,2.4,13.3,10.8
+"Constant 2018 Prices","Zamboanga Sibugay","Poultry",-11.8,-2.2,0.9,-1.8
+"Constant 2018 Prices","Zamboanga Sibugay","Fisheries",12.3,0.3,5.5,-20.5
+"Constant 2018 Prices","Zamboanga Sibugay","Agriculture and Fisheries",1.1,0.7,3.8,-1.4
+"Constant 2018 Prices","Bukidnon","Crops",0.0,1.2,7.0,1.2
+"Constant 2018 Prices","Bukidnon","Livestock",4.0,5.3,9.2,1.5
+"Constant 2018 Prices","Bukidnon","Poultry",4.1,2.9,3.4,13.9
+"Constant 2018 Prices","Bukidnon","Fisheries",10.2,4.7,-80.1,14.1
+"Constant 2018 Prices","Bukidnon","Agriculture and Fisheries",1.0,2.0,6.8,2.5
+"Constant 2018 Prices","Camiguin","Crops",15.7,-8.0,-9.2,-1.8
+"Constant 2018 Prices","Camiguin","Livestock",13.8,7.7,-0.5,-13.1
+"Constant 2018 Prices","Camiguin","Poultry",5.2,19.9,16.8,-12.3
+"Constant 2018 Prices","Camiguin","Fisheries",0.5,-12.7,36.7,-2.0
+"Constant 2018 Prices","Camiguin","Agriculture and Fisheries",12.0,-3.2,1.6,-5.8
+"Constant 2018 Prices","Lanao del Norte","Crops",2.1,3.3,1.3,1.0
+"Constant 2018 Prices","Lanao del Norte","Livestock",4.4,-1.9,-8.3,11.3
+"Constant 2018 Prices","Lanao del Norte","Poultry",9.6,9.9,-0.5,5.9
+"Constant 2018 Prices","Lanao del Norte","Fisheries",2.8,-10.6,-0.2,-34.9
+"Constant 2018 Prices","Lanao del Norte","Agriculture and Fisheries",2.8,-2.2,-0.1,-10.3
+"Constant 2018 Prices","Misamis Occidental","Crops",-0.6,-0.3,0.1,-2.4
+"Constant 2018 Prices","Misamis Occidental","Livestock",-0.3,1.0,-3.8,1.1
+"Constant 2018 Prices","Misamis Occidental","Poultry",0.9,4.7,13.0,2.0
+"Constant 2018 Prices","Misamis Occidental","Fisheries",-4.2,8.0,-8.6,-36.0
+"Constant 2018 Prices","Misamis Occidental","Agriculture and Fisheries",-1.1,2.3,-1.1,-8.1
+"Constant 2018 Prices","Misamis Oriental","Crops",-1.0,0.4,-0.4,3.9
+"Constant 2018 Prices","Misamis Oriental","Livestock",-5.0,-5.0,0.1,-1.1
+"Constant 2018 Prices","Misamis Oriental","Poultry",2.0,-1.3,-12.3,4.0
+"Constant 2018 Prices","Misamis Oriental","Fisheries",-8.0,-41.4,-14.4,4.9
+"Constant 2018 Prices","Misamis Oriental","Agriculture and Fisheries",-1.2,-3.4,-4.6,3.0
+"Constant 2018 Prices","Davao de Oro","Crops",-1.9,-0.5,0.8,-2.2
+"Constant 2018 Prices","Davao de Oro","Livestock",4.0,1.1,-5.7,-2.7
+"Constant 2018 Prices","Davao de Oro","Poultry",-8.8,-0.5,3.4,12.9
+"Constant 2018 Prices","Davao de Oro","Fisheries",-2.9,0.2,18.4,-14.3
+"Constant 2018 Prices","Davao de Oro","Agriculture and Fisheries",-1.5,-0.4,0.4,-2.0
+"Constant 2018 Prices","Davao del Norte","Crops",-4.7,-4.5,-1.6,0.4
+"Constant 2018 Prices","Davao del Norte","Livestock",4.8,-5.7,-13.8,7.2
+"Constant 2018 Prices","Davao del Norte","Poultry",19.8,-4.2,6.5,17.2
+"Constant 2018 Prices","Davao del Norte","Fisheries",-12.6,32.0,28.3,-10.4
+"Constant 2018 Prices","Davao del Norte","Agriculture and Fisheries",-3.0,-4.2,-2.0,1.6
+"Constant 2018 Prices","Davao del Sur*","Crops",-5.4,3.2,0.9,-0.6
+"Constant 2018 Prices","Davao del Sur*","Livestock",0.3,-2.9,-4.2,2.2
+"Constant 2018 Prices","Davao del Sur*","Poultry",11.9,-7.5,-7.7,5.1
+"Constant 2018 Prices","Davao del Sur*","Fisheries",-5.5,11.2,14.1,23.2
+"Constant 2018 Prices","Davao del Sur*","Agriculture and Fisheries",-1.2,0.0,-1.4,1.9
+"Constant 2018 Prices","Davao Occidental","Crops",-5.5,3.3,-0.2,1.2
+"Constant 2018 Prices","Davao Occidental","Livestock",5.3,-45.0,-18.9,-0.1
+"Constant 2018 Prices","Davao Occidental","Poultry",1.2,-34.3,39.7,1.3
+"Constant 2018 Prices","Davao Occidental","Fisheries",4.0,-6.6,23.7,25.0
+"Constant 2018 Prices","Davao Occidental","Agriculture and Fisheries",-2.7,-3.8,3.8,6.4
+"Constant 2018 Prices","Davao Oriental","Crops",0.1,0.0,0.8,-0.1
+"Constant 2018 Prices","Davao Oriental","Livestock",-8.0,-7.6,-5.2,-4.4
+"Constant 2018 Prices","Davao Oriental","Poultry",-17.3,-6.6,5.4,10.6
+"Constant 2018 Prices","Davao Oriental","Fisheries",-0.6,-17.0,-15.6,288.9
+"Constant 2018 Prices","Davao Oriental","Agriculture and Fisheries",-2.2,-3.2,-1.3,20.7
+"Constant 2018 Prices","Cotabato","Crops",-7.1,2.2,0.8,-3.8
+"Constant 2018 Prices","Cotabato","Livestock",2.9,-6.6,-0.6,-7.9
+"Constant 2018 Prices","Cotabato","Poultry",-0.7,-5.6,2.9,-2.8
+"Constant 2018 Prices","Cotabato","Fisheries",-3.5,-19.9,11.9,12.0
+"Constant 2018 Prices","Cotabato","Agriculture and Fisheries",-5.7,0.3,1.0,-3.9
+"Constant 2018 Prices","Sarangani","Crops",-0.5,4.4,2.9,-3.7
+"Constant 2018 Prices","Sarangani","Livestock",1.7,-4.6,-12.1,-8.8
+"Constant 2018 Prices","Sarangani","Poultry",1.6,-9.6,-15.3,22.2
+"Constant 2018 Prices","Sarangani","Fisheries",48.6,-5.1,20.9,62.6
+"Constant 2018 Prices","Sarangani","Agriculture and Fisheries",5.5,1.3,3.4,8.5
+"Constant 2018 Prices","South Cotabato","Crops",-5.8,-1.1,-0.6,-2.0
+"Constant 2018 Prices","South Cotabato","Livestock",7.7,-1.5,4.0,10.8
+"Constant 2018 Prices","South Cotabato","Poultry",7.6,8.3,5.8,21.7
+"Constant 2018 Prices","South Cotabato","Fisheries",-13.9,0.5,-17.6,1.8
+"Constant 2018 Prices","South Cotabato","Agriculture and Fisheries",-5.4,0.6,-4.6,4.8
+"Constant 2018 Prices","Sultan Kudarat","Crops",-7.5,1.8,4.7,-0.7
+"Constant 2018 Prices","Sultan Kudarat","Livestock",-3.7,0.1,-0.7,-14.9
+"Constant 2018 Prices","Sultan Kudarat","Poultry",-11.1,1.9,-6.4,-11.9
+"Constant 2018 Prices","Sultan Kudarat","Fisheries",-25.2,-28.8,78.9,18.0
+"Constant 2018 Prices","Sultan Kudarat","Agriculture and Fisheries",-7.9,0.6,5.5,-1.7
+"Constant 2018 Prices","Agusan del Norte","Crops",-1.8,-1.8,1.0,-1.2
+"Constant 2018 Prices","Agusan del Norte","Livestock",-3.1,-0.6,-16.7,-17.7
+"Constant 2018 Prices","Agusan del Norte","Poultry",-0.2,3.2,-0.7,20.8
+"Constant 2018 Prices","Agusan del Norte","Fisheries",-0.9,-3.2,12.9,27.0
+"Constant 2018 Prices","Agusan del Norte","Agriculture and Fisheries",-1.6,-0.8,-0.8,4.6
+"Constant 2018 Prices","Agusan del Sur","Crops",-7.1,17.2,-5.2,2.8
+"Constant 2018 Prices","Agusan del Sur","Livestock",0.0,-7.3,-19.1,-3.4
+"Constant 2018 Prices","Agusan del Sur","Poultry",-4.3,1.5,-7.2,-15.3
+"Constant 2018 Prices","Agusan del Sur","Fisheries",29.0,-9.2,-15.4,10.2
+"Constant 2018 Prices","Agusan del Sur","Agriculture and Fisheries",-5.9,13.0,-6.8,1.4
+"Constant 2018 Prices","Dinagat Islands","Crops",-15.1,11.3,-3.0,-19.3
+"Constant 2018 Prices","Dinagat Islands","Livestock",9.0,6.8,-12.7,2.1
+"Constant 2018 Prices","Dinagat Islands","Poultry",1.4,-5.2,-3.4,-32.1
+"Constant 2018 Prices","Dinagat Islands","Fisheries",2.9,-0.7,-1.3,-11.9
+"Constant 2018 Prices","Dinagat Islands","Agriculture and Fisheries",-2.3,3.5,-3.5,-13.3
+"Constant 2018 Prices","Surigao del Norte","Crops",0.7,2.8,-6.9,-25.1
+"Constant 2018 Prices","Surigao del Norte","Livestock",-6.2,-10.9,-32.5,-40.8
+"Constant 2018 Prices","Surigao del Norte","Poultry",-34.5,-7.0,-7.3,-41.3
+"Constant 2018 Prices","Surigao del Norte","Fisheries",-11.2,-8.3,-11.0,-12.2
+"Constant 2018 Prices","Surigao del Norte","Agriculture and Fisheries",-6.7,-4.3,-12.4,-21.9
+"Constant 2018 Prices","Surigao del Sur","Crops",-4.2,3.5,-10.4,0.2
+"Constant 2018 Prices","Surigao del Sur","Livestock",7.3,-4.7,-10.6,-32.4
+"Constant 2018 Prices","Surigao del Sur","Poultry",-5.9,-4.7,-1.8,-7.0
+"Constant 2018 Prices","Surigao del Sur","Fisheries",-6.3,-3.0,-5.1,-3.0
+"Constant 2018 Prices","Surigao del Sur","Agriculture and Fisheries",-3.6,0.9,-9.0,-4.1
+"Constant 2018 Prices","Basilan","Crops",0.1,5.2,0.6,0.5
+"Constant 2018 Prices","Basilan","Livestock",4.3,1.5,0.6,12.3
+"Constant 2018 Prices","Basilan","Poultry",6.8,-3.9,-39.5,-7.7
+"Constant 2018 Prices","Basilan","Fisheries",16.2,13.1,3.0,37.1
+"Constant 2018 Prices","Basilan","Agriculture and Fisheries",2.7,5.2,-0.5,6.9
+"Constant 2018 Prices","Lanao del Sur","Crops",6.6,1.0,1.2,0.0
+"Constant 2018 Prices","Lanao del Sur","Livestock",-5.3,-16.3,2.1,21.9
+"Constant 2018 Prices","Lanao del Sur","Poultry",1.4,21.9,-0.2,-1.0
+"Constant 2018 Prices","Lanao del Sur","Fisheries",-19.0,1.7,0.5,-37.8
+"Constant 2018 Prices","Lanao del Sur","Agriculture and Fisheries",4.5,1.1,1.1,-0.9
+"Constant 2018 Prices","Maguindanao","Crops",8.1,3.6,5.8,-0.3
+"Constant 2018 Prices","Maguindanao","Livestock",4.0,-14.9,6.4,-0.5
+"Constant 2018 Prices","Maguindanao","Poultry",10.9,5.9,26.5,4.6
+"Constant 2018 Prices","Maguindanao","Fisheries",-15.8,4.4,78.2,1.8
+"Constant 2018 Prices","Maguindanao","Agriculture and Fisheries",4.7,3.0,14.0,0.1
+"Constant 2018 Prices","Sulu","Crops",0.0,-0.9,0.7,-0.5
+"Constant 2018 Prices","Sulu","Livestock",12.7,-4.2,31.2,8.2
+"Constant 2018 Prices","Sulu","Poultry",-3.0,0.7,8.0,1.8
+"Constant 2018 Prices","Sulu","Fisheries",19.0,1.6,-0.1,-2.8
+"Constant 2018 Prices","Sulu","Agriculture and Fisheries",9.0,0.3,1.4,-1.2
+"Constant 2018 Prices","Tawi-Tawi","Crops",-3.9,-0.4,1.6,-1.1
+"Constant 2018 Prices","Tawi-Tawi","Livestock",32.7,-15.3,18.7,-31.5
+"Constant 2018 Prices","Tawi-Tawi","Poultry",-2.3,3.4,-22.3,-16.3
+"Constant 2018 Prices","Tawi-Tawi","Fisheries",15.2,1.1,6.1,39.7
+"Constant 2018 Prices","Tawi-Tawi","Agriculture and Fisheries",8.7,0.3,4.4,25.7

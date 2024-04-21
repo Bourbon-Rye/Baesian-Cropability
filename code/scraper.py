@@ -17,8 +17,8 @@ import time
 # GLOBAL PARAMETERS
 debug = False
 base_url = "https://openstat.psa.gov.ph"
-url_file = "code/get_prices_new-series.txt"
-writepath = "datasets/prices"
+url_file = "code/get_crop-value-prod.txt"
+writepath = "datasets/new"
 parallel_mode = True
 # Plop all URLs to be scraped in url_file.
 # NOTE: URL pages must have the same format as https://openstat.psa.gov.ph/PXWeb/pxweb/en/DB/DB__2M__NFG/?tablelist=true
