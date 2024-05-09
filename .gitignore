@@ -2,3 +2,5 @@ test*
 backup
 *.ttf
 *.ttf.1
+newplot*
+output*
