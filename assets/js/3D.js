@@ -76,7 +76,7 @@ renderer.shadowMap.type = THREE.VSMShadowMap;
 
 // Draco loader
 const dracoLoader = new DRACOLoader()
-dracoLoader.setDecoderPath('/assets/js/draco/');
+dracoLoader.setDecoderPath('./assets/js/draco/');
 
 // GLTF loader
 const gltfLoader = new GLTFLoader(loadingManager)
@@ -86,7 +86,7 @@ gltfLoader.setDRACOLoader(dracoLoader)
 
 var island;
 gltfLoader.load(
-    '/assets/js/models/island.glb',
+    './assets/js/models/island.glb',
     function(gltf) {
         console.log('loading model');
         island = gltf.scene;
@@ -104,7 +104,7 @@ var action2;
 var action3;
 var mixer2;
 gltfLoader.load(
-    '/assets/js/models/carw.glb',
+    './assets/js/models/carw.glb',
     function(gltf) {
         console.log('loading model');
         console.log(gltf.scene.children)
@@ -131,7 +131,7 @@ gltfLoader.load(
 
 var car;
 gltfLoader.load(
-    '/assets/js/models/car2.glb',
+    './assets/js/models/car2.glb',
     function(gltf) {
         console.log('loading model');
         console.log(gltf.scene.children)
@@ -148,7 +148,7 @@ gltfLoader.load(
 
 var house;
 gltfLoader.load(
-    '/assets/js/models/inthouse.glb',
+    './assets/js/models/inthouse.glb',
     function(gltf) {
         console.log('loading model');
         console.log(gltf.scene.children)
@@ -164,7 +164,7 @@ gltfLoader.load(
 
 var news;
 gltfLoader.load(
-    '/assets/js/models/news.glb',
+    './assets/js/models/news.glb',
     function(gltf) {
         console.log('loading model');
         console.log(gltf.scene.children)
@@ -180,7 +180,7 @@ gltfLoader.load(
 
 var market;
 gltfLoader.load(
-    '/assets/js/models/market.glb',
+    './assets/js/models/market.glb',
     function(gltf) {
         console.log('loading model');
         console.log(gltf.scene.children)
@@ -196,7 +196,7 @@ gltfLoader.load(
 
 var market2;
 gltfLoader.load(
-    '/assets/js/models/market2.glb',
+    './assets/js/models/market2.glb',
     function(gltf) {
         console.log('loading model');
         console.log(gltf.scene.children)
@@ -215,7 +215,7 @@ var mixer3;
 var action4;
 var action5;
 gltfLoader.load(
-    '/assets/js/models/intwheat.glb',
+    './assets/js/models/intwheat.glb',
     function(gltf) {
         console.log('loading model');
         console.log(gltf.scene.children)
@@ -243,7 +243,7 @@ var mhuman;
 var mixer4;
 var action6;
 gltfLoader.load(
-    '/assets/js/models/mhuman.glb',
+    './assets/js/models/mhuman.glb',
     function(gltf) {
         console.log('MHUMAN loading model');
         console.log(gltf.scene.children)
