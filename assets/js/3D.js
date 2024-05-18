@@ -1,20 +1,20 @@
-import * as THREE from '/three.js';
+import * as THREE from '.assets/js/three.js';
 import {
     GLTFLoader
-} from '/GLTFLoader.js';
+} from '.assets/js/GLTFLoader.js';
 import {
     OrbitControls
-} from '/OrbitControls.js';
+} from '.assets/js/OrbitControls.js';
 import {
     DRACOLoader
-} from '/DRACOLoader.js';
+} from '.assets/js/DRACOLoader.js';
 import Stats from '/stats.module.js';
 import {
     MeshSurfaceSampler
-} from '/MeshSurfaceSampler.js';
+} from '.assets/js/MeshSurfaceSampler.js';
 import {
     TWEEN
-} from '/tween.module.min.js';
+} from '.assets/js/tween.module.min.js';
 
 /**
  * Debug
