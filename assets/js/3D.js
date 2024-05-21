@@ -210,6 +210,38 @@ gltfLoader.load(
         scene.add(market2);
     });
 
+var team;
+gltfLoader.load(
+    './assets/js/models/team.glb',
+    function(gltf) {
+        console.log('loading model');
+        console.log(gltf.scene.children)
+        team = gltf.scene;   
+        gltf.scene.traverse(function(node) {
+            if (node.isMesh) {
+                node.castShadow = true;
+                node.receiveShadow = true;
+            }
+        });
+        scene.add(team);
+    });
+
+var city;
+gltfLoader.load(
+    './assets/js/models/city.glb',
+    function(gltf) {
+        console.log('loading model');
+        console.log(gltf.scene.children)
+        city = gltf.scene;   
+        gltf.scene.traverse(function(node) {
+            if (node.isMesh) {
+                node.castShadow = true;
+                node.receiveShadow = true;
+            }
+        });
+        scene.add(city);
+    });
+
 var wheat;
 var mixer3;
 var action4;
@@ -262,6 +294,60 @@ gltfLoader.load(
             }
         });
         scene.add(mhuman);
+    });
+
+var kite;
+var mixer5;
+var action7;
+var action8;
+gltfLoader.load(
+    './assets/js/models/kite.glb',
+    function(gltf) {
+        console.log('KITE loading model');
+        console.log(gltf.scene.children)
+        kite = gltf.scene;
+
+        mixer5 = new THREE.AnimationMixer(kite);
+        console.log(gltf.animations) 
+        action7 = mixer5.clipAction(gltf.animations[0]);
+        action8 = mixer5.clipAction(gltf.animations[1]);
+        action7.timeScale = 1;
+        action8.timeScale = 1;
+        action7.play();
+        action8.play();
+
+        gltf.scene.traverse(function(node) {
+            if (node.isMesh) {
+                node.castShadow = true;
+                node.receiveShadow = true;
+            }
+        });
+        scene.add(kite);
+    });
+
+var mhuman2;
+var mixer6;
+var action9;
+gltfLoader.load(
+    './assets/js/models/mhuman2.glb',
+    function(gltf) {
+        console.log('MHUMAN loading model');
+        console.log(gltf.scene.children)
+        mhuman2 = gltf.scene;
+
+        mixer6 = new THREE.AnimationMixer(mhuman2);
+        console.log(gltf.animations) 
+        action9 = mixer6.clipAction(gltf.animations[0]);
+        action9.timeScale = 1;
+        action9.play();
+
+        gltf.scene.traverse(function(node) {
+            if (node.isMesh) {
+                node.castShadow = true;
+                node.receiveShadow = true;
+            }
+        });
+        scene.add(mhuman2);
     });
 
 
@@ -470,6 +556,8 @@ const tick = () => {
     if (mixer2) mixer2.update(delta);
     if (mixer3) mixer3.update(delta);
     if (mixer4) mixer4.update(delta);
+    if (mixer5) mixer5.update(delta);
+    if (mixer6) mixer6.update(delta);
     /*
     // Animation Mixer
     const delta = clock.getDelta();

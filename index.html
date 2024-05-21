@@ -52,7 +52,7 @@
 		</div>
 
 		<div class="popup sign hidden">
-			<p2>Your journey starts on a <strong>small farming town</strong>. You are eager to meet people in this world.</p2>
+			<p2>Your journey starts on a <strong>small farming town</strong>. You are eager to meet the people in this world.</p2>
 			<button class="button primary" href="#myModal1">Access Project Overview<i class="fa-solid fa-arrow-right"></i></button>
 		</div>
 
@@ -67,15 +67,19 @@
 		</div>
 
 		<div class="popup sign hidden">
-			<p2>VISUALIZATION OF DATA</p2>
+			<p2>You have now entered <strong>the city</strong>. The city-folks look forward to seeing your progress.</p2>
+			<button class="button primary" href="#myModal4">Access Visualization of Data<i class="fa-solid fa-arrow-right"></i></button>
 		</div>
 
 		<div class="popup sign hidden">
-			<p2>RESULTS</p2>
+			<p2>RESULTS</p2> <br>
+			<p2>UNDER CONSTRUCTION - Please come back later!</p2>
 		</div>
 
 		<div class="popup sign hidden">
-			<p2>TEAM</p2>
+			<p2>We hope that you enjoyed and learned from your little journey!</p2> <br><br>
+			<p2>Want to share something? Contact us!</p2>
+			<button class="button primary" href="#myModal6">Meet the Team<i class="fa-solid fa-arrow-right"></i></button>
 		</div>
 
 		<div class="modal" id="myModal1">
@@ -89,10 +93,10 @@
 				<h1 class="modal-subtitle">The farmer introduces you their world.</h1>
 				<p2>Hello traveller! Welcome to our humble town. Forgive us for we cannot provide you food as we are in a crisis.</p2>
 				<p2>While food crop production is mainly affected by different natural and physical conditions, these are not the only factors that matters for us, farmers. The <strong style="color:red;"> invisible hand of the market</strong>, often overlooked, has the ability to dictate crop production.</p2>
-				<p2>As travellers, I hope you dream to help achieve food security and promote sustainable agriculture in their little world.</p2>
+				<p2>I hope you can help us achieve food security and promote sustainable agriculture in our little world.</p2>
 				
 				<h1 class="modal-subtitle">The farmer asks for your help.</h1>
-				<p2>They want to know if market conditions have influence on food crop production in their little world, notably during crises and recessions?</p2>
+				<p2>They want to know if market conditions have influence on food crop production in their little world, notably during crises and recessions.</p2>
 				<p2>You accepted their request.</p2>
 				<p2>As someone new, you are interested in seeking evidence, and exploring the <strong style="color:red;">impact of economic forces</strong> to agricultural food production using different statistical analysis and machine learning tools. You also intend to uncover patterns that could aid stabilize the current agricultural crisis.</p2>
 				<p2>You soon left the town to discover more about this world.</p2>
@@ -122,8 +126,8 @@
 				</div>
 
 				<h1 class="modal-subtitle">You started forming hypotheses and solution.</h1>
-				<p2><strong style="color:red;">NULL HYPOTHESIS:</strong> Economic factors do not affect food crop productivity in the several regions of the country</p2>
-				<p2><strong style="color:red;">ALTERNATIVE HYPOTHESIS:</strong> Food crops production in the country are dictated or affected by some economic conditions</p2>
+				<p2><strong style="color:red;">NULL HYPOTHESIS:</strong> Economic factors does not have any correlation on food crop productivity in the several regions of the country</p2>
+				<p2><strong style="color:red;">ALTERNATIVE HYPOTHESIS:</strong> Food crops production in the country are correlated by some economic conditions</p2>
 				<p2><strong style="color:red;">ACTION PLAN:</strong> Analyze and interpret several economic metrics and their relation to different food crops production</p2>
 				<p2>You left the store to continue your journey.</p2>
 			</div>
@@ -166,33 +170,60 @@
 				<p2>You establish the following steps to ensure the quality of the data.</p2>
 			</div>
 
-			<button class="collapsible">Data Gathering</button>
-				<div class="contentcollapse">
-					<p2>The team gathered most of the dataset from the database maintained by the <strong style="color:red">Philippine Statistical Authority (PSA)</strong></p2>
-					<br><br>
-					<p2>To autonomously gather the data from PSA, the team developed scrappers using Mechanical Soup.</p2>
-					<br><br>
-					<p2>Due to the limitations of the scrapper, the team also developed a program to compile the fragmented datasets into one with the help of Pandas.</p2>
-				</div>
-			
-			<button class="collapsible">Preprocessing</button>
-				<div class="contentcollapse">
-					<p2>For proper format consistency, Year and Months column were properly arranged in chronological order. Additionally, textcases for some elements were fixed.</strong></p2>
-					<br><br>
-					<p2>Converted and validated all ".." and 0 elements to blank representations.</p2>
-					<br><br>
-					<p2>Removed columns such as, "Annual" and "Average", that can be derived from current data to reduce dataset size.</p2>
-					<br><br>
-					<p2>Region-Province relationships were derived and kept into a separate file.</p2>
-				</div>
-			<br>
-			<br>
-			<div class="modal-content-wrapper">
-				<p2>After some time, you managed to get the following dataset:</p2>
-				<a href="https://docs.google.com/spreadsheets/d/17fDFS6g55BFVEzmJ3PwOiwZBSa9OcoB1mKU91H7o3Og/edit?usp=sharing" class="button-round-access">Access Dataset</a>
+		<button class="collapsible">Data Gathering</button>
+			<div class="contentcollapse">
+				<p2>The team gathered most of the dataset from the database maintained by the <strong style="color:red">Philippine Statistical Authority (PSA)</strong></p2>
+				<br><br>
+				<p2>To autonomously gather the data from PSA, the team developed scrappers using Mechanical Soup.</p2>
+				<br><br>
+				<p2>Due to the limitations of the scrapper, the team also developed a program to compile the fragmented datasets into one with the help of Pandas.</p2>
 			</div>
-
+		
+		<button class="collapsible">Preprocessing</button>
+			<div class="contentcollapse">
+				<p2>For proper format consistency, Year and Months column were properly arranged in chronological order. Additionally, textcases for some elements were fixed.</strong></p2>
+				<br><br>
+				<p2>Converted and validated all ".." and 0 elements to blank representations.</p2>
+				<br><br>
+				<p2>Removed columns such as, "Annual" and "Average", that can be derived from current data to reduce dataset size.</p2>
+				<br><br>
+				<p2>Region-Province relationships were derived and kept into a separate file.</p2>
+			</div>
+		<br>
+		<br>
+		<div class="modal-content-wrapper">
+			<p2>After some time, you managed to get the following dataset:</p2>
+			<a href="https://docs.google.com/spreadsheets/d/17fDFS6g55BFVEzmJ3PwOiwZBSa9OcoB1mKU91H7o3Og/edit?usp=sharing" class="button-round-access">Access Dataset</a>
+			<p2>It is now time to move into the city.</p2>
 		</div>
+		</div>
+
+		<div class="modal" id="myModal4">
+			<div class="header" style="background-image: linear-gradient(to bottom, rgba(0,0,0, 0.2), rgba(0,0,0, 1)), url('./assets/img/graph.jpg')"> 
+				<div class="header-wrapper">
+					<div class="title projectheadline">Visualization of Data</div>
+				</div>
+				<div class="button-round close"><i class="icon fa-solid fa-xmark fa-xl"></i></div>
+			</div>
+			<div class="modal-content-wrapper">
+				<h1 class="modal-subtitle">You visited the local library.</h1>
+				<p2>City-folks come from different background. It would be helpful if you could make your data easily digestable and understood through the use of graphs and other visualization methods.</p2>
+				<p2>After processing and organizing your data. You produced the following graphs:</p2>
+			</div>
+		</div>
+
+		<div class="modal" id="myModal6">
+			<div class="header" style="background-image: linear-gradient(to bottom, rgba(0,0,0, 0.2), rgba(0,0,0, 1)), url('./assets/img/aech.jpg')"> 
+				<div class="header-wrapper">
+					<div class="title projectheadline">The Baesians</div>
+				</div>
+				<div class="button-round close"><i class="icon fa-solid fa-xmark fa-xl"></i></div>
+			</div>
+			<div class="modal-content-wrapper">
+				<h1 class="modal-subtitle">The team appreciates you spending your time to learn.</h1>
+			</div>
+		</div>
+
 	<script src="./assets/js/buttons.js"></script>
 	<script type="module" src="./assets/js/3D.js"></script>
 </body>
