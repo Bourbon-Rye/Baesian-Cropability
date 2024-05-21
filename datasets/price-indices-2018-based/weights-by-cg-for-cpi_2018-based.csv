@@ -54,7 +54,7 @@ PHILIPPINES,01.1.8.1 - Cane and beet sugar (ND),0.46449084
 ....Mountain Province,"01.1.7 - Vegetables, tubers, plantains, cooking bananas and pulses (ND)",0.00528594
 ....Mountain Province,01.1.8.1 - Cane and beet sugar (ND),0.00079618
 ....Apayao,01.1.1.12 - Rice,0.0135488
-....Apayao,01.1.1.16 - Corn,0.00009263
+....Apayao,01.1.1.16 - Corn,9.263e-05
 ....Apayao,"01.1.1.20 - FLOUR, BREAD AND OTHER BAKERY PRODUCTS, PASTA PRODUCTS,  AND OTHER CEREALS",0.00249198
 ....Apayao,01.1.6 - Fruits and nuts (ND),0.00127476
 ....Apayao,"01.1.7 - Vegetables, tubers, plantains, cooking bananas and pulses (ND)",0.00381426
@@ -102,7 +102,7 @@ PHILIPPINES,01.1.8.1 - Cane and beet sugar (ND),0.46449084
 ..Region II (Cagayan Valley),"01.1.7 - Vegetables, tubers, plantains, cooking bananas and pulses (ND)",0.09586376
 ..Region II (Cagayan Valley),01.1.8.1 - Cane and beet sugar (ND),0.01668083
 ....Batanes,01.1.1.12 - Rice,0.00087677
-....Batanes,01.1.1.16 - Corn,..
+....Batanes,01.1.1.16 - Corn,
 ....Batanes,"01.1.1.20 - FLOUR, BREAD AND OTHER BAKERY PRODUCTS, PASTA PRODUCTS,  AND OTHER CEREALS",0.00124647
 ....Batanes,01.1.6 - Fruits and nuts (ND),0.00044342
 ....Batanes,"01.1.7 - Vegetables, tubers, plantains, cooking bananas and pulses (ND)",0.00099623
@@ -240,7 +240,7 @@ PHILIPPINES,01.1.8.1 - Cane and beet sugar (ND),0.46449084
 ..MIMAROPA Region,"01.1.7 - Vegetables, tubers, plantains, cooking bananas and pulses (ND)",0.07984789
 ..MIMAROPA Region,01.1.8.1 - Cane and beet sugar (ND),0.01671754
 ....Marinduque,01.1.1.12 - Rice,0.01634893
-....Marinduque,01.1.1.16 - Corn,0.00008495
+....Marinduque,01.1.1.16 - Corn,8.495e-05
 ....Marinduque,"01.1.1.20 - FLOUR, BREAD AND OTHER BAKERY PRODUCTS, PASTA PRODUCTS,  AND OTHER CEREALS",0.00553568
 ....Marinduque,01.1.6 - Fruits and nuts (ND),0.00322749
 ....Marinduque,"01.1.7 - Vegetables, tubers, plantains, cooking bananas and pulses (ND)",0.00573704
@@ -300,7 +300,7 @@ PHILIPPINES,01.1.8.1 - Cane and beet sugar (ND),0.46449084
 ....Camarines Sur,"01.1.7 - Vegetables, tubers, plantains, cooking bananas and pulses (ND)",0.05206371
 ....Camarines Sur,01.1.8.1 - Cane and beet sugar (ND),0.01102947
 ....Catanduanes,01.1.1.12 - Rice,0.02286669
-....Catanduanes,01.1.1.16 - Corn,0.00005536
+....Catanduanes,01.1.1.16 - Corn,5.536e-05
 ....Catanduanes,"01.1.1.20 - FLOUR, BREAD AND OTHER BAKERY PRODUCTS, PASTA PRODUCTS,  AND OTHER CEREALS",0.0085597
 ....Catanduanes,01.1.6 - Fruits and nuts (ND),0.00406486
 ....Catanduanes,"01.1.7 - Vegetables, tubers, plantains, cooking bananas and pulses (ND)",0.00620962
@@ -426,7 +426,7 @@ PHILIPPINES,01.1.8.1 - Cane and beet sugar (ND),0.46449084
 ..Region VIII (Eastern Visayas),"01.1.7 - Vegetables, tubers, plantains, cooking bananas and pulses (ND)",0.10259219
 ..Region VIII (Eastern Visayas),01.1.8.1 - Cane and beet sugar (ND),0.01582021
 ....Eastern Samar,01.1.1.12 - Rice,0.05176415
-....Eastern Samar,01.1.1.16 - Corn,..
+....Eastern Samar,01.1.1.16 - Corn,
 ....Eastern Samar,"01.1.1.20 - FLOUR, BREAD AND OTHER BAKERY PRODUCTS, PASTA PRODUCTS,  AND OTHER CEREALS",0.01328492
 ....Eastern Samar,01.1.6 - Fruits and nuts (ND),0.00573935
 ....Eastern Samar,"01.1.7 - Vegetables, tubers, plantains, cooking bananas and pulses (ND)",0.0117908
@@ -438,7 +438,7 @@ PHILIPPINES,01.1.8.1 - Cane and beet sugar (ND),0.46449084
 ....Leyte,"01.1.7 - Vegetables, tubers, plantains, cooking bananas and pulses (ND)",0.03950586
 ....Leyte,01.1.8.1 - Cane and beet sugar (ND),0.00552933
 ....Northern Samar,01.1.1.12 - Rice,0.06517435
-....Northern Samar,01.1.1.16 - Corn,0.00008337
+....Northern Samar,01.1.1.16 - Corn,8.337e-05
 ....Northern Samar,"01.1.1.20 - FLOUR, BREAD AND OTHER BAKERY PRODUCTS, PASTA PRODUCTS,  AND OTHER CEREALS",0.01603015
 ....Northern Samar,01.1.6 - Fruits and nuts (ND),0.00723477
 ....Northern Samar,"01.1.7 - Vegetables, tubers, plantains, cooking bananas and pulses (ND)",0.01358895
@@ -516,7 +516,7 @@ PHILIPPINES,01.1.8.1 - Cane and beet sugar (ND),0.46449084
 ....Bukidnon,"01.1.7 - Vegetables, tubers, plantains, cooking bananas and pulses (ND)",0.02466817
 ....Bukidnon,01.1.8.1 - Cane and beet sugar (ND),0.00510855
 ....Camiguin,01.1.1.12 - Rice,0.01012763
-....Camiguin,01.1.1.16 - Corn,..
+....Camiguin,01.1.1.16 - Corn,
 ....Camiguin,"01.1.1.20 - FLOUR, BREAD AND OTHER BAKERY PRODUCTS, PASTA PRODUCTS,  AND OTHER CEREALS",0.00192911
 ....Camiguin,01.1.6 - Fruits and nuts (ND),0.00100739
 ....Camiguin,"01.1.7 - Vegetables, tubers, plantains, cooking bananas and pulses (ND)",0.0021106
@@ -642,13 +642,13 @@ PHILIPPINES,01.1.8.1 - Cane and beet sugar (ND),0.46449084
 ..Bangsamoro Autonomous Region in Muslim Mindanao (BARMM),"01.1.7 - Vegetables, tubers, plantains, cooking bananas and pulses (ND)",0.07798917
 ..Bangsamoro Autonomous Region in Muslim Mindanao (BARMM),01.1.8.1 - Cane and beet sugar (ND),0.0207056
 ....Basilan,01.1.1.12 - Rice,0.02444674
-....Basilan,01.1.1.16 - Corn,..
+....Basilan,01.1.1.16 - Corn,
 ....Basilan,"01.1.1.20 - FLOUR, BREAD AND OTHER BAKERY PRODUCTS, PASTA PRODUCTS,  AND OTHER CEREALS",0.00687547
 ....Basilan,01.1.6 - Fruits and nuts (ND),0.00341397
 ....Basilan,"01.1.7 - Vegetables, tubers, plantains, cooking bananas and pulses (ND)",0.00824333
 ....Basilan,01.1.8.1 - Cane and beet sugar (ND),0.00221253
 ....Lanao del Sur,01.1.1.12 - Rice,0.08748796
-....Lanao del Sur,01.1.1.16 - Corn,..
+....Lanao del Sur,01.1.1.16 - Corn,
 ....Lanao del Sur,"01.1.1.20 - FLOUR, BREAD AND OTHER BAKERY PRODUCTS, PASTA PRODUCTS,  AND OTHER CEREALS",0.0190824
 ....Lanao del Sur,01.1.6 - Fruits and nuts (ND),0.01032939
 ....Lanao del Sur,"01.1.7 - Vegetables, tubers, plantains, cooking bananas and pulses (ND)",0.01762181
