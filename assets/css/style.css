@@ -330,6 +330,19 @@ input:checked~#sun {
     height: 100%;
 }
 
+.act{
+    font-weight: 700;
+    color: rgb(54, 173, 212);
+}
+
+.nope{
+    color: white;
+}
+
+.clickable{
+    cursor: pointer;
+}
+
 /* Fade-In Effect */
 
 .visible {
@@ -487,3 +500,15 @@ input:checked~#sun {
     transition: max-height 0.2s ease-out;
     border-left: 5px solid #612828;
   }
+
+.page {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    overflow-y: scroll;
+    background-color: black;
+    color: white;
+    position: fixed;
+    z-index: 999;
+    /*display: none;*/
+}

@@ -506,8 +506,8 @@ let i = 0;
 let g = 0.8;
 
 const popups = document.getElementsByClassName("popup");
+const navmen = document.getElementsByClassName("navmen");
 const clock = new THREE.Clock();
-
 
 const tick = () => {
     // Update controls
@@ -520,17 +520,12 @@ const tick = () => {
         i -= 0.001;
     }
 
-    // Update cyclist position
+    // Update tractor position
     azimuthalAngle = controls.getAzimuthalAngle();
     cyclePos = azimuthalAngle / (Math.PI * 2);
     if (cyclePos < 0) {
         cyclePos = 0.5 + (0.5 + cyclePos);
     }
-
-    spotLight.position.x = Math.sin(azimuthalAngle) * 12.4;
-    spotLight.position.z = Math.cos(azimuthalAngle) * 12.4;
-    spotLight.target.position.x = Math.sin(azimuthalAngle) * 9;
-    spotLight.target.position.z = Math.cos(azimuthalAngle) * 9;
 
     if (tractor) {
         tractor.position.x = Math.sin(azimuthalAngle) * .01;
@@ -544,9 +539,13 @@ const tick = () => {
 
     for (let i = 0; i < popups.length; i++) {
         if (cyclePos >= 0.025 + i / popups.length && cyclePos < 0.08 + i / popups.length) {
+            navmen[i].classList.remove("nope");
+            navmen[i].classList.add("act");
             popups[i].classList.remove("hidden");
             popups[i].classList.add("visible");
         } else {
+            navmen[i].classList.add("nope");
+            navmen[i].classList.remove("act");
             popups[i].classList.add("hidden");
             popups[i].classList.remove("visible");
         }

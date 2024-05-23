@@ -17,13 +17,15 @@
 	
 	<div id="loadingscreen">
         <div id="loader-wrapper">
-            <div class="title">Welcome to our World!</div>
-            <h1 style="text-align: right;"><span>We are the <strong style="color:green">Baesians</strong> and this is our project, <strong>the Baesian Cropability</strong>. The project is an <em> analysis of food crop production in relation to different market conditions, policies, and trends. </em> The team aims to gain insights using different data science techniques.</span></h1>
+            <div class="title">Welcome to Cereaulean Island!</div>
+            <h1 style="text-align: right;"><span>We are the <strong style="color:green">Baesians</strong> and this is our project, <strong style="color:green">the Baesian Cropability</strong>. The project is an <em> analysis of food crop production in relation to different market conditions and policies. </em></span></h1>
+			<br>
+			<h1 style="text-align: right;">As a newcomer, equipped with data science techniques, your aim is to gain insight and help the people.</h1>
             <div id="progress">
                 <span id="loading">Loading...</span>
                 <div id="progress-bar"></div>
             </div>
-            <button class="button cta" id="start-button" href="#start" style="display: none;">Explore our world <i class="fa-solid fa-arrow-right"></i></button>
+            <button class="button cta" id="start-button" href="#start" style="display: none;">Start your Journey <i class="fa-solid fa-arrow-right"></i></button>
         </div>
     </div>
 
@@ -37,9 +39,12 @@
 				<span></span>
 				<span></span>
 				<ul id="menu">
-					<a href='/'>
-						<li class="active">Baesian's World</li>
-					</a>
+					<li class="navmen nope">Project Overview</li>
+					<li class="navmen nope">Background</li>
+					<li class="navmen nope">Data Collection</li>
+					<li class="navmen nope">Data Visualization</li>
+					<li class="navmen nope">Results</li>
+					<li class="navmen nope">Team</li>
 				</ul>
 			</div>
 		</nav>
@@ -52,7 +57,7 @@
 		</div>
 
 		<div class="popup sign hidden">
-			<p2>Your journey starts on a <strong>small farming town</strong>. You are eager to meet the people in this world.</p2>
+			<p2>Your journey starts on a <strong>small farming town</strong>. You noticed a farmer waving.</p2>
 			<button class="button primary" href="#myModal1">Access Project Overview<i class="fa-solid fa-arrow-right"></i></button>
 		</div>
 
@@ -77,29 +82,56 @@
 		</div>
 
 		<div class="popup sign hidden">
-			<p2>We hope that you enjoyed and learned from your little journey!</p2> <br><br>
-			<p2>Want to share something? Contact us!</p2>
+			<p2><strong>Congratulations! Your journey is now over!</strong></p2> <br><br>
+			<p2>Time to relax and get to know your fellow travelers.</p2>
 			<button class="button primary" href="#myModal6">Meet the Team<i class="fa-solid fa-arrow-right"></i></button>
 		</div>
 
 		<div class="modal" id="myModal1">
 			<div class="header" style="background-image: linear-gradient(to bottom, rgba(0,0,0, 0.2), rgba(0,0,0, 1)), url('./assets/img/farm.jpg')"> 
 				<div class="header-wrapper">
-					<div class="title projectheadline">Project Overview</div>
+					<div class="title projectheadline">Overview</div>
 				</div>
 				<div class="button-round close"><i class="icon fa-solid fa-xmark fa-xl"></i></div>
 			</div>
 			<div class="modal-content-wrapper">
-				<h1 class="modal-subtitle">The farmer introduces you their world.</h1>
-				<p2>Hello traveller! Welcome to our humble town. Forgive us for we cannot provide you food as we are in a crisis.</p2>
-				<p2>While food crop production is mainly affected by different natural and physical conditions, these are not the only factors that matters for us, farmers. The <strong style="color:red;"> invisible hand of the market</strong>, often overlooked, has the ability to dictate crop production.</p2>
-				<p2>I hope you can help us achieve food security and promote sustainable agriculture in our little world.</p2>
+				<h1 class="modal-subtitle">The <span style="color:yellow">farmer</span> welcomes you to Cereaulean Island</h1>
+				<div class="card" style="box-shadow: 5px 5px 0px yellow; flex-direction: row; flex-wrap: wrap; width: 65%; margin-left: auto;">
+					<p2>Hello traveler! Welcome to our humble island. Looks like you are one of the researchers from the mainland.</p2>
+				</div>
 				
-				<h1 class="modal-subtitle">The farmer asks for your help.</h1>
-				<p2>They want to know if market conditions have influence on food crop production in their little world, notably during crises and recessions.</p2>
-				<p2>You accepted their request.</p2>
-				<p2>As someone new, you are interested in seeking evidence, and exploring the <strong style="color:red;">impact of economic forces</strong> to agricultural food production using different statistical analysis and machine learning tools. You also intend to uncover patterns that could aid stabilize the current agricultural crisis.</p2>
-				<p2>You soon left the town to discover more about this world.</p2>
+				<div class="card" style="box-shadow: 5px 5px 0px #612828; flex-direction: row; flex-wrap: wrap; width: 50%;">
+					<p2>Yes! We are actually sent here to help understand the island anomaly.</p2>
+				</div>
+
+				<div class="card" style="box-shadow: 5px 5px 0px yellow; flex-direction: row; flex-wrap: wrap; width: 65%; margin-left: auto;">
+					<p2>The island anomaly... Market prices flactuates and we barely breakeven. If you will, I have a humble request to you.</p2>
+				</div>
+
+				<div class="card" style="box-shadow: 5px 5px 0px #612828; flex-direction: row; flex-wrap: wrap; width: 20%;">
+					<p2>What is it?</p2>
+				</div>
+
+				<div class="card" style="box-shadow: 5px 5px 0px yellow; flex-direction: row; flex-wrap: wrap; width: 65%; margin-left: auto;">
+					<p2>While food crop production is mainly affected by different natural conditions, these might not be the only factors that matters. The <strong style="color:red;"> invisible hand of the market</strong> and government policies, often overlooked, has the ability to dictate the crops we plant.</p2>
+					<br>
+					<p2>With the upcoming city council meeting, I hope that you can present some results to help common folks understand this anomaly.</p2>
+				</div>
+			
+				<!-- div class="card" style="box-shadow: 5px 5px 0px #612828; flex-direction: row; flex-wrap: wrap; width: 65%; margin-left: auto;">
+					<p2>Hello traveler! Welcome to our humble island. I know that you are sent by the mainlanders to investigate. Tough times are upon us and it got me thinking.</p2>
+					<br>
+					<p2>While food crop production is mainly affected by different natural and physical conditions, these are not the only factors that matters. The <strong style="color:red;"> invisible hand of the market</strong>, often overlooked, has the ability to dictate the crops we plant.</p2>
+					<br>
+					<p2>I hope you can help us achieve food security and promote sustainable agriculture in our island.</p2>
+					<br>
+					<p2>They want to know if market conditions have influence on food crop production in their island, notably during crises and recessions.</p2>
+				</div -->
+				
+				<h1 class="modal-subtitle">You accepted the <span style="color:yellow">farmer</span>'s request</h1>
+				<p2>As a scholar, you are interested in seeking evidence and exploring the <strong style="color:red;">impact of economic forces and policies</strong> to agricultural food production using different statistical analysis and machine learning tools. You also intend to uncover patterns that could aid stabilize the current agricultural crisis.</p2>
+				<p2>Your ultimate goal is help achieve food security and promote sustainable agriculture for this island.</p2>
+				<p2>You soon left the town to discover more about this island and their troubles.</p2>
 			</div>
 		</div>
 
@@ -111,10 +143,12 @@
 				<div class="button-round close"><i class="icon fa-solid fa-xmark fa-xl"></i></div>
 			</div>
 			<div class="modal-content-wrapper">
-				<h1 class="modal-subtitle">You picked up the latest edition of the newspaper.</h1>
+				<h1 class="modal-subtitle">You picked up the latest edition of the newspaper</h1>
 				<p2>After the pandemic-driven recession in 2020, the country is still experiencing economic and food crisis.</p2>
 				<img class="project-img" src="./assets/img/foodwaste.jpg">
-				<p2>Despite being known as an agricultural country, the Philippines <strong style="color:red;">struggle when it comes to food security</strong>. There are even reports of President Marcos' declaring price ceiling for 2023 adding insecurity to farmers. This subsequently adds pressure in producing and selling food crops in the market. There are even cases of vegetables, such as cabbages, being wasted or sold at a loss due to oversupply in the food supply chain. This is food that could be reallocated to those who needs it. With the ever <strong style="color:red;">increasing population growth and unpredictable international crises</strong>, the capacity to produce food for the population is hampered.</p2>
+				<p2>Despite being known as an agricultural country, the Philippines <strong style="color:red;">struggle when it comes to food security</strong>. In 2023, there are reports of President Marcos' declaring price ceiling adding insecurity to farmers. Subsequently, this policy adds pressure in producing food crops and in selling them in the market. 
+					In line with this, cases of vegetables, such as cabbages, being wasted or sold at a loss due to oversupply in the food supply chain increases. This is food that could be bought by the government and reallocated to starving families. </p2>
+				<p2>With the ever <strong style="color:red;">increasing population growth and unpredictable crises</strong>, the capacity to produce food for the population is hampered. Sustainable agriculture and food production is needed now more than ever.</p2>
 				
 				<div class="credits">
 					<p class="credit">References:</p>
@@ -125,7 +159,7 @@
 					<p class="credit"><a class="credit" target="_blank" href="https://www.helpage.org/news/the-food-fuel-finance-crisis-the-philippines-under-the-spotlight/">HelpAge International</a></p>			
 				</div>
 
-				<h1 class="modal-subtitle">You started forming hypotheses and solution.</h1>
+				<h1 class="modal-subtitle">You started forming hypotheses and solution</h1>
 				<p2><strong style="color:red;">NULL HYPOTHESIS:</strong> Economic factors does not have any correlation with food crop productivity in the several regions of the country</p2>
 				<p2><strong style="color:red;">ALTERNATIVE HYPOTHESIS:</strong> Food crops production in the country are correlated by some economic conditions</p2>
 				<p2><strong style="color:red;">ACTION PLAN:</strong> Analyze and interpret several economic metrics and their relation to different food crops production</p2>
@@ -141,8 +175,8 @@
 				<div class="button-round close"><i class="icon fa-solid fa-xmark fa-xl"></i></div>
 			</div>
 			<div class="modal-content-wrapper">
-				<h1 class="modal-subtitle">You visited a local tool shop.</h1>
-				<p2>You chose the following items that you deemed useful for your mission:</p2>
+				<h1 class="modal-subtitle">You visited a local tool shop</h1>
+				<p2>You chose the following items that you deemed useful for your study:</p2>
 				<div class="card">
 					<ul>
 						<li>
@@ -166,7 +200,7 @@
 					</ul>
 				</div>
 
-				<h1 class="modal-subtitle">It is time to plan out on how you will organize your data.</h1>
+				<h1 class="modal-subtitle">It is time to plan out on how you will organize your data</h1>
 				<p2>You establish the following steps to ensure the quality of the data.</p2>
 			</div>
 
@@ -206,7 +240,7 @@
 				<div class="button-round close"><i class="icon fa-solid fa-xmark fa-xl"></i></div>
 			</div>
 			<div class="modal-content-wrapper">
-				<h1 class="modal-subtitle">You visited the local library.</h1>
+				<h1 class="modal-subtitle">You visited the local library</h1>
 				<p2>City-folks come from different background. It would be helpful if you could make your data easily digestable and understood through the use of graphs and other visualization methods.</p2>
 				<p2>After processing and organizing your data. You produced the following graphs:</p2>
 			</div>
@@ -221,6 +255,26 @@
 			</div>
 			<div class="modal-content-wrapper">
 				<h1 class="modal-subtitle">The team appreciates you spending your time to learn.</h1>
+				<div class="card" style="box-shadow: 5px 5px 0px #612828; flex-direction: row; flex-wrap: wrap;">
+					<img style="translate: 200px; max-width: 300px; height: 50%; border-radius: 1em; box-shadow: 5px 5px 0px #612828;" src="./assets/img/ralph.jpg">
+					<p2 style="padding-top: 20px;">Hello! I'm Ralph, current 4th year student of BS Computer Science from University of the Philippines Diliman. My passion is developing and creating video games. I am also interested on expanding my skillset to different fields of knowledge.
+					</p2><br>
+					<p2>My hobbies are 3D modeling and animation. I spent most of my time sleeping. Otherwise, I am playing open-world or adventure games like Fallout, Assassin's Creed, and Stardew Valley. Catch me on my own little worlds.
+					</p2>
+					<p2 style="padding-top: 20px;">Email: rydiaz@up.edu.ph | Github: <a href="https://github.com/Bourbon-Rye">Bourbon-Rye</a></p2>
+				</div>
+				<div class="card" style="box-shadow: 5px 5px 0px rgb(0, 0, 82); flex-direction: row; flex-wrap: wrap;">
+					<img style="translate: 200px; max-width: 300px; height: 50%; border-radius: 1em; box-shadow: 5px 5px 0px rgb(0, 0, 82);" src="./assets/img/pl.png">
+					<p2 style="padding-top: 20px;">Hello! I'm Yenzy, current 4th year student of BS Computer Science from University of the Philippines Diliman. I am fascinated by fields at the intersection of algorithms and medicine such as bioinformatics and systems biology. With that, I am pursuing a career in medical practice, clinical research, and community-oriented selfless service with the help of my computational background.</p2>
+					<br>
+					<p2>My hobbies include reading the news and Wikipedia. I love sci-fi novels, movies, and games especially with biomedical and puzzle components such as BioShock, Portal, and the Talos Principle.</p2>
+				</div>
+				<div class="card" style="box-shadow: 5px 5px 0px lightyellow; flex-direction: row; flex-wrap: wrap;">
+					<img style="translate: 200px; max-width: 300px; height: 50%; border-radius: 1em; box-shadow: 5px 5px 0px lightyellow;" src="./assets/img/pl.png">
+					<p2 style="padding-top: 20px;">Hello! I’m Garlu, current 2nd year student of BS Computer Science from University of the Philippines Diliman. As of the moment, I don’t know where in CS I would specialize but as a whole I am very attuned to it and makes me look forward to what I can contribute to it.</p2>
+					<br>
+					<p2>My hobbies are playing the guitar, working out, cooking, and playing video games. Also, I mostly play fingerstyle guitar and  I am so in love with looter shooter games like Destiny 2.</p2>
+				</div>
 			</div>
 		</div>
 

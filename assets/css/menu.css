@@ -41,7 +41,7 @@
     height: 3px;
     margin-bottom: 6px;
     position: relative;
-    background: black;
+    background: rgb(1, 1, 85);
     border-radius: 2px;
     z-index: 888;
     transform-origin: -4px 0px;
