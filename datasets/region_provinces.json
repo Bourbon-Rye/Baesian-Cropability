@@ -1,7 +1,6 @@
 {
     "PHILIPPINES": {
-        "AONCR": [],
-        "Areas Outside National Capital Region (NCR)": [],
+        "Areas Outside National Capital Region (AONCR)": [],
         "Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)": [
             "Basilan",
             "Lanao del Sur",
@@ -17,7 +16,7 @@
             "Mountain Province",
             "Apayao"
         ],
-        "MIMAROPA Region": [
+        "MIMAROPA Region (MIMAROPA)": [
             "Marinduque",
             "Occidental Mindoro",
             "Oriental Mindoro",
@@ -54,11 +53,6 @@
             "Quezon",
             "Rizal"
         ],
-        "Region IX (Zamboanga Peninsula)": [
-            "Zamboanga del Norte",
-            "Zamboanga del Sur",
-            "Zamboanga Sibugay"
-        ],
         "Region V (Bicol Region)": [
             "Albay",
             "Camarines Norte",
@@ -88,6 +82,11 @@
             "Samar",
             "Southern Leyte",
             "Biliran"
+        ],
+        "Region IX (Zamboanga Peninsula)": [
+            "Zamboanga del Norte",
+            "Zamboanga del Sur",
+            "Zamboanga Sibugay"
         ],
         "Region X (Northern Mindanao)": [
             "Bukidnon",
