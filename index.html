@@ -20,7 +20,7 @@
             <div class="title">Welcome to Cereaulean Island!</div>
             <h1 style="text-align: right;"><span>We are the <strong style="color:green">Baesians</strong> and this is our project, <strong style="color:green">the Baesian Cropability</strong>. The project is an <em> analysis of food crop production in relation to different market conditions and policies. </em></span></h1>
 			<br>
-			<h1 style="text-align: right;">As a newcomer, equipped with data science techniques, your aim is to gain insight and help the people.</h1>
+			<h1 style="text-align: right;">As a researcher, equipped with data science techniques, your aim is to gain insight and help understand the trouble on this island.</h1>
             <div id="progress">
                 <span id="loading">Loading...</span>
                 <div id="progress-bar"></div>
@@ -32,6 +32,8 @@
 	<div id="logo">BAESIAN<br>CROPABILITY</div>
 	
 	<body>
+		<script src="https://cdn.plot.ly/plotly-latest.min.js"></script> 
+
 		<nav role="navigation">
 			<div id="menuToggle">
 				<input type="checkbox" />
@@ -62,17 +64,17 @@
 		</div>
 
 		<div class="popup sign hidden">
-			<p2>While on your way, you encountered a <strong>newspaper shop</strong>. You might learn more here.</p2>
+			<p2>While on your way, you encountered a <strong>newspaper shop</strong>. You can learn more context about the problem here.</p2>
 			<button class="button primary" href="#myModal2">Access Background<i class="fa-solid fa-arrow-right"></i></button>
 		</div>
 	
 		<div class="popup sign hidden">
-			<p2>Before entering the city, <strong>the market</strong> can offer you data and tools for your research.</p2>
+			<p2>At the city outskirts, you have found <strong>the market</strong>. It is your chance to gather data and tools for your research.</p2>
 			<button class="button primary" href="#myModal3">Access Data Collection<i class="fa-solid fa-arrow-right"></i></button>
 		</div>
 
 		<div class="popup sign hidden">
-			<p2>You have now entered <strong>the city</strong>. The city-folks look forward to seeing your progress.</p2>
+			<p2>You have now entered <strong>the city</strong>. This is a chance to show people your gathered data.</p2>
 			<button class="button primary" href="#myModal4">Access Visualization of Data<i class="fa-solid fa-arrow-right"></i></button>
 		</div>
 
@@ -113,9 +115,9 @@
 				</div>
 
 				<div class="card" style="box-shadow: 5px 5px 0px yellow; flex-direction: row; flex-wrap: wrap; width: 65%; margin-left: auto;">
-					<p2>While food crop production is mainly affected by different natural conditions, these might not be the only factors that matters. The <strong style="color:red;"> invisible hand of the market</strong> and government policies, often overlooked, has the ability to dictate the crops we plant.</p2>
+					<p2>While food crop production is mainly affected by different natural conditions, these might not be the only factors that matters. The <strong style="color:red;"> invisible hand of the market</strong>, often overlooked, has the ability to dictate the crops we plant.</p2>
 					<br>
-					<p2>With the upcoming city council meeting, I hope that you can present some results to help common folks understand this anomaly.</p2>
+					<p2>With the upcoming city council meeting, my request is that you can present some results to help common folks understand this anomaly.</p2>
 				</div>
 			
 				<!-- div class="card" style="box-shadow: 5px 5px 0px #612828; flex-direction: row; flex-wrap: wrap; width: 65%; margin-left: auto;">
@@ -129,7 +131,7 @@
 				</div -->
 				
 				<h1 class="modal-subtitle">You accepted the <span style="color:yellow">farmer</span>'s request</h1>
-				<p2>As a scholar, you are interested in seeking evidence and exploring the <strong style="color:red;">impact of economic forces and policies</strong> to agricultural food production using different statistical analysis and machine learning tools. You also intend to uncover patterns that could aid stabilize the current agricultural crisis.</p2>
+				<p2>As a scholar, it is in your best interest to seek evidence and explore the <strong style="color:red;">impact of economic forces and policies</strong> to agricultural food production using different statistical analysis and machine learning tools. You also intend to uncover patterns that could aid stabilize the current agricultural crisis.</p2>
 				<p2>Your ultimate goal is help achieve food security and promote sustainable agriculture for this island.</p2>
 				<p2>You soon left the town to discover more about this island and their troubles.</p2>
 			</div>
@@ -146,7 +148,7 @@
 				<h1 class="modal-subtitle">You picked up the latest edition of the newspaper</h1>
 				<p2>After the pandemic-driven recession in 2020, the country is still experiencing economic and food crisis.</p2>
 				<img class="project-img" src="./assets/img/foodwaste.jpg">
-				<p2>Despite being known as an agricultural country, the Philippines <strong style="color:red;">struggle when it comes to food security</strong>. In 2023, there are reports of President Marcos' declaring price ceiling adding insecurity to farmers. Subsequently, this policy adds pressure in producing food crops and in selling them in the market. 
+				<p2>Despite being known as an agricultural country, the Philippines <strong style="color:red;">struggle when it comes to food security</strong>. Shortage of food supply coming from the agricultural sector is common. Leading causes are rampant hoarding, inadequate government policies, and unforeseen natural crises. In 2023, to combat increasing price of rice, President Marcos declared price ceiling to rice products adding more insecurity to farmers. Subsequently, this policy adds pressure in producing food crops and in selling them in the market. 
 					In line with this, cases of vegetables, such as cabbages, being wasted or sold at a loss due to oversupply in the food supply chain increases. This is food that could be bought by the government and reallocated to starving families. </p2>
 				<p2>With the ever <strong style="color:red;">increasing population growth and unpredictable crises</strong>, the capacity to produce food for the population is hampered. Sustainable agriculture and food production is needed now more than ever.</p2>
 				
@@ -195,8 +197,11 @@
 							<a href="https://github.com"> <img src="./assets/img/github32.png"> <span>Github</span></a>
 						</li>
 						<li>
+							<a href="https://plotly.com"> <img src="./assets/img/plotly32.png">  <span>Plotly</span> </a>
+						</li>	
+						<li>
 							<a href="https://mechanicalsoup.readthedocs.io/en/stable/"> <img src="./assets/img/mech32.png"> <span>Mechanical Soup (BeautifulSoup/Requests)</span></a>
-						</li>		
+						</li>	
 					</ul>
 				</div>
 
@@ -256,7 +261,7 @@
 			<div class="modal-content-wrapper">
 				<h1 class="modal-subtitle">The team appreciates you spending your time to learn.</h1>
 				<div class="card" style="box-shadow: 5px 5px 0px #612828; flex-direction: row; flex-wrap: wrap;">
-					<img style="translate: 200px; max-width: 300px; height: 50%; border-radius: 1em; box-shadow: 5px 5px 0px #612828;" src="./assets/img/ralph.jpg">
+					<img style="translate: 200px; max-width: 300px; height: 50%; border-radius: 1em;" src="./assets/img/ralph.jpg">
 					<p2 style="padding-top: 20px;">Hello! I'm Ralph, current 4th year student of BS Computer Science from University of the Philippines Diliman. My passion is developing and creating video games. I am also interested on expanding my skillset to different fields of knowledge.
 					</p2><br>
 					<p2>My hobbies are 3D modeling and animation. I spent most of my time sleeping. Otherwise, I am playing open-world or adventure games like Fallout, Assassin's Creed, and Stardew Valley. Catch me on my own little worlds.
@@ -264,16 +269,18 @@
 					<p2 style="padding-top: 20px;">Email: rydiaz@up.edu.ph | Github: <a href="https://github.com/Bourbon-Rye">Bourbon-Rye</a></p2>
 				</div>
 				<div class="card" style="box-shadow: 5px 5px 0px rgb(0, 0, 82); flex-direction: row; flex-wrap: wrap;">
-					<img style="translate: 200px; max-width: 300px; height: 50%; border-radius: 1em; box-shadow: 5px 5px 0px rgb(0, 0, 82);" src="./assets/img/pl.png">
+					<img style="translate: 200px; max-width: 300px; height: 50%; border-radius: 1em;" src="./assets/img/pl.png">
 					<p2 style="padding-top: 20px;">Hello! I'm Yenzy, current 4th year student of BS Computer Science from University of the Philippines Diliman. I am fascinated by fields at the intersection of algorithms and medicine such as bioinformatics and systems biology. With that, I am pursuing a career in medical practice, clinical research, and community-oriented selfless service with the help of my computational background.</p2>
 					<br>
 					<p2>My hobbies include reading the news and Wikipedia. I love sci-fi novels, movies, and games especially with biomedical and puzzle components such as BioShock, Portal, and the Talos Principle.</p2>
+					<p2 style="padding-top: 20px;">Email: yshebron@up.edu.ph</p2>
 				</div>
 				<div class="card" style="box-shadow: 5px 5px 0px lightyellow; flex-direction: row; flex-wrap: wrap;">
-					<img style="translate: 200px; max-width: 300px; height: 50%; border-radius: 1em; box-shadow: 5px 5px 0px lightyellow;" src="./assets/img/pl.png">
+					<img style="translate: 200px; max-width: 300px; height: 50%; border-radius: 1em;" src="./assets/img/pl.png">
 					<p2 style="padding-top: 20px;">Hello! I’m Garlu, current 2nd year student of BS Computer Science from University of the Philippines Diliman. As of the moment, I don’t know where in CS I would specialize but as a whole I am very attuned to it and makes me look forward to what I can contribute to it.</p2>
 					<br>
 					<p2>My hobbies are playing the guitar, working out, cooking, and playing video games. Also, I mostly play fingerstyle guitar and  I am so in love with looter shooter games like Destiny 2.</p2>
+					<p2 style="padding-top: 20px;">Email: genepomuceno1@up.edu.ph</p2>
 				</div>
 			</div>
 		</div>
