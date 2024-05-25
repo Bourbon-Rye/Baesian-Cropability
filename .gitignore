@@ -5,3 +5,4 @@ backup
 *.ttf.1
 newplot*
 output*
+*.toml
