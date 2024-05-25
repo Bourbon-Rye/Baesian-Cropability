@@ -1,0 +1,103 @@
+
+"Geolocation","2015","2018","2021"
+"PHILIPPINES",18.0,12.1,13.2
+"..National Capital Region (NCR)",2.8,1.4,2.2
+"..Cordillera Administrative Region (CAR)",17.1,8.6,6.9
+"....Abra",19.9,14.7,15.8
+"....Apayao",38.1,16.0,4.7
+"....Benguet",2.6,4.2,3.9
+"....Ifugao",34.9,9.9,6.0
+"....Kalinga",34.5,9.2,5.6
+"....Mt. Province",33.1,17.1,15.3
+"..Region I (Ilocos Region)",14.0,7.0,11.0
+"....Ilocos Norte",5.2,3.1,1.7
+"....Ilocos Sur",10.8,5.5,11.5
+"....La Union",13.5,2.9,6.6
+"....Pangasinan",16.9,9.3,13.9
+"..Region II (Cagayan Valley)",13.1,12.5,11.7
+"....Batanes",10.0,6.5,2.6
+"....Cagayan",14.0,12.5,7.3
+"....Isabela",12.4,13.2,15.9
+"....Nueva Vizcaya b/",10.5,11.6,10.8
+"....Quirino",20.3,8.9,6.2
+"..Region III (Central Luzon)",8.3,5.2,8.3
+"....Aurora",27.3,11.8,16.5
+"....Bataan",0.8,5.8,9.0
+"....Bulacan",3.1,3.5,8.3
+"....Nueva Ecija",16.8,6.6,10.0
+"....Pampanga",2.7,2.1,2.9
+"....Tarlac",13.2,7.7,8.1
+"....Zambales",12.3,10.9,17.7
+"..Region IV-A (CALABARZON)",9.2,5.1,7.2
+"....Batangas",17.4,8.6,4.3
+"....Cavite",6.1,3.7,7.1
+"....Laguna,",3.8,2.7,6.9
+"....Quezon",18.4,9.3,16.3
+"....Rizal",4.1,3.3,4.3
+"..MIMAROPA REGION",18.0,10.5,15.0
+"....Marinduque ",12.5,10.0,15.6
+"....Occidental Mindoro",30.5,16.1,23.0
+"....Oriental Mindoro",15.3,7.3,12.8
+"....Palawan b/",12.6,8.2,9.4
+"....Romblon",29.3,19.7,31.0
+"..Region V (Bicol Region)",31.0,20.0,21.9
+"....Albay",18.5,15.0,15.4
+"....Camarines Norte",35.1,22.4,16.6
+"....Camarines Sur",28.5,21.0,29.8
+"....Catanduanes",33.6,14.4,16.8
+"....Masbate",35.5,25.8,20.2
+"....Sorsogon",46.2,19.6,21.7
+"..Region VI (Western Visayas)",18.5,11.9,13.8
+"....Aklan",12.0,8.8,13.9
+"....Antique",18.4,12.9,18.2
+"....Capiz b/",7.0,4.1,6.1
+"....Guimaras a/",4.8,6.8,7.3
+"....Iloilo",16.4,12.1,12.6
+"....Negros Occidental",25.5,14.5,16.4
+"..Region VII (Central Visayas)",24.9,13.4,22.1
+"....Bohol",25.2,15.5,19.1
+"....Cebu",20.0,11.3,22.8
+"....Negros Oriental",36.3,19.4,23.6
+"....Siquijor,",47.0,7.2,2.2
+"..Region VIII (Eastern Visayas)",33.0,23.9,22.2
+"....Biliran",17.4,13.7,19.9
+"....Eastern Samar",42.4,40.9,29.4
+"....Leyte",25.1,21.7,20.8
+"....Northern Samar",51.8,27.6,19.3
+"....Southern Leyte",32.7,17.3,16.0
+"....Samar",41.8,22.2,27.0
+"..Region IX (Zamboanga Peninsula)",29.7,25.4,23.4
+"....Zamboanga del Norte",50.9,36.9,40.8
+"....Zamboanga del Sur",18.9,17.4,13.4
+"....Zamboanga Sibugay",27.6,27.1,26.0
+"....Isabela City",22.2,41.6,12.7
+"..Region X (Northern Mindanao)",32.3,17.3,19.2
+"....Bukidnon",47.6,22.3,22.8
+"....Camiguin a/",33.9,17.9,14.7
+"....Lanao del Norte",38.1,19.0,25.5
+"....Misamis Occidental",36.8,19.5,18.3
+"....Misamis Oriental",16.5,11.4,13.0
+"..Region XI (Davao Region)",18.0,13.9,11.9
+"....Davao del Norte",24.3,10.3,7.3
+"....Davao del Sur",14.8,8.1,7.2
+"....Davao Oriental",22.5,27.7,21.8
+"....Davao de Oro",20.8,18.6,17.7
+"....Davao Occidental e/",..,31.9,34.5
+"..Region XII (SOCCSKSARGEN)",31.2,22.4,21.4
+"....Cotabato",36.5,23.6,23.6
+"....Sarangani",45.2,36.1,33.5
+"....South Cotabato",18.3,13.7,12.8
+"....Sultan Kudarat",41.2,24.3,23.8
+"....Cotabato City a/",38.5,35.2,31.3
+"..Region XIII (Caraga)",31.1,24.1,25.9
+"....Agusan del Norte",25.8,18.9,23.5
+"....Agusan del Sur",37.5,30.6,33.4
+"....Surigao Del Norte",28.8,27.7,21.2
+"....Surigao Del Sur",32.3,19.2,24.0
+"....Dinagat Islands b/",34.6,26.5,26.1
+"..Bangsamoro Autonomous Region in Muslim Mindanao (BARMM)",53.8,54.2,29.8
+"....Basilan",35.6,66.3,42.5
+"....Lanao del Sur",72.4,64.2,7.4
+"....Maguindanao",45.7,40.6,29.8
+"....Sulu",63.8,75.3,51.0
+"....Tawi-tawi",15.2,15.1,28.1
