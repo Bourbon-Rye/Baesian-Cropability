@@ -536,3 +536,11 @@ input:checked~#sun {
     /*transition: height 0ms 400ms, 400ms 0ms;*/
     /*display: none;*/
 }
+
+.transparent {
+    opacity: 0.7
+}
+
+.close-text {
+    
+}
