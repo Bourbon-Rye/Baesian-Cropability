@@ -215,15 +215,17 @@
 
 		<button class="collapsible">Data Gathering</button>
 			<div class="contentcollapse">
-				<p2>The team gathered most of the dataset from the database maintained by the <strong style="color:red">Philippine Statistical Authority (PSA)</strong></p2>
+				<p2>The team gathered most of the dataset from the database maintained by the <strong style="color:red">Philippine Statistical Authority (PSA)</strong>. The data were collected from various time period with a union of 1987-2023, but upon merging via inner join, the intersection of the time periods leave us at 2012-2021, but as we'll see, select visualizations have been extended unto 2023.</p2>
 				<br><br>
-				<p2>To autonomously gather the data from PSA, the team developed scrappers using Mechanical Soup.</p2>
+				<p2>To autonomously gather the data from PSA, the team developed scrapers using Mechanical Soup.</p2>
 				<br><br>
-				<p2>Due to the limitations of the scrapper, the team also developed a program to compile the fragmented datasets into one with the help of Pandas.</p2>
+				<p2>Due to the limitations of the scraper, the team also developed a program to compile the fragmented datasets into one with the help of Pandas.</p2>
 			</div>
 		
 		<button class="collapsible">Preprocessing</button>
 			<div class="contentcollapse">
+				<p2>You begin to sanitize and standardize the data you've collected:</p2>
+				<br><br>
 				<p2>For proper format consistency, Year and Months column were properly arranged in chronological order. Additionally, textcases for some elements were fixed.</strong></p2>
 				<br><br>
 				<p2>Converted and validated all ".." and 0 elements to blank representations.</p2>
@@ -270,7 +272,7 @@
 			<button class="collapsible">Visual Graphs Overview</button>
 				<div class="contentcollapse">
 					<br>
-					<p2><em>This section shows relevant visualization from the data you gathered pertaining to relationship between economic indicators and agricultural indicators for selected crops.</em></p2>
+					<p2><em>This section shows relevant and <b>interactive</b> visualization from the data you gathered pertaining to relationship between economic indicators and agricultural indicators for selected crops.</em></p2>
 					<br>
 					<br>
 					<br>
@@ -348,7 +350,7 @@
 			
 			<div class="modal-content-wrapper">
 				<br>
-				<p2>With the results in hand, time to make way to the council meeting and present your conclusions in front of the citizens.</p2>
+				<p2>With the preliminary results in hand, time to make way to the council meeting and present your conclusions in front of the citizens.</p2>
 			</div>
 		</div>
 
