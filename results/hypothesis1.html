@@ -1,10 +1,9 @@
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>Commodity A</th>
       <th>Commodity B</th>
-      <th>Grouping</th>
+      <th>Geolocation</th>
       <th>Feature</th>
       <th>t-stat</th>
       <th>p-value</th>
@@ -13,1284 +12,1156 @@
   </thead>
   <tbody>
     <tr>
-      <th>0</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>cordillera administrative region (car)</td>
       <td>Stocks</td>
-      <td>32.155</td>
+      <td>15.489</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>1</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>cordillera administrative region (car)</td>
       <td>Volume</td>
-      <td>2.179</td>
-      <td>0.031</td>
+      <td>15.511</td>
+      <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>2</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>cordillera administrative region (car)</td>
       <td>Area Harvested</td>
-      <td>0.772</td>
-      <td>0.441</td>
+      <td>23.105</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>cordillera administrative region (car)</td>
+      <td>SU Gross Supply</td>
+      <td>17.357</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>cordillera administrative region (car)</td>
+      <td>UT Consumable</td>
+      <td>23.683</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>cordillera administrative region (car)</td>
+      <td>Farmgate Price</td>
+      <td>9.740</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>cordillera administrative region (car)</td>
+      <td>Wholesale Price</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Inconclusive</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>cordillera administrative region (car)</td>
+      <td>Retail Price</td>
+      <td>3.120</td>
+      <td>0.006</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region i (ilocos region)</td>
+      <td>Stocks</td>
+      <td>15.489</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region i (ilocos region)</td>
+      <td>Volume</td>
+      <td>47.482</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region i (ilocos region)</td>
+      <td>Area Harvested</td>
+      <td>162.774</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region i (ilocos region)</td>
+      <td>SU Gross Supply</td>
+      <td>17.357</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region i (ilocos region)</td>
+      <td>UT Consumable</td>
+      <td>23.683</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region i (ilocos region)</td>
+      <td>Farmgate Price</td>
+      <td>9.226</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region i (ilocos region)</td>
+      <td>Wholesale Price</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Inconclusive</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region i (ilocos region)</td>
+      <td>Retail Price</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Inconclusive</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region ii (cagayan valley)</td>
+      <td>Stocks</td>
+      <td>15.489</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region ii (cagayan valley)</td>
+      <td>Volume</td>
+      <td>11.876</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region ii (cagayan valley)</td>
+      <td>Area Harvested</td>
+      <td>23.694</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region ii (cagayan valley)</td>
+      <td>SU Gross Supply</td>
+      <td>17.357</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region ii (cagayan valley)</td>
+      <td>UT Consumable</td>
+      <td>23.683</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region ii (cagayan valley)</td>
+      <td>Farmgate Price</td>
+      <td>8.771</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region ii (cagayan valley)</td>
+      <td>Wholesale Price</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Inconclusive</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region ii (cagayan valley)</td>
+      <td>Retail Price</td>
+      <td>16.570</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region iii (central luzon)</td>
+      <td>Stocks</td>
+      <td>15.489</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region iii (central luzon)</td>
+      <td>Volume</td>
+      <td>51.008</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region iii (central luzon)</td>
+      <td>Area Harvested</td>
+      <td>124.561</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region iii (central luzon)</td>
+      <td>SU Gross Supply</td>
+      <td>17.357</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region iii (central luzon)</td>
+      <td>UT Consumable</td>
+      <td>23.683</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region iii (central luzon)</td>
+      <td>Farmgate Price</td>
+      <td>9.950</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region iii (central luzon)</td>
+      <td>Wholesale Price</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Inconclusive</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region iii (central luzon)</td>
+      <td>Retail Price</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Inconclusive</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region iv-a (calabarzon)</td>
+      <td>Stocks</td>
+      <td>15.489</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region iv-a (calabarzon)</td>
+      <td>Volume</td>
+      <td>56.063</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region iv-a (calabarzon)</td>
+      <td>Area Harvested</td>
+      <td>42.601</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region iv-a (calabarzon)</td>
+      <td>SU Gross Supply</td>
+      <td>17.357</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region iv-a (calabarzon)</td>
+      <td>UT Consumable</td>
+      <td>23.683</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region iv-a (calabarzon)</td>
+      <td>Farmgate Price</td>
+      <td>3.084</td>
+      <td>0.006</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region iv-a (calabarzon)</td>
+      <td>Wholesale Price</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Inconclusive</td>
+    </tr>
+    <tr>
+      <td>Rice</td>
+      <td>Corn</td>
+      <td>region iv-a (calabarzon)</td>
+      <td>Retail Price</td>
+      <td>0.663</td>
+      <td>0.516</td>
       <td>Does not exist</td>
     </tr>
     <tr>
-      <th>3</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
-      <td>SU Gross Supply</td>
-      <td>29.572</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>UT Consumable</td>
-      <td>36.641</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Farmgate Price</td>
-      <td>14.296</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Wholesale Price</td>
-      <td>18.131</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Retail Price</td>
-      <td>25.410</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>8</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
+      <td>mimaropa region (mimaropa)</td>
       <td>Stocks</td>
-      <td>32.155</td>
+      <td>15.489</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>9</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>mimaropa region (mimaropa)</td>
       <td>Volume</td>
-      <td>2.179</td>
-      <td>0.031</td>
+      <td>41.198</td>
+      <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>10</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>mimaropa region (mimaropa)</td>
       <td>Area Harvested</td>
-      <td>0.772</td>
-      <td>0.441</td>
-      <td>Does not exist</td>
+      <td>73.065</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
     </tr>
     <tr>
-      <th>11</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>mimaropa region (mimaropa)</td>
       <td>SU Gross Supply</td>
-      <td>29.572</td>
+      <td>17.357</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>12</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>mimaropa region (mimaropa)</td>
       <td>UT Consumable</td>
-      <td>36.641</td>
+      <td>23.683</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>13</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>mimaropa region (mimaropa)</td>
       <td>Farmgate Price</td>
-      <td>14.296</td>
+      <td>6.587</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>14</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>mimaropa region (mimaropa)</td>
       <td>Wholesale Price</td>
-      <td>18.131</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Inconclusive</td>
     </tr>
     <tr>
-      <th>15</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>mimaropa region (mimaropa)</td>
       <td>Retail Price</td>
-      <td>25.410</td>
-      <td>&lt;0.001</td>
+      <td>-3.161</td>
+      <td>0.005</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>16</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region v (bicol region)</td>
       <td>Stocks</td>
-      <td>32.155</td>
+      <td>15.489</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>17</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region v (bicol region)</td>
       <td>Volume</td>
-      <td>2.179</td>
-      <td>0.031</td>
+      <td>49.329</td>
+      <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>18</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region v (bicol region)</td>
       <td>Area Harvested</td>
-      <td>0.772</td>
-      <td>0.441</td>
-      <td>Does not exist</td>
+      <td>67.682</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
     </tr>
     <tr>
-      <th>19</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region v (bicol region)</td>
       <td>SU Gross Supply</td>
-      <td>29.572</td>
+      <td>17.357</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>20</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region v (bicol region)</td>
       <td>UT Consumable</td>
-      <td>36.641</td>
+      <td>23.683</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>21</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region v (bicol region)</td>
       <td>Farmgate Price</td>
-      <td>14.296</td>
+      <td>4.954</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>22</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region v (bicol region)</td>
       <td>Wholesale Price</td>
-      <td>18.131</td>
+      <td>4.474</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>23</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region v (bicol region)</td>
       <td>Retail Price</td>
-      <td>25.410</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Inconclusive</td>
     </tr>
     <tr>
-      <th>24</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region vi (western visayas)</td>
       <td>Stocks</td>
-      <td>32.155</td>
+      <td>15.489</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>25</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region vi (western visayas)</td>
       <td>Volume</td>
-      <td>2.179</td>
-      <td>0.031</td>
+      <td>39.389</td>
+      <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>26</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region vi (western visayas)</td>
       <td>Area Harvested</td>
-      <td>0.772</td>
-      <td>0.441</td>
-      <td>Does not exist</td>
+      <td>49.684</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
     </tr>
     <tr>
-      <th>27</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region vi (western visayas)</td>
       <td>SU Gross Supply</td>
-      <td>29.572</td>
+      <td>17.357</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>28</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region vi (western visayas)</td>
       <td>UT Consumable</td>
-      <td>36.641</td>
+      <td>23.683</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>29</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region vi (western visayas)</td>
       <td>Farmgate Price</td>
-      <td>14.296</td>
+      <td>6.796</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>30</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region vi (western visayas)</td>
       <td>Wholesale Price</td>
-      <td>18.131</td>
+      <td>11.468</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>31</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region vi (western visayas)</td>
       <td>Retail Price</td>
-      <td>25.410</td>
+      <td>8.927</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>32</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region vii (central visayas)</td>
       <td>Stocks</td>
-      <td>32.155</td>
+      <td>15.489</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>33</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region vii (central visayas)</td>
       <td>Volume</td>
-      <td>2.179</td>
-      <td>0.031</td>
+      <td>9.474</td>
+      <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>34</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region vii (central visayas)</td>
       <td>Area Harvested</td>
-      <td>0.772</td>
-      <td>0.441</td>
-      <td>Does not exist</td>
+      <td>-7.127</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
     </tr>
     <tr>
-      <th>35</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region vii (central visayas)</td>
       <td>SU Gross Supply</td>
-      <td>29.572</td>
+      <td>17.357</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>36</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region vii (central visayas)</td>
       <td>UT Consumable</td>
-      <td>36.641</td>
+      <td>23.683</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>37</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region vii (central visayas)</td>
       <td>Farmgate Price</td>
-      <td>14.296</td>
+      <td>8.384</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>38</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region vii (central visayas)</td>
       <td>Wholesale Price</td>
-      <td>18.131</td>
+      <td>8.342</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>39</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region vii (central visayas)</td>
       <td>Retail Price</td>
-      <td>25.410</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Inconclusive</td>
     </tr>
     <tr>
-      <th>40</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region viii (eastern visayas)</td>
       <td>Stocks</td>
-      <td>32.155</td>
+      <td>15.489</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>41</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region viii (eastern visayas)</td>
       <td>Volume</td>
-      <td>2.179</td>
-      <td>0.031</td>
+      <td>65.587</td>
+      <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>42</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region viii (eastern visayas)</td>
       <td>Area Harvested</td>
-      <td>0.772</td>
-      <td>0.441</td>
-      <td>Does not exist</td>
+      <td>50.625</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
     </tr>
     <tr>
-      <th>43</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region viii (eastern visayas)</td>
       <td>SU Gross Supply</td>
-      <td>29.572</td>
+      <td>17.357</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>44</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region viii (eastern visayas)</td>
       <td>UT Consumable</td>
-      <td>36.641</td>
+      <td>23.683</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>45</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region viii (eastern visayas)</td>
       <td>Farmgate Price</td>
-      <td>14.296</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Inconclusive</td>
     </tr>
     <tr>
-      <th>46</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region viii (eastern visayas)</td>
       <td>Wholesale Price</td>
-      <td>18.131</td>
-      <td>&lt;0.001</td>
+      <td>3.718</td>
+      <td>0.002</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>47</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region viii (eastern visayas)</td>
       <td>Retail Price</td>
-      <td>25.410</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Inconclusive</td>
     </tr>
     <tr>
-      <th>48</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region ix (zamboanga peninsula)</td>
       <td>Stocks</td>
-      <td>32.155</td>
+      <td>15.489</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>49</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region ix (zamboanga peninsula)</td>
       <td>Volume</td>
-      <td>2.179</td>
-      <td>0.031</td>
+      <td>27.570</td>
+      <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>50</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region ix (zamboanga peninsula)</td>
       <td>Area Harvested</td>
-      <td>0.772</td>
-      <td>0.441</td>
-      <td>Does not exist</td>
+      <td>8.506</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
     </tr>
     <tr>
-      <th>51</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region ix (zamboanga peninsula)</td>
       <td>SU Gross Supply</td>
-      <td>29.572</td>
+      <td>17.357</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>52</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region ix (zamboanga peninsula)</td>
       <td>UT Consumable</td>
-      <td>36.641</td>
+      <td>23.683</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>53</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region ix (zamboanga peninsula)</td>
       <td>Farmgate Price</td>
-      <td>14.296</td>
+      <td>11.360</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>54</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region ix (zamboanga peninsula)</td>
       <td>Wholesale Price</td>
-      <td>18.131</td>
+      <td>13.430</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>55</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region ix (zamboanga peninsula)</td>
       <td>Retail Price</td>
-      <td>25.410</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Inconclusive</td>
     </tr>
     <tr>
-      <th>56</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region x (northern mindanao)</td>
       <td>Stocks</td>
-      <td>32.155</td>
+      <td>15.489</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>57</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region x (northern mindanao)</td>
       <td>Volume</td>
-      <td>2.179</td>
-      <td>0.031</td>
+      <td>-17.990</td>
+      <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>58</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region x (northern mindanao)</td>
       <td>Area Harvested</td>
-      <td>0.772</td>
-      <td>0.441</td>
-      <td>Does not exist</td>
+      <td>-118.958</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
     </tr>
     <tr>
-      <th>59</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region x (northern mindanao)</td>
       <td>SU Gross Supply</td>
-      <td>29.572</td>
+      <td>17.357</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>60</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region x (northern mindanao)</td>
       <td>UT Consumable</td>
-      <td>36.641</td>
+      <td>23.683</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>61</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region x (northern mindanao)</td>
       <td>Farmgate Price</td>
-      <td>14.296</td>
+      <td>11.568</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>62</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region x (northern mindanao)</td>
       <td>Wholesale Price</td>
-      <td>18.131</td>
+      <td>12.968</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>63</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region x (northern mindanao)</td>
       <td>Retail Price</td>
-      <td>25.410</td>
+      <td>16.518</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>64</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xi (davao region)</td>
       <td>Stocks</td>
-      <td>32.155</td>
+      <td>15.489</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>65</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xi (davao region)</td>
       <td>Volume</td>
-      <td>2.179</td>
-      <td>0.031</td>
+      <td>17.986</td>
+      <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>66</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xi (davao region)</td>
       <td>Area Harvested</td>
-      <td>0.772</td>
-      <td>0.441</td>
-      <td>Does not exist</td>
+      <td>-19.378</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
     </tr>
     <tr>
-      <th>67</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xi (davao region)</td>
       <td>SU Gross Supply</td>
-      <td>29.572</td>
+      <td>17.357</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>68</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xi (davao region)</td>
       <td>UT Consumable</td>
-      <td>36.641</td>
+      <td>23.683</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>69</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xi (davao region)</td>
       <td>Farmgate Price</td>
-      <td>14.296</td>
+      <td>10.535</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>70</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xi (davao region)</td>
       <td>Wholesale Price</td>
-      <td>18.131</td>
+      <td>10.004</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>71</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xi (davao region)</td>
       <td>Retail Price</td>
-      <td>25.410</td>
+      <td>13.215</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>72</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xii (soccsksargen)</td>
       <td>Stocks</td>
-      <td>32.155</td>
+      <td>15.489</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>73</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xii (soccsksargen)</td>
       <td>Volume</td>
-      <td>2.179</td>
-      <td>0.031</td>
+      <td>2.526</td>
+      <td>0.021</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>74</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xii (soccsksargen)</td>
       <td>Area Harvested</td>
-      <td>0.772</td>
-      <td>0.441</td>
-      <td>Does not exist</td>
+      <td>-10.317</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
     </tr>
     <tr>
-      <th>75</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xii (soccsksargen)</td>
       <td>SU Gross Supply</td>
-      <td>29.572</td>
+      <td>17.357</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>76</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xii (soccsksargen)</td>
       <td>UT Consumable</td>
-      <td>36.641</td>
+      <td>23.683</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>77</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xii (soccsksargen)</td>
       <td>Farmgate Price</td>
-      <td>14.296</td>
+      <td>8.277</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>78</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xii (soccsksargen)</td>
       <td>Wholesale Price</td>
-      <td>18.131</td>
+      <td>9.292</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>79</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xii (soccsksargen)</td>
       <td>Retail Price</td>
-      <td>25.410</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Inconclusive</td>
     </tr>
     <tr>
-      <th>80</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xiii (caraga)</td>
       <td>Stocks</td>
-      <td>32.155</td>
+      <td>15.489</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>81</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xiii (caraga)</td>
       <td>Volume</td>
-      <td>2.179</td>
-      <td>0.031</td>
+      <td>23.290</td>
+      <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>82</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xiii (caraga)</td>
       <td>Area Harvested</td>
-      <td>0.772</td>
-      <td>0.441</td>
-      <td>Does not exist</td>
+      <td>33.675</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
     </tr>
     <tr>
-      <th>83</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xiii (caraga)</td>
       <td>SU Gross Supply</td>
-      <td>29.572</td>
+      <td>17.357</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>84</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xiii (caraga)</td>
       <td>UT Consumable</td>
-      <td>36.641</td>
+      <td>23.683</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>85</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xiii (caraga)</td>
       <td>Farmgate Price</td>
-      <td>14.296</td>
+      <td>11.167</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>86</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xiii (caraga)</td>
       <td>Wholesale Price</td>
-      <td>18.131</td>
+      <td>9.257</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>87</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>region xiii (caraga)</td>
       <td>Retail Price</td>
-      <td>25.410</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Inconclusive</td>
     </tr>
     <tr>
-      <th>88</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>bangsamoro autonomous region in muslim mindanao (barmm)</td>
       <td>Stocks</td>
-      <td>32.155</td>
+      <td>15.489</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>89</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>bangsamoro autonomous region in muslim mindanao (barmm)</td>
       <td>Volume</td>
-      <td>2.179</td>
-      <td>0.031</td>
+      <td>-3.117</td>
+      <td>0.006</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>90</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>bangsamoro autonomous region in muslim mindanao (barmm)</td>
       <td>Area Harvested</td>
-      <td>0.772</td>
-      <td>0.441</td>
-      <td>Does not exist</td>
+      <td>-7.454</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
     </tr>
     <tr>
-      <th>91</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>bangsamoro autonomous region in muslim mindanao (barmm)</td>
       <td>SU Gross Supply</td>
-      <td>29.572</td>
+      <td>17.357</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>92</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>bangsamoro autonomous region in muslim mindanao (barmm)</td>
       <td>UT Consumable</td>
-      <td>36.641</td>
+      <td>23.683</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>93</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>bangsamoro autonomous region in muslim mindanao (barmm)</td>
       <td>Farmgate Price</td>
-      <td>14.296</td>
+      <td>9.524</td>
       <td>&lt;0.001</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>94</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>bangsamoro autonomous region in muslim mindanao (barmm)</td>
       <td>Wholesale Price</td>
-      <td>18.131</td>
-      <td>&lt;0.001</td>
+      <td>3.990</td>
+      <td>0.002</td>
       <td>Exists</td>
     </tr>
     <tr>
-      <th>95</th>
       <td>Rice</td>
       <td>Corn</td>
-      <td>Geolocation</td>
+      <td>bangsamoro autonomous region in muslim mindanao (barmm)</td>
       <td>Retail Price</td>
-      <td>25.410</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>96</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Stocks</td>
-      <td>32.155</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>97</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Volume</td>
-      <td>2.179</td>
-      <td>0.031</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>98</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Area Harvested</td>
-      <td>0.772</td>
-      <td>0.441</td>
-      <td>Does not exist</td>
-    </tr>
-    <tr>
-      <th>99</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>SU Gross Supply</td>
-      <td>29.572</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>100</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>UT Consumable</td>
-      <td>36.641</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>101</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Farmgate Price</td>
-      <td>14.296</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>102</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Wholesale Price</td>
-      <td>18.131</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>103</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Retail Price</td>
-      <td>25.410</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>104</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Stocks</td>
-      <td>32.155</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>105</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Volume</td>
-      <td>2.179</td>
-      <td>0.031</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>106</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Area Harvested</td>
-      <td>0.772</td>
-      <td>0.441</td>
-      <td>Does not exist</td>
-    </tr>
-    <tr>
-      <th>107</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>SU Gross Supply</td>
-      <td>29.572</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>108</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>UT Consumable</td>
-      <td>36.641</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>109</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Farmgate Price</td>
-      <td>14.296</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>110</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Wholesale Price</td>
-      <td>18.131</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>111</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Retail Price</td>
-      <td>25.410</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>112</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Stocks</td>
-      <td>32.155</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>113</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Volume</td>
-      <td>2.179</td>
-      <td>0.031</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>114</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Area Harvested</td>
-      <td>0.772</td>
-      <td>0.441</td>
-      <td>Does not exist</td>
-    </tr>
-    <tr>
-      <th>115</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>SU Gross Supply</td>
-      <td>29.572</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>116</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>UT Consumable</td>
-      <td>36.641</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>117</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Farmgate Price</td>
-      <td>14.296</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>118</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Wholesale Price</td>
-      <td>18.131</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>119</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Retail Price</td>
-      <td>25.410</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>120</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Stocks</td>
-      <td>32.155</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>121</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Volume</td>
-      <td>2.179</td>
-      <td>0.031</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>122</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Area Harvested</td>
-      <td>0.772</td>
-      <td>0.441</td>
-      <td>Does not exist</td>
-    </tr>
-    <tr>
-      <th>123</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>SU Gross Supply</td>
-      <td>29.572</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>124</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>UT Consumable</td>
-      <td>36.641</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>125</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Farmgate Price</td>
-      <td>14.296</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>126</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Wholesale Price</td>
-      <td>18.131</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
-    </tr>
-    <tr>
-      <th>127</th>
-      <td>Rice</td>
-      <td>Corn</td>
-      <td>Geolocation</td>
-      <td>Retail Price</td>
-      <td>25.410</td>
-      <td>&lt;0.001</td>
-      <td>Exists</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>Inconclusive</td>
     </tr>
   </tbody>
 </table>
