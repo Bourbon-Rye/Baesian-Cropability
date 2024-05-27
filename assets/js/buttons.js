@@ -1,6 +1,7 @@
 var btn = document.querySelectorAll(".primary");
 var modals = document.querySelectorAll('.modal');
 var X = document.getElementsByClassName("button-round close");
+var exit = document.getElementsByClassName("close-text");
 var menu = document.getElementById("menu");
 
 
@@ -16,6 +17,14 @@ for (var i = 0; i < btn.length; i++) {
 // When the user clicks on(x), close the modal
 for (var i = 0; i < X.length; i++) {
     X[i].onclick = function() {
+        for (var index in modals) {
+            if (typeof modals[index].style !== 'undefined') modals[index].style.display = "none";
+        }
+    }
+}
+
+for (var i = 0; i < X.length; i++) {
+    exit[i].onclick = function() {
         for (var index in modals) {
             if (typeof modals[index].style !== 'undefined') modals[index].style.display = "none";
         }
