@@ -604,3 +604,70 @@ for (z = 0; z < coll.length; z++) {
     } 
   });
 }
+
+let lastClickTime = Date.now();
+const switchgraph = document.getElementById("switch");
+const switchrice = document.getElementsByClassName("plotly-graph-div rice");
+const switchcorn = document.getElementsByClassName("plotly-graph-div corn");
+const ricecap = document.getElementsByClassName("caption rice");
+const corncap = document.getElementsByClassName("caption corn");
+var k;
+
+switchgraph.addEventListener("click", function(e) {
+    const now = Date.now();
+        if(now-lastClickTime<50){
+            //e.preventDefault();
+            //e.stopPropagation();
+            return;
+        }
+    lastClickTime = now;
+
+    for (k = 0; k < switchrice.length; k++){
+        if (switchrice[k].classList.contains('visible')){
+            switchrice[k].classList.remove('visible');
+            switchrice[k].classList.add('hidden');
+            switchrice[k].classList.remove('current');
+            switchrice[k].classList.add('hide');
+
+            ricecap[k].classList.remove('visible');
+            ricecap[k].classList.add('hidden');
+            ricecap[k].classList.remove('current');
+            ricecap[k].classList.add('hide');
+
+            switchcorn[k].classList.remove('hidden');
+            switchcorn[k].classList.add('visible');
+            switchcorn[k].classList.remove('hide');
+            switchcorn[k].classList.add('current');
+
+            corncap[k].classList.remove('hidden');
+            corncap[k].classList.add('visible');
+            corncap[k].classList.remove('hide');
+            corncap[k].classList.add('current');
+        }
+        else{
+            switchrice[k].classList.add('visible');
+            switchrice[k].classList.remove('hidden');
+            switchrice[k].classList.add('current');
+            switchrice[k].classList.remove('hide');
+
+            ricecap[k].classList.add('visible');
+            ricecap[k].classList.remove('hidden');
+            ricecap[k].classList.add('current');
+            ricecap[k].classList.remove('hide');
+
+            switchcorn[k].classList.add('hidden');
+            switchcorn[k].classList.remove('visible');
+            switchcorn[k].classList.add('hide');
+            switchcorn[k].classList.remove('current');
+
+            corncap[k].classList.add('hidden');
+            corncap[k].classList.remove('visible');
+            corncap[k].classList.add('hide');
+            corncap[k].classList.remove('current');
+        }
+    }
+});
+
+
+
+

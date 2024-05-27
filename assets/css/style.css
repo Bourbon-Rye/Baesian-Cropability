@@ -67,6 +67,13 @@ p3 {
     text-align: center;
 }
 
+p4{
+    font-size: 12px;
+    line-height: 0%;
+    font-weight: 400;
+    text-align: center;
+}
+
 p {
     font-size: 18px;
     font-weight: 400;
@@ -176,10 +183,11 @@ a:hover {
 }
 
 #switch {
-    position: fixed;
-    z-index: 888;
-    bottom: 20px;
-    right: 20px;
+    display: block;
+    position: relative;
+    width: 72px;
+    height: 48px;
+    left: 335px;
 }
 
 #switch input {
@@ -510,5 +518,21 @@ input:checked~#sun {
     color: white;
     position: fixed;
     z-index: 999;
+    /*display: none;*/
+}
+
+.current{
+    height: 100%;
+    width: 700px;
+    opacity: 1;
+    /*transition: height 0ms 0ms, opacity 400ms 0ms;*/
+    /*display: block;*/
+}
+
+.hide{
+    overflow: hidden;
+    height: 0;
+    opacity: 0;
+    /*transition: height 0ms 400ms, 400ms 0ms;*/
     /*display: none;*/
 }
