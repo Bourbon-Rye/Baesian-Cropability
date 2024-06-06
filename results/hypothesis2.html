@@ -1,433 +1,405 @@
-<style>
-  * {
-    font-family: 'Space Grotesk', sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
-  tr {color: white;
-      text-align: center;}
-  table {
-    font-size: 14px;
-    overflow: hidden;
-  }
-  ::-webkit-scrollbar {
-  width: 10px;
-  }
-
-  /* Track */
-  ::-webkit-scrollbar-track {
-    background: #202020; 
-  }
-  
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
-    background: #612828; 
-  }
-
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-    background: #612828; 
-  }
-</style>
-
-         <table cellspacing="0" cellpadding="1" border="1" width="650" >
-          <tr style="color:white; background-color:#612828; text-align: center;">
-            <th>AgriIndicator</th>
-            <th>MarketIndicator</th>
-            <th>r-stat</th>
-            <th>p-value</th>
-            <th>SigRel</th>
-         </tr>
-           <tr>
-            <td>Stocks</td>
-            <td>Farmgate Price</td>
-            <td>0.686</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Stocks</td>
-            <td>Wholesale Price</td>
-            <td>0.780</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Stocks</td>
-            <td>Retail Price</td>
-            <td>0.829</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Stocks</td>
-            <td>CPI All Income</td>
-            <td>0.061</td>
-            <td>0.405</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>Stocks</td>
-            <td>CPI Bottom 30</td>
-            <td>0.203</td>
-            <td>0.005</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Stocks</td>
-            <td>Net Returns</td>
-            <td>0.182</td>
-            <td>0.012</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Stocks</td>
-            <td>Inflation Rate</td>
-            <td>-0.208</td>
-            <td>0.004</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Stocks</td>
-            <td>NCR RPI</td>
-            <td>0.108</td>
-            <td>0.14</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>Volume</td>
-            <td>Farmgate Price</td>
-            <td>-0.062</td>
-            <td>0.401</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>Volume</td>
-            <td>Wholesale Price</td>
-            <td>-0.082</td>
-            <td>0.262</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>Volume</td>
-            <td>Retail Price</td>
-            <td>-0.030</td>
-            <td>0.684</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>Volume</td>
-            <td>CPI All Income</td>
-            <td>0.083</td>
-            <td>0.256</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>Volume</td>
-            <td>CPI Bottom 30</td>
-            <td>0.064</td>
-            <td>0.383</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>Volume</td>
-            <td>Net Returns</td>
-            <td>0.145</td>
-            <td>0.048</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Volume</td>
-            <td>Inflation Rate</td>
-            <td>0.017</td>
-            <td>0.82</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>Volume</td>
-            <td>NCR RPI</td>
-            <td>0.038</td>
-            <td>0.604</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>Area Harvested</td>
-            <td>Farmgate Price</td>
-            <td>-0.131</td>
-            <td>0.073</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>Area Harvested</td>
-            <td>Wholesale Price</td>
-            <td>-0.151</td>
-            <td>0.039</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Area Harvested</td>
-            <td>Retail Price</td>
-            <td>-0.080</td>
-            <td>0.274</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>Area Harvested</td>
-            <td>CPI All Income</td>
-            <td>0.077</td>
-            <td>0.293</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>Area Harvested</td>
-            <td>CPI Bottom 30</td>
-            <td>0.054</td>
-            <td>0.46</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>Area Harvested</td>
-            <td>Net Returns</td>
-            <td>0.098</td>
-            <td>0.179</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>Area Harvested</td>
-            <td>Inflation Rate</td>
-            <td>0.010</td>
-            <td>0.897</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>Area Harvested</td>
-            <td>NCR RPI</td>
-            <td>0.022</td>
-            <td>0.769</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>Self-Sufficiency Ratio</td>
-            <td>Farmgate Price</td>
-            <td>-0.169</td>
-            <td>0.02</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Self-Sufficiency Ratio</td>
-            <td>Wholesale Price</td>
-            <td>-0.374</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Self-Sufficiency Ratio</td>
-            <td>Retail Price</td>
-            <td>-0.366</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Self-Sufficiency Ratio</td>
-            <td>CPI All Income</td>
-            <td>-0.334</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Self-Sufficiency Ratio</td>
-            <td>CPI Bottom 30</td>
-            <td>-0.254</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Self-Sufficiency Ratio</td>
-            <td>Net Returns</td>
-            <td>0.114</td>
-            <td>0.12</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>Self-Sufficiency Ratio</td>
-            <td>Inflation Rate</td>
-            <td>-0.220</td>
-            <td>0.002</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Self-Sufficiency Ratio</td>
-            <td>NCR RPI</td>
-            <td>-0.750</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Import-Dependency Ratio</td>
-            <td>Farmgate Price</td>
-            <td>0.171</td>
-            <td>0.019</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Import-Dependency Ratio</td>
-            <td>Wholesale Price</td>
-            <td>0.375</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Import-Dependency Ratio</td>
-            <td>Retail Price</td>
-            <td>0.367</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Import-Dependency Ratio</td>
-            <td>CPI All Income</td>
-            <td>0.334</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Import-Dependency Ratio</td>
-            <td>CPI Bottom 30</td>
-            <td>0.255</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Import-Dependency Ratio</td>
-            <td>Net Returns</td>
-            <td>-0.112</td>
-            <td>0.125</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>Import-Dependency Ratio</td>
-            <td>Inflation Rate</td>
-            <td>0.221</td>
-            <td>0.002</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>Import-Dependency Ratio</td>
-            <td>NCR RPI</td>
-            <td>0.749</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>SU Gross Supply</td>
-            <td>Farmgate Price</td>
-            <td>0.687</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>SU Gross Supply</td>
-            <td>Wholesale Price</td>
-            <td>0.834</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>SU Gross Supply</td>
-            <td>Retail Price</td>
-            <td>0.852</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>SU Gross Supply</td>
-            <td>CPI All Income</td>
-            <td>0.121</td>
-            <td>0.099</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>SU Gross Supply</td>
-            <td>CPI Bottom 30</td>
-            <td>0.217</td>
-            <td>0.003</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>SU Gross Supply</td>
-            <td>Net Returns</td>
-            <td>0.112</td>
-            <td>0.125</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>SU Gross Supply</td>
-            <td>Inflation Rate</td>
-            <td>0.134</td>
-            <td>0.066</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>SU Gross Supply</td>
-            <td>NCR RPI</td>
-            <td>0.395</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>UT Consumable</td>
-            <td>Farmgate Price</td>
-            <td>0.690</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>UT Consumable</td>
-            <td>Wholesale Price</td>
-            <td>0.823</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>UT Consumable</td>
-            <td>Retail Price</td>
-            <td>0.840</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>UT Consumable</td>
-            <td>CPI All Income</td>
-            <td>0.047</td>
-            <td>0.519</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>UT Consumable</td>
-            <td>CPI Bottom 30</td>
-            <td>0.156</td>
-            <td>0.033</td>
-            <td>Exists</td>
-          </tr>
-          <tr>
-            <td>UT Consumable</td>
-            <td>Net Returns</td>
-            <td>0.104</td>
-            <td>0.154</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>UT Consumable</td>
-            <td>Inflation Rate</td>
-            <td>0.142</td>
-            <td>0.052</td>
-            <td>Does not exist</td>
-          </tr>
-          <tr>
-            <td>UT Consumable</td>
-            <td>NCR RPI</td>
-            <td>0.322</td>
-            <td>&lt;0.001</td>
-            <td>Exists</td>
-          </tr>
-          </table>  
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>AgriIndicator</th>
+      <th>MarketIndicator</th>
+      <th>r-stat</th>
+      <th>p-value</th>
+      <th>SigRel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stocks</td>
+      <td>Farmgate Price</td>
+      <td>0.686</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Stocks</td>
+      <td>Wholesale Price</td>
+      <td>0.780</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Stocks</td>
+      <td>Retail Price</td>
+      <td>0.829</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Stocks</td>
+      <td>CPI All Income</td>
+      <td>0.061</td>
+      <td>0.405</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>Stocks</td>
+      <td>CPI Bottom 30</td>
+      <td>0.203</td>
+      <td>0.005</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Stocks</td>
+      <td>Net Returns</td>
+      <td>0.182</td>
+      <td>0.012</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Stocks</td>
+      <td>Inflation Rate</td>
+      <td>-0.208</td>
+      <td>0.004</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Stocks</td>
+      <td>NCR RPI</td>
+      <td>0.108</td>
+      <td>0.14</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>Volume</td>
+      <td>Farmgate Price</td>
+      <td>-0.062</td>
+      <td>0.401</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>Volume</td>
+      <td>Wholesale Price</td>
+      <td>-0.082</td>
+      <td>0.262</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>Volume</td>
+      <td>Retail Price</td>
+      <td>-0.030</td>
+      <td>0.684</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>Volume</td>
+      <td>CPI All Income</td>
+      <td>0.083</td>
+      <td>0.256</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>Volume</td>
+      <td>CPI Bottom 30</td>
+      <td>0.064</td>
+      <td>0.383</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>Volume</td>
+      <td>Net Returns</td>
+      <td>0.145</td>
+      <td>0.048</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Volume</td>
+      <td>Inflation Rate</td>
+      <td>0.017</td>
+      <td>0.82</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>Volume</td>
+      <td>NCR RPI</td>
+      <td>0.038</td>
+      <td>0.604</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>Area Harvested</td>
+      <td>Farmgate Price</td>
+      <td>-0.131</td>
+      <td>0.073</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>Area Harvested</td>
+      <td>Wholesale Price</td>
+      <td>-0.151</td>
+      <td>0.039</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Area Harvested</td>
+      <td>Retail Price</td>
+      <td>-0.080</td>
+      <td>0.274</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>Area Harvested</td>
+      <td>CPI All Income</td>
+      <td>0.077</td>
+      <td>0.293</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>Area Harvested</td>
+      <td>CPI Bottom 30</td>
+      <td>0.054</td>
+      <td>0.46</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>Area Harvested</td>
+      <td>Net Returns</td>
+      <td>0.098</td>
+      <td>0.179</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>Area Harvested</td>
+      <td>Inflation Rate</td>
+      <td>0.010</td>
+      <td>0.897</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>Area Harvested</td>
+      <td>NCR RPI</td>
+      <td>0.022</td>
+      <td>0.769</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>Self-Sufficiency Ratio</td>
+      <td>Farmgate Price</td>
+      <td>-0.169</td>
+      <td>0.02</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Self-Sufficiency Ratio</td>
+      <td>Wholesale Price</td>
+      <td>-0.374</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Self-Sufficiency Ratio</td>
+      <td>Retail Price</td>
+      <td>-0.366</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Self-Sufficiency Ratio</td>
+      <td>CPI All Income</td>
+      <td>-0.334</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Self-Sufficiency Ratio</td>
+      <td>CPI Bottom 30</td>
+      <td>-0.254</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Self-Sufficiency Ratio</td>
+      <td>Net Returns</td>
+      <td>0.114</td>
+      <td>0.12</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>Self-Sufficiency Ratio</td>
+      <td>Inflation Rate</td>
+      <td>-0.220</td>
+      <td>0.002</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Self-Sufficiency Ratio</td>
+      <td>NCR RPI</td>
+      <td>-0.750</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Import-Dependency Ratio</td>
+      <td>Farmgate Price</td>
+      <td>0.171</td>
+      <td>0.019</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Import-Dependency Ratio</td>
+      <td>Wholesale Price</td>
+      <td>0.375</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Import-Dependency Ratio</td>
+      <td>Retail Price</td>
+      <td>0.367</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Import-Dependency Ratio</td>
+      <td>CPI All Income</td>
+      <td>0.334</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Import-Dependency Ratio</td>
+      <td>CPI Bottom 30</td>
+      <td>0.255</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Import-Dependency Ratio</td>
+      <td>Net Returns</td>
+      <td>-0.112</td>
+      <td>0.125</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>Import-Dependency Ratio</td>
+      <td>Inflation Rate</td>
+      <td>0.221</td>
+      <td>0.002</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>Import-Dependency Ratio</td>
+      <td>NCR RPI</td>
+      <td>0.749</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>SU Gross Supply</td>
+      <td>Farmgate Price</td>
+      <td>0.687</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>SU Gross Supply</td>
+      <td>Wholesale Price</td>
+      <td>0.834</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>SU Gross Supply</td>
+      <td>Retail Price</td>
+      <td>0.852</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>SU Gross Supply</td>
+      <td>CPI All Income</td>
+      <td>0.121</td>
+      <td>0.099</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>SU Gross Supply</td>
+      <td>CPI Bottom 30</td>
+      <td>0.217</td>
+      <td>0.003</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>SU Gross Supply</td>
+      <td>Net Returns</td>
+      <td>0.112</td>
+      <td>0.125</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>SU Gross Supply</td>
+      <td>Inflation Rate</td>
+      <td>0.134</td>
+      <td>0.066</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>SU Gross Supply</td>
+      <td>NCR RPI</td>
+      <td>0.395</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>UT Consumable</td>
+      <td>Farmgate Price</td>
+      <td>0.690</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>UT Consumable</td>
+      <td>Wholesale Price</td>
+      <td>0.823</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>UT Consumable</td>
+      <td>Retail Price</td>
+      <td>0.840</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>UT Consumable</td>
+      <td>CPI All Income</td>
+      <td>0.047</td>
+      <td>0.519</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>UT Consumable</td>
+      <td>CPI Bottom 30</td>
+      <td>0.156</td>
+      <td>0.033</td>
+      <td>Exists</td>
+    </tr>
+    <tr>
+      <td>UT Consumable</td>
+      <td>Net Returns</td>
+      <td>0.104</td>
+      <td>0.154</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>UT Consumable</td>
+      <td>Inflation Rate</td>
+      <td>0.142</td>
+      <td>0.052</td>
+      <td>Does not exist</td>
+    </tr>
+    <tr>
+      <td>UT Consumable</td>
+      <td>NCR RPI</td>
+      <td>0.322</td>
+      <td>&lt;0.001</td>
+      <td>Exists</td>
+    </tr>
+  </tbody>
+</table>
