@@ -350,6 +350,23 @@ gltfLoader.load(
         scene.add(mhuman2);
     });
 
+var stage;
+gltfLoader.load(
+    './assets/js/models/stage.glb',
+    function(gltf) {
+        console.log('loading model');
+        console.log(gltf.scene.children)
+        stage = gltf.scene;
+
+        gltf.scene.traverse(function(node) {
+            if (node.isMesh) {
+                node.castShadow = true;
+                node.receiveShadow = true;
+            }
+        });
+        scene.add(stage);
+    });
+
 
 // Camera
 const camera = new THREE.PerspectiveCamera(64, sizes.width / sizes.height, 1, 90);
