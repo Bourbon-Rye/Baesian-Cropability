@@ -216,54 +216,60 @@
 
 		<button class="collapsible">Data Gathering</button>
 			<div class="contentcollapse">
-				<p2>The team gathered most of the dataset from the database maintained by the <strong style="color:red">Philippine Statistical Authority (PSA)</strong>. The data were collected from various time period with a union of 1987-2023, but upon merging via inner join, the intersection of the time periods leave us at 2012-2021, but as we'll see, select visualizations have been extended unto 2023.</p2>
+				<p2>The team gathered most of the required data from the database maintained by the <strong style="color:red">Philippine Statistical Authority (PSA)</strong>. Various datasets were collected with varying temporal (i.e. Period or Datetime) granularity and range (with a unified range of 1994-2023). However, due to granularity issues, only the annualized range 2012-2023 were used for hypothesis testing, but the entire 1994-2023 range is still used for machine learning as detailed later.</p2>
 				<br><br>
 				<p2>To autonomously gather the data from PSA, the team developed scrapers using Mechanical Soup.</p2>
 				<br><br>
-				<p2>Due to the limitations of the scraper, the team also developed a program to compile the fragmented datasets into one with the help of Pandas.</p2>
+				<p2>Due to the limitations of the scraper, the team also developed a program to compile fragmented datasets into one with the help of Pandas.</p2>
 			</div>
 		
 		<button class="collapsible">Preprocessing</button>
 			<div class="contentcollapse">
 				<p2>You begin to sanitize and standardize the data you've collected:</p2>
-				<br><br>
+				<br>
 				<p2 style="display: list-item; margin-left: 20px;">For proper format consistency, Year and Months column were properly arranged in chronological order. Additionally, textcases for some elements were fixed.</strong></p2>
-				<br><br>
-				<p2 style="display: list-item; margin-left: 20px;">Converted and validated all ".." and 0 elements to blank representations.</p2>
-				<br><br>
-				<p2 style="display: list-item; margin-left: 20px;">Removed columns such as, "Annual" and "Average", that can be derived from current data to reduce dataset size.</p2>
-				<br><br>
-				<p2 style="display: list-item; margin-left: 20px;">Region-Province relationships were derived and kept into a separate file.</p2>
-			</div>
+				<br>
+				<p2 style="display: list-item; margin-left: 20px;">Converted and validated all ".." and 0 elements to blank representations for easy NA representation.</p2>
+				<br>
+				<p2 style="display: list-item; margin-left: 20px;">Removed columns such as "Annual" and "Average" that can be derived from current data to reduce data clutter.</p2>
+				<br>
+				<p2 style="display: list-item; margin-left: 20px;">Region-Province relationships were derived and kept into a separate file, and multiple region name corrections had to be done (e.g. ARMM vs BARMM).</p2>
+                <br>
+                <p2 style="display: list-item; margin-left: 20px;">Aside from geolocation naming issues, bad and non-standard commodity names and period names (e.g. abbreviated months vs. full months) also had to be fixed.</p2>
+                <br>
+                <p2 style="display: list-item; margin-left: 20px;">Period values standardized to the range 1994-2023, either Yearly, Quarterly, or Monthly (Yearly is where most the datasets intersect, hence it is used for hypothesis testing). Reduced number of features however are used for machine learning, hence allowing 1994-2023 Quarterly and Monthly to be used.</p2>
+            </div>
 
 		<button class="collapsible">Processed Features</button>
 			<div class="contentcollapse">
-				<p2><em>The following are collected agricultural and socioeconomic indicators to be used as features.</em></p2>
+				<p2><em>The following cereal crops are the main focus of this study. Given are some fun facts about them.</em></p2>
 				<br><br>
 				<p2><span style="color: red;">Crops:</span></p2>
 				<br>
-				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Rice</span> - The country is the 8th-largest rice producer in the world. However, rice is the 3rd most imported agricultural item of the country</p2>
-				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Corn</span> - It is second most important crop in the country. Sweet corn is a staple treat and even sought out in other countries. </p2>
+				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Rice</span> - The country is the 8th largest rice producer in the world. However, rice is the Philippines' 3rd largest agricultural import, meaning our nation is still struggling with agricultural self-sufficiency.</p2>
+				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Corn</span> - This is the second most important crop in the country. Sweet corn is a staple treat for Filipinos and its grains are also an important feed for livestock. </p2>
 				<br><br>
-
+                
+                <p2><em>The following are the collected agricultural and socioeconomic indicators to be used as features.</em></p2>
+                <br><br>
 				<p2><span style="color: red;">Agricultural Indicators:</span></p2>
 				<br>
-				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Stocks</span> - Stock supply stored for future use</p2>
-				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Volume</span> - Total quantity of a crop produced and harvested, including portions damaged, stolen, given away, consumed, or reserved</p2>
-				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Area Harvested </span>- Actual area from which crops are harvested, excluding totally damaged areas</p2> 
-				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Self-Sufficiency Ratio</span> - Measures the extent to which a country's domestic production meets its domestic utilization</p2>
-				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Import-Dependency Ratio</span> - Measures the extent to which a country relies on imports to meet its domestic consumption needs for crops</p2> 
-				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">SU Gross Supply</span> - Total quantity of food available before any use, including beginning stocks, production, and imports</p2>
-				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">UT Consumable</span> - Includes the quantities used for seeds, feeds, waste, processing, exports, and the net food available for consumption</p2>
+				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Stocks</span> - Sum of household, commercial, and NFA commodity stocks./p2>
+				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Volume</span> - Total quantity of a crop produced and harvested, including portions damaged, stolen, given away, consumed, or reserved.</p2>
+				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Area Harvested </span>- Actual area from which crops are harvested, excluding totally damaged areas.</p2> 
+				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Self-Sufficiency Ratio</span> - Measures the extent to which a country's domestic production meets its domestic utilization.</p2>
+				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Import-Dependency Ratio</span> - Measures the extent to which a country relies on imports to meet its domestic consumption needs for crops.</p2> 
+				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">SU Gross Supply</span> - Total quantity of food available before any use, including beginning stocks, production, and imports.</p2>
+				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">UT Consumable</span> - Amount of food commodity available in its original (unprocessed) form for human consumption.</p2>
 				<br>
 				<p4>SU = Supply Utilization, UT = Utilization Total</p4>
 				<br><br>
 
 				<p2><span style="color: red;">Socioeconomic Indicators:</span></p2>
 				<br>
-				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Farmgate Price</span> - Price received by farmers for their products</p2> 
-				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Retail Price</span> - Price at which goods are sold to consumers</p2>
-				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Wholesale Price</span> - Price at which goods are sold in large quantities from producers or distributors to retailers</p2>
+				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Farmgate Price</span> - Price received by farmers for their crops (excludes transport and marketing costs).</p2> 
+				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Retail Price</span> - Price at which goods are sold to regular consumers.</p2>
+				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Wholesale Price</span> - Price at which goods are sold in large quantities from producers or distributors to retailers.</p2>
 				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">CPI All Income</span> - Change in average retail prices of a fixed basket of goods and services purchased by all households compared to a base year</p2>
 				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">CPI Bottom 30</span> - Change in average retail prices of a fixed basket of goods and services purchased by the lowest income 30% of households compared to a base year</p2>
 				<p2 style="display: list-item; margin-left: 20px;"><span style="font-weight: bold;">Net Returns</span> - Commodity total production costs (cash and non-cash) minus total revenue from commodity</p2>
